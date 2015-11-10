@@ -68,6 +68,7 @@ for key in fastaIDArray:
 		target.write(key)
 		target.write("\n")
 		target.write(dict[key][0])
+		target.write("\n")
 target.close()
 
 
@@ -107,6 +108,7 @@ for key in fastaIDArray:
 		target.write(key)
 		target.write("\n")
 		target.write(dict[key][0])
+		target.write("\n")
 
 
 target.close()
