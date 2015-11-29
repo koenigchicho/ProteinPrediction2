@@ -3,29 +3,25 @@
 import os
 import sys
 
-dirHome = "./"
-outFileName = ""
-dirServer = "/mnt/project/tmhpred/willbebig/snap2/"
 
 try:
  	opts, args = getopt.getopt(argv,"hdir:o:",["directory=","ofile=","help="])
 except getopt.GetoptError:
- 	print 'extractData.py -dir <homeDirectory> -o <outputfile>'
+ 	print 'getKeys.py -dir <homeDirectory> -o <outputfile>'
  	sys.exit(2)
 for opt, arg in opts:
 	if opt in ("-h","--help"):
     	print 'extractData.py -dir <homeDirectory> -o <outputfile>'
     	sys.exit()
 	elif opt in ("-dir", "--directory"):
-    	dirHome = arg
+    	homeDir = arg
 	elif opt in ("-o", "--ofile"):
 		outFileName = arg
 
-#Read every .snap2 file
-filesSnap = os.popen("ls -1 "+dirServer+" | awk '$1 ~ /snap2/ && $1 ~ /UP0/ {print}'").read()
+filesSnap = os.popen("ls -1 /mnt/project/tmhpred/willbebig/snap2/ | awk '$1 ~ /snap2/ && $1 ~ /UP0/ {print}'").read()
 fileSnapArray = filesSnap.split('\n')
 
-out = os.open(dirHome+outFileName,'w',)
+out = os.open('/mnt/home/student/aberatis/outputTest','w',)
 # Map snap2 over Reference Proteome
 print "start match"
 for i,item in enumerate(fileSnapArray):

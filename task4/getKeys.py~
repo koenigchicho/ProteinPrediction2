@@ -5,7 +5,7 @@ import re
 import sys
 
 ######################################################## Get .fasta Files ##################################################################################################
-dirServer = "/mnt/project/tmhpred/willbebig/snap2"
+dir = "/mnt/project/tmhpred/willbebig/snap2"
 
 # To set
 homeDir = "./"
@@ -25,7 +25,7 @@ for opt, arg in opts:
 	elif opt in ("-o", "--ofile"):
 		outFileName = arg
 
-filesSnap = os.popen("ls -1 " + dirServer + " | awk '$1 !~ /snap2/ && $1 ~ /UP0/ {print}'").read()
+filesSnap = os.popen("ls -1 " + dir + " | awk '$1 !~ /snap2/ && $1 ~ /UP0/ {print}'").read()
 fileSnapArray = filesSnap.split('\n')
 filesSnap.close()
 
