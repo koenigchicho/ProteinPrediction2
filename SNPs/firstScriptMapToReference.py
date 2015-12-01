@@ -25,23 +25,63 @@
 
 import os
 import re
+import sys
+
+filePath = "ftp://ftp.ebi.ac.uk/pub/databases/reference_proteomes/QfO/Eukaryota/UP000005640_9606.fasta.gz"
+flagWget = False
+homeDir = "./"
+snapFileDir = "/mnt/project/tmhpred/willbebig/snap2/"
+
+try:
+ 	opts, args = getopt.getopt(argv,"hwi:dir",["ifile=","help=","wget=","directory="])
+except getopt.GetoptError:
+ 	print 'skript.py -i <input file path> -w[option - file should have .gz extension] -dir <homeDirectory>'
+ 	sys.exit(2)
+for opt, arg in opts:
+	if opt in ("-h","--help"):
+    	print 'skript.py -i <input file with absolute path> -w[option - file should have .gz extension] -dir <homeDirectory>'
+    	sys.exit()
+	elif opt in ("-i", "--ifile"):
+		filePath = arg
+	elif opt in ("-w", "--wget"):
+		flagWget = True
+	elif opt in ("-dir", "--directory"):
+    	homeDir = arg
+	
 
 # Get Reference Proteome file
-filesRef = os.popen("wget -qO- ftp://ftp.ebi.ac.uk/pub/databases/reference_proteomes/QfO/Eukaryota/UP000005640_9606.fasta.gz | gunzip").read()
-fileRefArray = filesRef.split('>')
+fileRefArray = []
+if flagWget == True:
+	filesRef = os.popen("wget -qO- "+hostDir+" | gunzip").read()
+	fileRefArray = filesRef.split('>')
+else:
+	in = open(filePath,'r')
+	
 
 dict = {}
 
 # Build Dictionary for the Reference Proteome file
-for i in fileRefArray:
-	myhash = i.split('\n',1)
-	if(len(myhash) == 2 and len(myhash[0])>0):
-		dict['>'+myhash[0]]=[myhash[1].replace("\n",""),0] 
 
-
+if flagWget == True: # File downloaded via ftp
+	for i in fileRefArray:
+		myhash = i.split('\n',1)
+		if(len(myhash) == 2 and len(myhash[0])>0):
+			dict['>'+myhash[0]]=[myhash[1].replace("\n",""),0] 
+else: # File read via absolute path
+	id = ""
+	seq = ""
+	while in.readline() as aux:
+		if '>' in aux:
+			if len(seq) > 0:
+				dict[id]=[seq,0]
+			id = aux
+			seq = ""
+		else:
+			seq += aux 
+	
 ######################################################## Get .snap2 Files ##################################################################################################
 
-filesSnap = os.popen("ls -1 | awk '$1 ~ /snap2/ && $1 ~ /UP0/ {print}'").read()
+filesSnap = os.popen("ls -1 "+snapFileDir+" | awk '$1 ~ /snap2/ && $1 ~ /UP0/ {print}'").read()
 fileSnapArray = filesSnap.split('\n')
 
 # Map snap2 over Reference Proteome
@@ -57,7 +97,7 @@ for i,item in enumerate(fileSnapArray):
 		
 filesSnap.close()
 
-# Map snap2 over Reference Proteome -Ignore X in reference
+# Map snap2 over Reference Proteome -Ignore X in reference (allow mismatch)
 print "start match"
 for i,item in enumerate(fileSnapArray):
 	if len(item)>0:
@@ -91,7 +131,7 @@ print "Not mapped: " + str(dimRefProteome - len(fastaIDArray))
 
 #### Print into File the mapped reference proteome (only for .SNAP2)#####
 
-target = open('/mnt/home/student/mgiurgiu/protein_prediction/ProteinPrediction2/SNPs/mappedRefProteome.fasta','w')
+target = open(homeDir + str(time.time())+"mappedRefProteomeAllowMismatchX.fasta','w')
 for key in fastaIDArray:
 	if dict[key][1]>0:
 		target.write(key)
@@ -102,7 +142,7 @@ for key in fastaIDArray:
 target.close()
 
 
-target = open('/mnt/home/student/mgiurgiu/protein_prediction/ProteinPrediction2/SNPs/mappedRefProteome_keys.fasta','w')
+target = open(homeDir + str(time.time()) + 'mappedRefProteome_keys.fasta','w')
 for key in fastaIDArray:
 	target.write(key)
 	target.write("\n")
