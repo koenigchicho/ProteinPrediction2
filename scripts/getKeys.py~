@@ -27,7 +27,7 @@ for opt, arg in opts:
 	elif opt in ("-d", "--homeDir"):
 		homeDir = arg
 
-target = open(homeDir+"/keys"+str(time.time())+".fasta",'w')
+target = open(homeDir+"/keys.fasta" + str(time.time()),'w')
 infile = open(inFileName,'r')
 for header in infile:
 	if len(header)>0:

@@ -8,7 +8,7 @@ import getopt
 
 # To set
 inputKeyFile = ""
-outFileName = "countKeywordsDataFile"
+outFileName = "countKeywordsDataFile.out"
 homeDir = ""
 
 try:
@@ -57,9 +57,8 @@ for k in keywordsDict:
 
 writeFile.close()	
 
-outFileName = homeDir + "/" + outFileName + str(time.time()) + ".out"
-os.popen("cat "+outCountKeysFile+" | sort -k2 -n | tail -10 > " + outFileName)
-os.popen("cat "+outCountKeysFile+" | awk '{s+=$2} END {print \"Others\t\"s}' >> " + outFileName) 
+os.popen("cat "+outCountKeysFile+" | sort -k2 -n | tail -10 > " + outCountKeysFile)
+os.popen("cat "+outCountKeysFile+" | awk '{s+=$2} END {print \"Others\t\"s}' >> " + outCountKeysFile) 
 
 
 

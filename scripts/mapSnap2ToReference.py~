@@ -95,7 +95,7 @@ print "Not mapped: " + str(dimRefProteome - len(fastaIDArray))
 
 #### Print into File the mapped reference proteome (only for .SNAP2)#####
 
-target = open(homeDir + '/mappedRefProteome'+str(time.time())+'.fasta','w')
+target = open(homeDir + '/mappedRefProteome.fasta'+str(time.time()),'w')
 for key in fastaIDArray:
 	if dict[key][1]>0:
 		target.write(key)
@@ -106,7 +106,7 @@ for key in fastaIDArray:
 target.close()
 
 
-target = open(homeDir + '/mappedRefProteome_headers'+str(time.time())+'.fasta','w')
+target = open(homeDir + '/mappedRefProteome_headers.fasta'+str(time.time()),'w')
 for key in fastaIDArray:
 	target.write(key)
 	target.write("\n")
