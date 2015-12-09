@@ -1,4 +1,4 @@
-#!/usr/bin/Python
+#!/usr/bin/python2.7
 # Compute Top 10 keys for the given Primary ACC 
 
 import os
@@ -35,17 +35,19 @@ os.popen("cut -f 2- "+ inputKeyFile +" | tail -n +2 > " + out)
 
 # Dictionary with keywords
 keywordsDict = {}
-
+countTotal = 0
 file = open(out,'r')
 
 for line in file:
 	lineArray = line.split(";")
 	for k in lineArray:
 		if len(k) > 0:
+			countTotal += 1
 			if k in keywordsDict:
 				keywordsDict[k] +=1
 			else:
 				keywordsDict[k] = 1
+				
 
 file.close()
 
@@ -53,13 +55,13 @@ file.close()
 outCountKeysFile  = homeDir +"/aux" + str(time.time()) 
 writeFile = open(outCountKeysFile,'w')
 for k in keywordsDict:
-	writeFile.write(k+"\t"+str(keywordsDict[k])+"\n")
-
+	a = float(keywordsDict[k])/countTotal
+	writeFile.write(k+"\t"+str(keywordsDict[k]) + "\t" + str("%.6f" % a)+"\n")
 writeFile.close()	
 
 outFileName = homeDir + "/" + outFileName + str(time.time()) + ".out"
 os.popen("cat "+outCountKeysFile+" | sort -k2 -n | tail -10 > " + outFileName)
-os.popen("cat "+outCountKeysFile+" | awk '{s+=$2} END {print \"Others\t\"s}' >> " + outFileName) 
+os.popen("cat "+outCountKeysFile+" | awk '{s+=$2} END {print \"Others\t\"s\"\t\"s/" + str(countTotal) + "}' >> " + outFileName) 
 
 
 
