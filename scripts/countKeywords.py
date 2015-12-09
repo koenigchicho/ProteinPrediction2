@@ -39,8 +39,10 @@ countTotal = 0
 file = open(out,'r')
 
 for line in file:
+	line = line.replace("\n","")
 	lineArray = line.split(";")
 	for k in lineArray:
+		k = k.strip()
 		if len(k) > 0:
 			countTotal += 1
 			if k in keywordsDict:
@@ -56,12 +58,12 @@ outCountKeysFile  = homeDir +"/aux" + str(time.time())
 writeFile = open(outCountKeysFile,'w')
 for k in keywordsDict:
 	a = float(keywordsDict[k])/countTotal
-	writeFile.write(k+"\t"+str(keywordsDict[k]) + "\t" + str("%.6f" % a)+"\n")
+	print str(len(k)) + " " + k
+	writeFile.write(k + "\t" + str(keywordsDict[k]) + "\t" + str("%.6f" % a)+"\n")
 writeFile.close()	
 
 outFileName = homeDir + "/" + outFileName + str(time.time()) + ".out"
 os.popen("cat "+outCountKeysFile+" | sort -k2 -n | tail -10 > " + outFileName)
 os.popen("cat "+outCountKeysFile+" | awk '{s+=$2} END {print \"Others\t\"s\"\t\"s/" + str(countTotal) + "}' >> " + outFileName) 
-
 
 
