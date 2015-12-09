@@ -1,0 +1,12 @@
+Human Keywords,,,,Escherichia coli,,,Arabidopsis thaliana,,,,,,,Escherichia coli,,,,,
+Strong effect,,Strong neutral,,Background,,,Strong effect,,Strong neutral,,Background,,,Strong effect,,Strong neutral,,Background,
+Polymorphism,"4,08%",Polymorphism,"7,98%",Polymorphism,"5,47%",,Signal,"5,30%",Membrane,"3,19%",Membrane,"3,95%",,3D-structure,"4,02%",3D-structure,"4,20%",3D-structure,"4,54%"
+Signal,"3,47%",Phosphoprotein,"6,55%",Phosphoprotein,"3,41%",,Membrane,"3,97%",Transmembrane,"2,60%",Transmembrane,"3,37%",,Membrane,"3,45%",Membrane,"3,64%",Membrane,"3,96%"
+Membrane,"2,91%",Cytoplasm,"3,85%",Membrane,"3,22%",,Transmembrane,"3,75%",Nucleus,"2,15%",Signal,"2,26%",,Transmembrane,"2,87%",Signal,"3,08%",Transmembrane,"3,17%"
+Transmembrane,"2,61%",Nucleus,"3,19%",3D-structure,"2,56%",,Secreted,"2,98%",Signal,"2,05%",Nucleus,"2,02%",,Ribonucleoprotein,"1,72%",Transmembrane,"3,08%",Transport,"2,45%"
+Phosphoprotein,"2,22%",Cytoskeleton,"2,16%",Transmembrane,"2,38%",,Antimicrobial,"1,84%",Metal-binding,"1,64%",Metal-binding,"1,85%",,Signal,"1,72%",Repeat,"2,24%",Cytoplasm,"2,14%"
+Secreted,"2,05%",Repeat,"2,02%",Nucleus,"2,33%",,Fungicide,"1,84%",DNA-binding,"1,46%",Transferase,"1,85%",,Cytoplasm,"1,15%",Transport,"2,24%",Metal-binding,"2,06%"
+Acetylation,"2,03%",Membrane,"1,62%",Repeat,"2,25%",,Metal-binding,"0,92%",Repeat,"1,32%",Repeat,"1,81%",,DNA-binding,"1,15%",Periplasm,"1,40%",Transferase,"1,90%"
+3D-structure,"1,94%",Transcription,"1,08%",Cytoplasm,"2,14%",,Nucleus,"0,92%",Transcription,"1,32%",Hydrolase,"1,54%",,Toxin,"0,57%",Cytoplasm,"1,12%",Signal,"1,63%"
+Nucleus,"1,80%",Metal-binding,"0,85%",Glycoprotein,"2,07%",,Repeat,"0,92%",Zinc,"1,00%",Nucleotide-binding,"1,42%",,Transcription,"0,57%",Hydrolase,"1,12%",Nucleotide-binding,"1,62%"
+Repeat,"1,22%",Zinc,"0,70%",Signal,"1,67%",,Transport,"0,92%",Phosphoprotein,"0,96%",ATP-binding,"1,25%",,tRNA-binding,"0,57%",Nucleotide-binding,"1,12%",Hydrolase,"1,57%"
