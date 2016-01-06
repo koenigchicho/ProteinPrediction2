@@ -58,7 +58,7 @@ outCountKeysFile  = homeDir +"/aux" + str(time.time())
 writeFile = open(outCountKeysFile,'w')
 for k in keywordsDict:
 	a = float(keywordsDict[k])/countTotal
-	# print str(len(k)) + " " + k
+	print str(len(k)) + " " + k
 	writeFile.write(k + "\t" + str(keywordsDict[k]) + "\t" + str("%.6f" % a)+"\n")
 writeFile.close()	
 

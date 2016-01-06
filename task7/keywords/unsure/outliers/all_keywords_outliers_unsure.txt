@@ -1,0 +1,66 @@
+Zymogen	1	0.004785
+Fatty acid metabolism	6	0.028708
+Peroxisome	1	0.004785
+Transmembrane	10	0.047847
+Kinase	1	0.004785
+Endoplasmic reticulum	4	0.019139
+Microsome	1	0.004785
+Ion transport	1	0.004785
+Transferase	1	0.004785
+Reference proteome	17	0.081340
+Metalloprotease	2	0.009569
+Disulfide bond	2	0.009569
+Membrane	11	0.052632
+NADP	2	0.009569
+GTP-binding	1	0.004785
+Direct protein sequencing	5	0.023923
+Hydrolase	3	0.014354
+Disease mutation	2	0.009569
+Heme biosynthesis	1	0.004785
+Secreted	1	0.004785
+Carbohydrate metabolism	1	0.004785
+Alternative splicing	12	0.057416
+Porin	1	0.004785
+Lectin	1	0.004785
+Transit peptide	1	0.004785
+Phosphoprotein	2	0.009569
+Blood group antigen	1	0.004785
+Transmembrane helix	9	0.043062
+Metal-binding	3	0.014354
+FAD	1	0.004785
+Polymorphism	10	0.047847
+Pyrrolidone carboxylic acid	1	0.004785
+Aminopeptidase	1	0.004785
+Acetylation	4	0.019139
+Signal	2	0.009569
+Manganese	1	0.004785
+Porphyrin biosynthesis	1	0.004785
+ATP-binding	4	0.019139
+Ligase	6	0.028708
+Mitochondrion inner membrane	1	0.004785
+Transducer	1	0.004785
+Protein transport	1	0.004785
+Lipid transport	2	0.009569
+Oxidoreductase	3	0.014354
+Mitochondrion outer membrane	1	0.004785
+Nucleotide-binding	7	0.033493
+Complete proteome	17	0.081340
+Glycoprotein	4	0.019139
+Flavoprotein	1	0.004785
+Protease	3	0.014354
+Transmembrane beta strand	1	0.004785
+Lipid metabolism	6	0.028708
+Taste	1	0.004785
+Cytoplasm	2	0.009569
+EGF-like domain	1	0.004785
+Cell membrane	2	0.009569
+Repeat	1	0.004785
+3D-structure	5	0.023923
+Receptor	1	0.004785
+Sensory transduction	1	0.004785
+Zinc	1	0.004785
+Ichthyosis	1	0.004785
+Mitochondrion	4	0.019139
+G-protein coupled receptor	1	0.004785
+Transport	4	0.019139
+Magnesium	1	0.004785

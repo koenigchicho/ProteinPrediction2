@@ -1,0 +1,300 @@
+>sp|P81605|DCD_HUMAN Dermcidin OS=Homo sapiens GN=DCD PE=1 SV=2
+>sp|Q3LHN2|KR192_HUMAN Keratin-associated protein 19-2 OS=Homo sapiens GN=KRTAP19-2 PE=2 SV=1
+>sp|Q3LI61|KR202_HUMAN Keratin-associated protein 20-2 OS=Homo sapiens GN=KRTAP20-2 PE=2 SV=1
+>sp|Q3LI64|KRA61_HUMAN Keratin-associated protein 6-1 OS=Homo sapiens GN=KRTAP6-1 PE=2 SV=1
+>sp|Q3LI66|KRA62_HUMAN Keratin-associated protein 6-2 OS=Homo sapiens GN=KRTAP6-2 PE=2 SV=1
+>sp|Q3LI67|KRA63_HUMAN Keratin-associated protein 6-3 OS=Homo sapiens GN=KRTAP6-3 PE=2 SV=3
+>sp|P02808|STAT_HUMAN Statherin OS=Homo sapiens GN=STATH PE=1 SV=2
+>sp|P09430|STP1_HUMAN Spermatid nuclear transition protein 1 OS=Homo sapiens GN=TNP1 PE=1 SV=2
+>sp|P15516|HIS3_HUMAN Histatin-3 OS=Homo sapiens GN=HTN3 PE=1 SV=2
+>sp|Q3LI59|KR212_HUMAN Keratin-associated protein 21-2 OS=Homo sapiens GN=KRTAP21-2 PE=2 SV=2
+>sp|Q3LI63|KR201_HUMAN Keratin-associated protein 20-1 OS=Homo sapiens GN=KRTAP20-1 PE=2 SV=1
+>sp|Q7Z4W3|KR193_HUMAN Keratin-associated protein 19-3 OS=Homo sapiens GN=KRTAP19-3 PE=2 SV=1
+>sp|Q8IUB9|KR191_HUMAN Keratin-associated protein 19-1 OS=Homo sapiens GN=KRTAP19-1 PE=2 SV=2
+>sp|Q96B49|TOM6_HUMAN Mitochondrial import receptor subunit TOM6 homolog OS=Homo sapiens GN=TOMM6 PE=1 SV=1
+>sp|A6NIN4|YQ014_HUMAN Putative uncharacterized protein FLJ38447 OS=Homo sapiens PE=5 SV=3
+>sp|P04554|PRM2_HUMAN Protamine-2 OS=Homo sapiens GN=PRM2 PE=1 SV=3
+>sp|Q3LI54|KR198_HUMAN Keratin-associated protein 19-8 OS=Homo sapiens GN=KRTAP19-8 PE=2 SV=1
+>sp|Q3LI72|KR195_HUMAN Keratin-associated protein 19-5 OS=Homo sapiens GN=KRTAP19-5 PE=2 SV=1
+>sp|Q3SYF9|KR197_HUMAN Keratin-associated protein 19-7 OS=Homo sapiens GN=KRTAP19-7 PE=2 SV=1
+>sp|Q5RGS3|F74A1_HUMAN Protein FAM74A1/A2 OS=Homo sapiens GN=FAM74A1 PE=2 SV=1
+>sp|Q5TZK3|FAM74_HUMAN Protein FAM74A4/A6 OS=Homo sapiens GN=FAM74A4 PE=2 SV=1
+>sp|Q8NCU8|YB039_HUMAN Uncharacterized protein encoded by LINC00116 OS=Homo sapiens GN=LINC00116 PE=1 SV=1
+>sp|Q9Y5L2|HLPDA_HUMAN Hypoxia-inducible lipid droplet-associated protein OS=Homo sapiens GN=HILPDA PE=1 SV=1
+>sp|A1L3X4|MT1DP_HUMAN Putative metallothionein MT1DP OS=Homo sapiens GN=MT1DP PE=5 SV=1
+>sp|P61574|RE113_HUMAN Endogenous retrovirus group K member 113 Rec protein OS=Homo sapiens GN=HERVK_113 PE=1 SV=1
+>sp|Q3LI70|KR196_HUMAN Keratin-associated protein 19-6 OS=Homo sapiens GN=KRTAP19-6 PE=2 SV=2
+>sp|Q5JTB6|PLAC9_HUMAN Placenta-specific protein 9 OS=Homo sapiens GN=PLAC9 PE=2 SV=1
+>sp|P25063|CD24_HUMAN Signal transducer CD24 OS=Homo sapiens GN=CD24 PE=1 SV=2
+>sp|P59103|DAOA_HUMAN D-amino acid oxidase activator OS=Homo sapiens GN=DAOA PE=1 SV=2
+>sp|P61578|REC16_HUMAN Endogenous retrovirus group K member 16 Rec protein OS=Homo sapiens GN=ERVK-16 PE=1 SV=1
+>sp|Q30KQ1|DB133_HUMAN Beta-defensin 133 OS=Homo sapiens GN=DEFB133 PE=2 SV=1
+>sp|Q3MUY2|PIGY_HUMAN Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y OS=Homo sapiens GN=PIGY PE=1 SV=1
+>sp|Q504U0|CD046_HUMAN Uncharacterized protein C4orf46 OS=Homo sapiens GN=C4orf46 PE=2 SV=1
+>sp|Q8WVX3|CD003_HUMAN Uncharacterized protein C4orf3 OS=Homo sapiens GN=C4orf3 PE=1 SV=2
+>sp|Q9XRX5|HHLA3_HUMAN HERV-H LTR-associating protein 3 OS=Homo sapiens GN=HHLA3 PE=1 SV=3
+>sp|A1L168|CT202_HUMAN Uncharacterized protein C20orf202 OS=Homo sapiens GN=C20orf202 PE=2 SV=2
+>sp|Q3LI60|KR203_HUMAN Keratin-associated protein 20-3 OS=Homo sapiens GN=KRTAP20-3 PE=3 SV=1
+>sp|Q30KQ6|DB114_HUMAN Beta-defensin 114 OS=Homo sapiens GN=DEFB114 PE=1 SV=1
+>sp|Q3LHN1|KR213_HUMAN Keratin-associated protein 21-3 OS=Homo sapiens GN=KRTAP21-3 PE=3 SV=1
+>sp|Q3MIV0|KR221_HUMAN Keratin-associated protein 22-1 OS=Homo sapiens GN=KRTAP22-1 PE=2 SV=2
+>sp|Q5TA76|LCE3A_HUMAN Late cornified envelope protein 3A OS=Homo sapiens GN=LCE3A PE=2 SV=1
+>sp|Q8IUC3|KRA71_HUMAN Keratin-associated protein 7-1 OS=Homo sapiens GN=KRTAP7-1 PE=2 SV=2
+>sp|Q8N4H5|TOM5_HUMAN Mitochondrial import receptor subunit TOM5 homolog OS=Homo sapiens GN=TOMM5 PE=1 SV=1
+>sp|Q8N8P7|CK044_HUMAN Uncharacterized protein C11orf44 OS=Homo sapiens GN=C11orf44 PE=2 SV=1
+>sp|Q9Y5L5|LENEP_HUMAN Lens epithelial cell protein LEP503 OS=Homo sapiens GN=LENEP PE=2 SV=1
+>tr|A0A0A0MT91|A0A0A0MT91_HUMAN Protein IGHJ6 (Fragment) OS=Homo sapiens GN=IGHJ6 PE=4 SV=1
+>sp|A6NL05|F74A7_HUMAN Protein FAM74A7 OS=Homo sapiens GN=FAM74A7 PE=3 SV=3
+>sp|B3EWG3|FM25A_HUMAN Protein FAM25A OS=Homo sapiens GN=FAM25A PE=2 SV=1
+>sp|B3EWG4|FM25B_HUMAN Putative protein FAM25BP OS=Homo sapiens GN=FAM25BP PE=5 SV=1
+>sp|B3EWG5|FM25C_HUMAN Protein FAM25C OS=Homo sapiens GN=FAM25C PE=2 SV=1
+>sp|B3EWG6|FM25G_HUMAN Protein FAM25G OS=Homo sapiens GN=FAM25G PE=3 SV=1
+>sp|O95167|NDUA3_HUMAN NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3 OS=Homo sapiens GN=NDUFA3 PE=1 SV=1
+>sp|Q00LT1|PRCD_HUMAN Progressive rod-cone degeneration protein OS=Homo sapiens GN=PRCD PE=1 SV=1
+>sp|Q8IUC0|KR131_HUMAN Keratin-associated protein 13-1 OS=Homo sapiens GN=KRTAP13-1 PE=2 SV=2
+>sp|Q8N8D9|CE056_HUMAN Uncharacterized protein C5orf56 OS=Homo sapiens GN=C5orf56 PE=2 SV=2
+>sp|Q8WXC6|MYOV2_HUMAN Myeloma-overexpressed gene 2 protein OS=Homo sapiens GN=MYEOV2 PE=1 SV=3
+>sp|Q93083|MT1L_HUMAN Metallothionein-1L OS=Homo sapiens GN=MT1L PE=2 SV=1
+>tr|M0R384|M0R384_HUMAN Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=1
+>sp|P02795|MT2_HUMAN Metallothionein-2 OS=Homo sapiens GN=MT2A PE=1 SV=1
+>sp|P04732|MT1E_HUMAN Metallothionein-1E OS=Homo sapiens GN=MT1E PE=1 SV=1
+>sp|P81534|D103A_HUMAN Beta-defensin 103 OS=Homo sapiens GN=DEFB103A PE=1 SV=2
+>tr|F8WBI7|F8WBI7_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>sp|O00198|HRK_HUMAN Activator of apoptosis harakiri OS=Homo sapiens GN=HRK PE=1 SV=1
+>sp|O14519|CDKA1_HUMAN Cyclin-dependent kinase 2-associated protein 1 OS=Homo sapiens GN=CDK2AP1 PE=1 SV=1
+>sp|O15263|DFB4A_HUMAN Beta-defensin 4A OS=Homo sapiens GN=DEFB4A PE=1 SV=1
+>sp|P18545|CNRG_HUMAN Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma OS=Homo sapiens GN=PDE6G PE=1 SV=1
+>sp|P57738|TCTA_HUMAN T-cell leukemia translocation-altered gene protein OS=Homo sapiens GN=TCTA PE=1 SV=1
+>sp|P80294|MT1H_HUMAN Metallothionein-1H OS=Homo sapiens GN=MT1H PE=1 SV=1
+>sp|P80297|MT1X_HUMAN Metallothionein-1X OS=Homo sapiens GN=MT1X PE=1 SV=1
+>sp|Q13956|CNCG_HUMAN Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma OS=Homo sapiens GN=PDE6H PE=2 SV=1
+>sp|Q3LI68|KR222_HUMAN Keratin-associated protein 22-2 OS=Homo sapiens GN=KRTAP22-2 PE=3 SV=1
+>sp|Q3LI77|KR134_HUMAN Keratin-associated protein 13-4 OS=Homo sapiens GN=KRTAP13-4 PE=2 SV=1
+>sp|Q5T292|CJ128_HUMAN Putative uncharacterized protein C10orf128 OS=Homo sapiens GN=C10orf128 PE=2 SV=1
+>sp|Q5T7P3|LCE1B_HUMAN Late cornified envelope protein 1B OS=Homo sapiens GN=LCE1B PE=2 SV=1
+>sp|Q629K1|TRIQK_HUMAN Triple QxxK/R motif-containing protein OS=Homo sapiens GN=TRIQK PE=2 SV=1
+>sp|Q8IUG1|KRA13_HUMAN Keratin-associated protein 1-3 OS=Homo sapiens GN=KRTAP1-3 PE=2 SV=1
+>sp|Q96KF2|PRAC1_HUMAN Small nuclear protein PRAC1 OS=Homo sapiens GN=PRAC1 PE=2 SV=1
+>sp|P07438|MT1B_HUMAN Metallothionein-1B OS=Homo sapiens GN=MT1B PE=2 SV=1
+>sp|P26678|PPLA_HUMAN Cardiac phospholamban OS=Homo sapiens GN=PLN PE=1 SV=1
+>sp|P35542|SAA4_HUMAN Serum amyloid A-4 protein OS=Homo sapiens GN=SAA4 PE=1 SV=2
+>sp|P60985|KTDAP_HUMAN Keratinocyte differentiation-associated protein OS=Homo sapiens GN=KRTDAP PE=1 SV=1
+>sp|Q08E93|F27E3_HUMAN Protein FAM27E3 OS=Homo sapiens GN=FAM27E3 PE=1 SV=1
+>sp|Q3LI73|KR194_HUMAN Keratin-associated protein 19-4 OS=Homo sapiens GN=KRTAP19-4 PE=2 SV=1
+>sp|Q5T751|LCE1C_HUMAN Late cornified envelope protein 1C OS=Homo sapiens GN=LCE1C PE=2 SV=1
+>sp|Q5T753|LCE1E_HUMAN Late cornified envelope protein 1E OS=Homo sapiens GN=LCE1E PE=2 SV=1
+>sp|Q5T7P2|LCE1A_HUMAN Late cornified envelope protein 1A OS=Homo sapiens GN=LCE1A PE=2 SV=1
+>sp|Q6UWT4|CE046_HUMAN Uncharacterized protein C5orf46 OS=Homo sapiens GN=C5orf46 PE=1 SV=2
+>sp|Q6UXB2|VCC1_HUMAN VEGF coregulated chemokine 1 OS=Homo sapiens GN=CXCL17 PE=1 SV=1
+>sp|Q8N112|LSME2_HUMAN Leucine-rich single-pass membrane protein 2 OS=Homo sapiens GN=LSMEM2 PE=2 SV=1
+>sp|Q8NG35|D105A_HUMAN Beta-defensin 105 OS=Homo sapiens GN=DEFB105A PE=2 SV=1
+>sp|Q8WTQ1|D104A_HUMAN Beta-defensin 104 OS=Homo sapiens GN=DEFB104A PE=2 SV=2
+>sp|Q96A04|TSACC_HUMAN TSSK6-activating co-chaperone protein OS=Homo sapiens GN=TSACC PE=1 SV=1
+>sp|Q96A98|TIP39_HUMAN Tuberoinfundibular peptide of 39 residues OS=Homo sapiens GN=PTH2 PE=1 SV=1
+>sp|Q96DE5|APC16_HUMAN Anaphase-promoting complex subunit 16 OS=Homo sapiens GN=ANAPC16 PE=1 SV=1
+>sp|Q99525|H4G_HUMAN Histone H4-like protein type G OS=Homo sapiens GN=HIST1H4G PE=2 SV=1
+>sp|Q9BTL3|RAM_HUMAN RNMT-activating mini protein OS=Homo sapiens GN=FAM103A1 PE=1 SV=1
+>tr|A0A096LP83|A0A096LP83_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>tr|A0A0B4J2B5|A0A0B4J2B5_HUMAN Protein IGHV3OR16-9 (Fragment) OS=Homo sapiens GN=IGHV3OR16-9 PE=1 SV=1
+>sp|A1L190|SYCE3_HUMAN Synaptonemal complex central element protein 3 OS=Homo sapiens GN=SYCE3 PE=3 SV=1
+>sp|F2Z3M2|CQ112_HUMAN Uncharacterized protein C17orf112 OS=Homo sapiens GN=C17orf112 PE=4 SV=1
+>sp|O75324|SNN_HUMAN Stannin OS=Homo sapiens GN=SNN PE=1 SV=1
+>sp|O75438|NDUB1_HUMAN NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1 OS=Homo sapiens GN=NDUFB1 PE=1 SV=1
+>sp|P04430|KV122_HUMAN Ig kappa chain V-I region BAN OS=Homo sapiens PE=1 SV=1
+>sp|P04731|MT1A_HUMAN Metallothionein-1A OS=Homo sapiens GN=MT1A PE=1 SV=2
+>sp|P0DM35|M1BL1_HUMAN Metallothionein 1H-like protein 1 OS=Homo sapiens GN=MT1HL1 PE=3 SV=1
+>sp|P24311|COX7B_HUMAN Cytochrome c oxidase subunit 7B, mitochondrial OS=Homo sapiens GN=COX7B PE=1 SV=2
+>sp|P58511|SIM11_HUMAN Small integral membrane protein 11 OS=Homo sapiens GN=SMIM11 PE=2 SV=1
+>sp|P68431|H31_HUMAN Histone H3.1 OS=Homo sapiens GN=HIST1H3A PE=1 SV=2
+>sp|P84243|H33_HUMAN Histone H3.3 OS=Homo sapiens GN=H3F3A PE=1 SV=2
+>sp|Q16517|NNAT_HUMAN Neuronatin OS=Homo sapiens GN=NNAT PE=2 SV=1
+>sp|Q2M2W7|CQ058_HUMAN UPF0450 protein C17orf58 OS=Homo sapiens GN=C17orf58 PE=2 SV=2
+>sp|Q5T1J6|F182A_HUMAN Protein FAM182A OS=Homo sapiens GN=FAM182A PE=2 SV=1
+>sp|Q5T752|LCE1D_HUMAN Late cornified envelope protein 1D OS=Homo sapiens GN=LCE1D PE=2 SV=1
+>sp|Q5TA77|LCE3B_HUMAN Late cornified envelope protein 3B OS=Homo sapiens GN=LCE3B PE=2 SV=1
+>sp|Q5TA78|LCE4A_HUMAN Late cornified envelope protein 4A OS=Homo sapiens GN=LCE4A PE=2 SV=1
+>sp|Q6UXD1|HRCT1_HUMAN Histidine-rich carboxyl terminus protein 1 OS=Homo sapiens GN=HRCT1 PE=2 SV=1
+>sp|Q75MW2|ZN767_HUMAN Protein ZNF767 OS=Homo sapiens GN=ZNF767P PE=5 SV=1
+>sp|Q8IUC2|KRA81_HUMAN Keratin-associated protein 8-1 OS=Homo sapiens GN=KRTAP8-1 PE=2 SV=1
+>sp|Q8NHW6|OTOSP_HUMAN Otospiralin OS=Homo sapiens GN=OTOS PE=2 SV=1
+>sp|Q99880|H2B1L_HUMAN Histone H2B type 1-L OS=Homo sapiens GN=HIST1H2BL PE=1 SV=3
+>sp|Q9BRU2|TCAL7_HUMAN Transcription elongation factor A protein-like 7 OS=Homo sapiens GN=TCEAL7 PE=2 SV=2
+>sp|Q9BT56|SPXN_HUMAN Spexin OS=Homo sapiens GN=SPX PE=1 SV=1
+>sp|Q9HCN2|TPIP1_HUMAN p53-regulated apoptosis-inducing protein 1 OS=Homo sapiens GN=TP53AIP1 PE=2 SV=1
+>sp|Q9Y675|SNURF_HUMAN SNRPN upstream reading frame protein OS=Homo sapiens GN=SNURF PE=1 SV=1
+>tr|A0A096LNW3|A0A096LNW3_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>sp|A6NMA1|TR5OS_HUMAN Putative uncharacterized protein TRPC5OS OS=Homo sapiens GN=TRPC5OS PE=4 SV=1
+>sp|A8MWV9|YU007_HUMAN Putative uncharacterized protein LOC388820 OS=Homo sapiens PE=5 SV=1
+>sp|O43920|NDUS5_HUMAN NADH dehydrogenase [ubiquinone] iron-sulfur protein 5 OS=Homo sapiens GN=NDUFS5 PE=1 SV=3
+>sp|P01765|HV304_HUMAN Ig heavy chain V-III region TIL OS=Homo sapiens PE=1 SV=1
+>sp|P01767|HV306_HUMAN Ig heavy chain V-III region BUT OS=Homo sapiens PE=1 SV=1
+>sp|P01776|HV315_HUMAN Ig heavy chain V-III region WAS OS=Homo sapiens PE=1 SV=1
+>sp|P01781|HV320_HUMAN Ig heavy chain V-III region GAL OS=Homo sapiens PE=1 SV=1
+>sp|P62805|H4_HUMAN Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2
+>sp|P62952|BLCAP_HUMAN Bladder cancer-associated protein OS=Homo sapiens GN=BLCAP PE=1 SV=1
+>sp|P80421|HV108_HUMAN Ig heavy chain V-I region DOT OS=Homo sapiens PE=1 SV=1
+>sp|P81172|HEPC_HUMAN Hepcidin OS=Homo sapiens GN=HAMP PE=1 SV=2
+>sp|Q16695|H31T_HUMAN Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3
+>sp|Q4LDR2|CTXN3_HUMAN Cortexin-3 OS=Homo sapiens GN=CTXN3 PE=2 SV=1
+>sp|Q4QY38|DB134_HUMAN Beta-defensin 134 OS=Homo sapiens GN=DEFB134 PE=3 SV=1
+>sp|Q5T5A8|LCE3C_HUMAN Late cornified envelope protein 3C OS=Homo sapiens GN=LCE3C PE=2 SV=1
+>sp|Q5TCM9|LCE5A_HUMAN Late cornified envelope protein 5A OS=Homo sapiens GN=LCE5A PE=2 SV=1
+>sp|Q69YU5|CL073_HUMAN Uncharacterized protein C12orf73 OS=Homo sapiens GN=C12orf73 PE=2 SV=2
+>sp|Q6UXQ4|CB066_HUMAN Uncharacterized protein C2orf66 OS=Homo sapiens GN=C2orf66 PE=2 SV=1
+>sp|Q8N8F7|LSME1_HUMAN Leucine-rich single-pass membrane protein 1 OS=Homo sapiens GN=LSMEM1 PE=2 SV=1
+>sp|Q9BZL3|SMIM3_HUMAN Small integral membrane protein 3 OS=Homo sapiens GN=SMIM3 PE=2 SV=1
+>sp|Q9H1C7|CYTM1_HUMAN Cysteine-rich and transmembrane domain-containing protein 1 OS=Homo sapiens GN=CYSTM1 PE=1 SV=1
+>sp|Q9NS64|RPRM_HUMAN Protein reprimo OS=Homo sapiens GN=RPRM PE=1 SV=1
+>sp|Q9Y3U8|RL36_HUMAN 60S ribosomal protein L36 OS=Homo sapiens GN=RPL36 PE=1 SV=3
+>tr|A0A096LNM4|A0A096LNM4_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>sp|A2RRL7|TM213_HUMAN Transmembrane protein 213 OS=Homo sapiens GN=TMEM213 PE=2 SV=2
+>sp|C9JXX5|CK094_HUMAN Uncharacterized protein C11orf94 OS=Homo sapiens GN=C11orf94 PE=3 SV=1
+>tr|H3BRN7|H3BRN7_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>tr|M0QYG6|M0QYG6_HUMAN Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=1
+>sp|O15239|NDUA1_HUMAN NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1 OS=Homo sapiens GN=NDUFA1 PE=1 SV=1
+>sp|P01595|KV103_HUMAN Ig kappa chain V-I region Bi OS=Homo sapiens PE=1 SV=1
+>sp|P01610|KV118_HUMAN Ig kappa chain V-I region WEA OS=Homo sapiens PE=1 SV=1
+>sp|P01623|KV305_HUMAN Ig kappa chain V-III region WOL OS=Homo sapiens PE=1 SV=1
+>sp|P01742|HV101_HUMAN Ig heavy chain V-I region EU OS=Homo sapiens PE=1 SV=1
+>sp|P01763|HV302_HUMAN Ig heavy chain V-III region WEA OS=Homo sapiens PE=1 SV=1
+>sp|P01768|HV307_HUMAN Ig heavy chain V-III region CAM OS=Homo sapiens PE=1 SV=1
+>sp|P01770|HV309_HUMAN Ig heavy chain V-III region NIE OS=Homo sapiens PE=1 SV=1
+>sp|P01775|HV314_HUMAN Ig heavy chain V-III region LAY OS=Homo sapiens PE=1 SV=1
+>sp|P04733|MT1F_HUMAN Metallothionein-1F OS=Homo sapiens GN=MT1F PE=1 SV=1
+>sp|P08493|MGP_HUMAN Matrix Gla protein OS=Homo sapiens GN=MGP PE=1 SV=2
+>sp|P0C2S0|CTXN2_HUMAN Cortexin-2 OS=Homo sapiens GN=CTXN2 PE=3 SV=1
+>sp|P0DJI9|SAA2_HUMAN Serum amyloid A-2 protein OS=Homo sapiens GN=SAA2 PE=1 SV=1
+>sp|P22466|GALA_HUMAN Galanin peptides OS=Homo sapiens GN=GAL PE=1 SV=3
+>sp|P33778|H2B1B_HUMAN Histone H2B type 1-B OS=Homo sapiens GN=HIST1H2BB PE=1 SV=2
+>sp|P62891|RL39_HUMAN 60S ribosomal protein L39 OS=Homo sapiens GN=RPL39 PE=1 SV=2
+>sp|Q3LI62|KR204_HUMAN Putative keratin-associated protein 20-4 OS=Homo sapiens GN=KRTAP20-4 PE=3 SV=1
+>sp|Q4VXF1|F74A3_HUMAN Putative protein FAM74A3 OS=Homo sapiens GN=FAM74A3 PE=5 SV=1
+>sp|Q52LG2|KR132_HUMAN Keratin-associated protein 13-2 OS=Homo sapiens GN=KRTAP13-2 PE=1 SV=1
+>sp|Q5T1S8|NCMAP_HUMAN Noncompact myelin-associated protein OS=Homo sapiens GN=NCMAP PE=2 SV=1
+>sp|Q5T5B0|LCE3E_HUMAN Late cornified envelope protein 3E OS=Homo sapiens GN=LCE3E PE=2 SV=1
+>sp|Q5T7N7|F27E1_HUMAN Putative protein FAM27E1 OS=Homo sapiens GN=FAM27E1 PE=5 SV=1
+>tr|Q5TEC6|Q5TEC6_HUMAN Histone cluster 2, H3, pseudogene 2 OS=Homo sapiens GN=HIST2H3PS2 PE=1 SV=1
+>sp|Q6PB30|CSAG1_HUMAN Putative chondrosarcoma-associated gene 1 protein OS=Homo sapiens GN=CSAG1 PE=2 SV=2
+>sp|Q8N4K4|RPRML_HUMAN Reprimo-like protein OS=Homo sapiens GN=RPRML PE=2 SV=2
+>sp|Q8TF08|CX7B2_HUMAN Cytochrome c oxidase subunit 7B2, mitochondrial OS=Homo sapiens GN=COX7B2 PE=2 SV=2
+>sp|Q96E16|SMI19_HUMAN Small integral membrane protein 19 OS=Homo sapiens GN=SMIM19 PE=2 SV=2
+>sp|Q96I36|COX14_HUMAN Cytochrome c oxidase assembly protein COX14 OS=Homo sapiens GN=COX14 PE=1 SV=1
+>sp|Q96MR7|CA145_HUMAN Putative uncharacterized protein C1orf145 OS=Homo sapiens GN=C1orf145 PE=5 SV=1
+>sp|Q9H963|ZN702_HUMAN Putative zinc finger protein 702 OS=Homo sapiens GN=ZNF702P PE=5 SV=2
+>sp|Q9NUB4|CT141_HUMAN Uncharacterized protein C20orf141 OS=Homo sapiens GN=C20orf141 PE=2 SV=1
+>sp|Q9P2W6|CK021_HUMAN Uncharacterized protein C11orf21 OS=Homo sapiens GN=C11orf21 PE=2 SV=1
+>sp|Q9UHZ2|MALAT_HUMAN Metastasis-associated lung adenocarcinoma transcript 1 OS=Homo sapiens GN=MALAT1 PE=2 SV=1
+>tr|A0A096LP20|A0A096LP20_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>tr|A0A0B4J2B7|A0A0B4J2B7_HUMAN Protein IGHV3-30 (Fragment) OS=Homo sapiens GN=IGHV3-30 PE=1 SV=1
+>tr|A0A0C4DH37|A0A0C4DH37_HUMAN Protein IGHV3-48 (Fragment) OS=Homo sapiens GN=IGHV3-48 PE=4 SV=1
+>sp|B2RUZ4|SMIM1_HUMAN Small integral membrane protein 1 OS=Homo sapiens GN=SMIM1 PE=1 SV=1
+>sp|C9J3I9|CE058_HUMAN Putative uncharacterized protein C5orf58 OS=Homo sapiens GN=C5orf58 PE=4 SV=1
+>sp|O15453|NBR2_HUMAN Next to BRCA1 gene 2 protein OS=Homo sapiens GN=NBR2 PE=2 SV=1
+>sp|O75711|SCRG1_HUMAN Scrapie-responsive protein 1 OS=Homo sapiens GN=SCRG1 PE=1 SV=1
+>sp|P01605|KV113_HUMAN Ig kappa chain V-I region Lay OS=Homo sapiens PE=1 SV=1
+>sp|P01608|KV116_HUMAN Ig kappa chain V-I region Roy OS=Homo sapiens PE=1 SV=1
+>sp|P01620|KV302_HUMAN Ig kappa chain V-III region SIE OS=Homo sapiens PE=1 SV=1
+>sp|P01715|LV401_HUMAN Ig lambda chain V-IV region Bau OS=Homo sapiens PE=1 SV=1
+>sp|P01766|HV305_HUMAN Ig heavy chain V-III region BRO OS=Homo sapiens PE=1 SV=1
+>sp|P01774|HV313_HUMAN Ig heavy chain V-III region POM OS=Homo sapiens PE=1 SV=1
+>sp|P04553|HSP1_HUMAN Sperm protamine P1 OS=Homo sapiens GN=PRM1 PE=1 SV=2
+>sp|P06309|KV205_HUMAN Ig kappa chain V-II region GM607 (Fragment) OS=Homo sapiens PE=4 SV=1
+>sp|P09234|RU1C_HUMAN U1 small nuclear ribonucleoprotein C OS=Homo sapiens GN=SNRPC PE=1 SV=1
+>sp|P0C0S8|H2A1_HUMAN Histone H2A type 1 OS=Homo sapiens GN=HIST1H2AG PE=1 SV=2
+>sp|P0CW23|CR042_HUMAN Putative uncharacterized protein C18orf42 OS=Homo sapiens GN=C18orf42 PE=4 SV=1
+>sp|P10092|CALCB_HUMAN Calcitonin gene-related peptide 2 OS=Homo sapiens GN=CALCB PE=1 SV=1
+>sp|P12872|MOTI_HUMAN Promotilin OS=Homo sapiens GN=MLN PE=1 SV=1
+>sp|P13640|MT1G_HUMAN Metallothionein-1G OS=Homo sapiens GN=MT1G PE=1 SV=2
+>sp|P20366|TKN1_HUMAN Protachykinin-1 OS=Homo sapiens GN=TAC1 PE=1 SV=1
+>sp|P61576|REC04_HUMAN Endogenous retrovirus group K member 104 Rec protein OS=Homo sapiens GN=HERV-K104 PE=1 SV=1
+>sp|Q3B7S5|SMI21_HUMAN Small integral membrane protein 21 OS=Homo sapiens GN=SMIM21 PE=2 SV=1
+>sp|Q3KNT9|TMM95_HUMAN Transmembrane protein 95 OS=Homo sapiens GN=TMEM95 PE=2 SV=1
+>sp|Q5H943|KKLC1_HUMAN Kita-kyushu lung cancer antigen 1 OS=Homo sapiens GN=CT83 PE=1 SV=1
+>sp|Q5TA79|LCE2A_HUMAN Late cornified envelope protein 2A OS=Homo sapiens GN=LCE2A PE=2 SV=1
+>sp|Q6NXT2|H3C_HUMAN Histone H3.3C OS=Homo sapiens GN=H3F3C PE=1 SV=3
+>sp|Q71RC9|SMIM5_HUMAN Small integral membrane protein 5 OS=Homo sapiens GN=SMIM5 PE=4 SV=2
+>sp|Q8N0T1|CH059_HUMAN Uncharacterized protein C8orf59 OS=Homo sapiens GN=C8orf59 PE=1 SV=4
+>sp|Q8N339|MT1M_HUMAN Metallothionein-1M OS=Homo sapiens GN=MT1M PE=2 SV=2
+>sp|Q8N7L0|F216B_HUMAN Protein FAM216B OS=Homo sapiens GN=FAM216B PE=2 SV=1
+>sp|Q8TAP9|MPLKI_HUMAN M-phase-specific PLK1-interacting protein OS=Homo sapiens GN=MPLKIP PE=1 SV=1
+>sp|Q8TCZ7|CU074_HUMAN Putative uncharacterized protein encoded by LINC00308 OS=Homo sapiens GN=LINC00308 PE=5 SV=2
+>sp|Q96EH5|RL39L_HUMAN 60S ribosomal protein L39-like OS=Homo sapiens GN=RPL39L PE=1 SV=3
+>sp|Q96HJ9|CG055_HUMAN UPF0562 protein C7orf55 OS=Homo sapiens GN=C7orf55 PE=1 SV=2
+>sp|Q9BYE3|LCE3D_HUMAN Late cornified envelope protein 3D OS=Homo sapiens GN=LCE3D PE=2 SV=1
+>sp|Q9H1L0|MI1HG_HUMAN Uncharacterized protein MIR1-1HG OS=Homo sapiens GN=MIR1-1HG PE=2 SV=1
+>sp|Q9HBX3|SNIT1_HUMAN Uncharacterized protein encoded by SND1-IT1 OS=Homo sapiens GN=SND1-IT1 PE=2 SV=1
+>sp|Q9UBP8|KAAG1_HUMAN Kidney-associated antigen 1 OS=Homo sapiens GN=KAAG1 PE=2 SV=1
+>sp|Q9UGL9|CRCT1_HUMAN Cysteine-rich C-terminal protein 1 OS=Homo sapiens GN=CRCT1 PE=2 SV=1
+>sp|Q9UHF0|TKNK_HUMAN Tachykinin-3 OS=Homo sapiens GN=TAC3 PE=1 SV=1
+>sp|Q9Y2S6|TMA7_HUMAN Translation machinery-associated protein 7 OS=Homo sapiens GN=TMA7 PE=1 SV=1
+>tr|A0A075B7F1|A0A075B7F1_HUMAN Protein IGHV3OR16-8 (Fragment) OS=Homo sapiens GN=IGHV3OR16-8 PE=1 SV=1
+>tr|A0A087WSX3|A0A087WSX3_HUMAN Protein IGHV3-23 (Fragment) OS=Homo sapiens GN=IGHV3-23 PE=1 SV=1
+>tr|A0A096LNP2|A0A096LNP2_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>tr|A0A0B4J1V3|A0A0B4J1V3_HUMAN Protein IGHV3-33 (Fragment) OS=Homo sapiens GN=IGHV3-33 PE=1 SV=1
+>tr|A0A0C4DH70|A0A0C4DH70_HUMAN Protein IGHJ2 (Fragment) OS=Homo sapiens GN=IGHJ2 PE=4 SV=1
+>sp|A6NGS2|ERIC4_HUMAN Glutamate-rich protein 4 OS=Homo sapiens GN=ERICH4 PE=2 SV=2
+>sp|A6NJ69|IGIP_HUMAN IgA-inducing protein homolog OS=Homo sapiens GN=IGIP PE=3 SV=1
+>sp|E9PQ53|NDUCR_HUMAN NADH dehydrogenase [ubiquinone] 1 subunit C2, isoform 2 OS=Homo sapiens GN=NDUFC2-KCTD14 PE=1 SV=1
+>tr|H3BS24|H3BS24_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>sp|O00453|LST1_HUMAN Leukocyte-specific transcript 1 protein OS=Homo sapiens GN=LST1 PE=1 SV=2
+>sp|O43677|NDUC1_HUMAN NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial OS=Homo sapiens GN=NDUFC1 PE=2 SV=1
+>sp|P01599|KV107_HUMAN Ig kappa chain V-I region Gal OS=Homo sapiens PE=1 SV=1
+>sp|P01600|KV108_HUMAN Ig kappa chain V-I region Hau OS=Homo sapiens PE=1 SV=1
+>sp|P01622|KV304_HUMAN Ig kappa chain V-III region Ti OS=Homo sapiens PE=1 SV=1
+>sp|P01625|KV402_HUMAN Ig kappa chain V-IV region Len OS=Homo sapiens PE=1 SV=2
+>sp|P01769|HV308_HUMAN Ig heavy chain V-III region GA OS=Homo sapiens PE=1 SV=1
+>sp|P01773|HV312_HUMAN Ig heavy chain V-III region BUR OS=Homo sapiens PE=1 SV=1
+>sp|P01780|HV319_HUMAN Ig heavy chain V-III region JON OS=Homo sapiens PE=1 SV=1
+>sp|P04206|KV307_HUMAN Ig kappa chain V-III region GOL OS=Homo sapiens PE=1 SV=1
+>sp|P09669|COX6C_HUMAN Cytochrome c oxidase subunit 6C OS=Homo sapiens GN=COX6C PE=1 SV=2
+>sp|P0C0P6|NPS_HUMAN Neuropeptide S OS=Homo sapiens GN=NPS PE=1 SV=1
+>sp|P23527|H2B1O_HUMAN Histone H2B type 1-O OS=Homo sapiens GN=HIST1H2BO PE=1 SV=3
+>sp|P31358|CD52_HUMAN CAMPATH-1 antigen OS=Homo sapiens GN=CD52 PE=1 SV=1
+>sp|P58876|H2B1D_HUMAN Histone H2B type 1-D OS=Homo sapiens GN=HIST1H2BD PE=1 SV=2
+>sp|P60022|DEFB1_HUMAN Beta-defensin 1 OS=Homo sapiens GN=DEFB1 PE=1 SV=1
+>sp|P60602|ROMO1_HUMAN Reactive oxygen species modulator 1 OS=Homo sapiens GN=ROMO1 PE=1 SV=1
+>sp|P99999|CYC_HUMAN Cytochrome c OS=Homo sapiens GN=CYCS PE=1 SV=2
+>sp|Q5BIV9|SPRN_HUMAN Shadow of prion protein OS=Homo sapiens GN=SPRN PE=2 SV=1
+>sp|Q5EE01|CENPW_HUMAN Centromere protein W OS=Homo sapiens GN=CENPW PE=1 SV=1
+>sp|Q5T319|F182B_HUMAN Protein FAM182B OS=Homo sapiens GN=FAM182B PE=1 SV=1
+>sp|Q6X4T0|CL054_HUMAN Uncharacterized protein C12orf54 OS=Homo sapiens GN=C12orf54 PE=2 SV=2
+>sp|Q71DI3|H32_HUMAN Histone H3.2 OS=Homo sapiens GN=HIST2H3A PE=1 SV=3
+>sp|Q765I0|UTS2B_HUMAN Urotensin-2B OS=Homo sapiens GN=UTS2B PE=2 SV=2
+>sp|Q7Z7J9|CK2N1_HUMAN Calcium/calmodulin-dependent protein kinase II inhibitor 1 OS=Homo sapiens GN=CAMK2N1 PE=1 SV=1
+>sp|Q86U37|CN023_HUMAN Uncharacterized protein encoded by LINC01551 OS=Homo sapiens GN=LINC01551 PE=2 SV=2
+>sp|Q8N690|DB119_HUMAN Beta-defensin 119 OS=Homo sapiens GN=DEFB119 PE=2 SV=2
+>sp|Q8TAD7|OCC1_HUMAN Overexpressed in colon carcinoma 1 protein OS=Homo sapiens GN=OCC1 PE=1 SV=2
+>sp|Q96KT0|FAAS1_HUMAN Uncharacterized protein FAM167A-AS1 OS=Homo sapiens GN=FAM167A-AS1 PE=4 SV=1
+>sp|Q96KX1|CD036_HUMAN Uncharacterized protein C4orf36 OS=Homo sapiens GN=C4orf36 PE=2 SV=2
+>sp|Q96PI1|SPRR4_HUMAN Small proline-rich protein 4 OS=Homo sapiens GN=SPRR4 PE=2 SV=1
+>sp|Q96PS6|GAFA1_HUMAN Putative uncharacterized protein GAFA-1 OS=Homo sapiens GN=GAFA1 PE=4 SV=1
+>sp|Q96S95|CK2N2_HUMAN Calcium/calmodulin-dependent protein kinase II inhibitor 2 OS=Homo sapiens GN=CAMK2N2 PE=2 SV=1
+>sp|Q9BYP9|KRA99_HUMAN Keratin-associated protein 9-9 OS=Homo sapiens GN=KRTAP9-9 PE=2 SV=1
+>sp|Q9BYR6|KRA33_HUMAN Keratin-associated protein 3-3 OS=Homo sapiens GN=KRTAP3-3 PE=1 SV=1
+>sp|Q9BYR7|KRA32_HUMAN Keratin-associated protein 3-2 OS=Homo sapiens GN=KRTAP3-2 PE=1 SV=1
+>sp|Q9NP84|TNR12_HUMAN Tumor necrosis factor receptor superfamily member 12A OS=Homo sapiens GN=TNFRSF12A PE=1 SV=1
+>sp|Q9UHT4|YG001_HUMAN Putative uncharacterized protein PRO1854 OS=Homo sapiens GN=PRO1854 PE=5 SV=1
+>tr|A0A075B7F0|A0A075B7F0_HUMAN Protein IGHV3OR16-10 (Fragment) OS=Homo sapiens GN=IGHV3OR16-10 PE=1 SV=1
+>tr|A0A087WSX4|A0A087WSX4_HUMAN Protein IGHV3-53 (Fragment) OS=Homo sapiens GN=IGHV3-53 PE=1 SV=1
+>tr|A0A096LP31|A0A096LP31_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>tr|A0A0B4J1U8|A0A0B4J1U8_HUMAN Protein IGHV3-7 (Fragment) OS=Homo sapiens GN=IGHV3-7 PE=4 SV=1
+>tr|A0A0B4J1X5|A0A0B4J1X5_HUMAN Protein IGHV3-74 (Fragment) OS=Homo sapiens GN=IGHV3-74 PE=1 SV=1
+>tr|A0A0C4DH32|A0A0C4DH32_HUMAN Protein IGHV3-20 (Fragment) OS=Homo sapiens GN=IGHV3-20 PE=4 SV=1
+>tr|A0A0C4DH35|A0A0C4DH35_HUMAN Protein IGHV3-35 (Fragment) OS=Homo sapiens GN=IGHV3-35 PE=4 SV=1
+>tr|A0A0C4DH42|A0A0C4DH42_HUMAN Protein IGHV3-66 (Fragment) OS=Homo sapiens GN=IGHV3-66 PE=4 SV=1
+>sp|A6NGB0|T191C_HUMAN Transmembrane protein 191C OS=Homo sapiens GN=TMEM191C PE=2 SV=1
+>sp|A6NGZ8|SMIM9_HUMAN Small integral membrane protein 9 OS=Homo sapiens GN=SMIM9 PE=3 SV=1
+>sp|C9J3V5|TEX22_HUMAN Testis-expressed sequence 22 protein OS=Homo sapiens GN=TEX22 PE=2 SV=1
+>sp|O43908|NKG2F_HUMAN NKG2-F type II integral membrane protein OS=Homo sapiens GN=KLRC4 PE=2 SV=2
+>sp|O95298|NDUC2_HUMAN NADH dehydrogenase [ubiquinone] 1 subunit C2 OS=Homo sapiens GN=NDUFC2 PE=1 SV=1
+>sp|O95399|UTS2_HUMAN Urotensin-2 OS=Homo sapiens GN=UTS2 PE=1 SV=1
+>sp|P01286|SLIB_HUMAN Somatoliberin OS=Homo sapiens GN=GHRH PE=1 SV=1
+>sp|P01607|KV115_HUMAN Ig kappa chain V-I region Rei OS=Homo sapiens PE=1 SV=1
+>sp|P01624|KV306_HUMAN Ig kappa chain V-III region POM OS=Homo sapiens PE=1 SV=1
+>sp|P01706|LV203_HUMAN Ig lambda chain V-II region BOH OS=Homo sapiens PE=1 SV=1
+>sp|P01708|LV205_HUMAN Ig lambda chain V-II region BUR OS=Homo sapiens PE=1 SV=1
+>sp|P01710|LV207_HUMAN Ig lambda chain V-II region BO OS=Homo sapiens PE=1 SV=1
+>sp|P01718|LV404_HUMAN Ig lambda chain V-IV region Kern OS=Homo sapiens PE=1 SV=1
+>sp|P01719|LV501_HUMAN Ig lambda chain V-V region DEL OS=Homo sapiens PE=1 SV=1
+>sp|P01764|HV303_HUMAN Ig heavy chain V-III region VH26 OS=Homo sapiens PE=1 SV=1
+>sp|P01772|HV311_HUMAN Ig heavy chain V-III region KOL OS=Homo sapiens PE=1 SV=1

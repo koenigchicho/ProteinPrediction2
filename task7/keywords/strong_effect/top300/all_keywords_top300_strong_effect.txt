@@ -1,0 +1,134 @@
+Golgi apparatus	2	0.001043
+Cell division	4	0.002086
+Gamma-carboxyglutamic acid	1	0.000521
+Tumor suppressor	1	0.000521
+Immunoglobulin V region	38	0.019812
+Cell shape	1	0.000521
+Direct protein sequencing	75	0.039103
+Hydrolase	3	0.001564
+Citrullination	7	0.003650
+Apoptosis	5	0.002607
+Retinitis pigmentosa	2	0.001043
+Nucleosome core	16	0.008342
+mRNA capping	1	0.000521
+mRNA transport	3	0.001564
+Cell cycle	6	0.003128
+DNA-binding	18	0.009385
+Biomineralization	2	0.001043
+Polymorphism	88	0.045881
+Protein kinase inhibitor	2	0.001043
+Chaperone	1	0.000521
+Chemotaxis	1	0.000521
+Complete proteome	298	0.155370
+Copper	9	0.004692
+Cytoplasm	12	0.006257
+Zinc-finger	2	0.001043
+Mitochondrion	19	0.009906
+Ribonucleoprotein	4	0.002086
+Cell junction	1	0.000521
+Transport	13	0.006778
+Kinetochore	1	0.000521
+Pharmaceutical	1	0.000521
+Transcription	2	0.001043
+Transmembrane	56	0.029197
+Stress response	1	0.000521
+Cytoplasmic vesicle	2	0.001043
+Cell adhesion	1	0.000521
+HDL	2	0.001043
+Centromere	1	0.000521
+Ribosomal protein	3	0.001564
+Monoclonal antibody	1	0.000521
+Proteomics identification	9	0.004692
+Lipid droplet	1	0.000521
+RNA editing	1	0.000521
+Nucleus	30	0.015641
+Metal-binding	16	0.008342
+Keratin	28	0.014599
+Developmental protein	7	0.003650
+Amyloid	3	0.001564
+Prion	1	0.000521
+Manganese	1	0.000521
+Disease mutation	7	0.003650
+Mitochondrion inner membrane	11	0.005735
+Repressor	1	0.000521
+Proto-oncogene	1	0.000521
+Glycoprotein	15	0.007821
+Chromosomal rearrangement	2	0.001043
+Respiratory chain	8	0.004171
+Mitosis	3	0.001564
+Sensory transduction	3	0.001564
+Metal-thiolate cluster	12	0.006257
+Differentiation	7	0.003650
+Electron transport	8	0.004171
+Defensin	9	0.004692
+Chondrogenesis	1	0.000521
+Membrane	62	0.032325
+Amidation	5	0.002607
+Immunity	1	0.000521
+Phosphoprotein	39	0.020334
+Repeat	28	0.014599
+Alternative splicing	44	0.022941
+Transmembrane helix	56	0.029197
+Sarcoplasmic reticulum	1	0.000521
+Lipoprotein	3	0.001564
+Cardiomyopathy	1	0.000521
+Synaptosome	1	0.000521
+DNA condensation	2	0.001043
+Acetylation	35	0.018248
+Sulfation	1	0.000521
+Immunoglobulin domain	38	0.019812
+Angiogenesis	2	0.001043
+RNA-binding	5	0.002607
+Bence-Jones protein	10	0.005214
+Protease	1	0.000521
+Deafness	1	0.000521
+Transposable element	3	0.001564
+3D-structure	38	0.019812
+Receptor	2	0.001043
+Zinc	12	0.006257
+Keratinization	14	0.007299
+ERV	3	0.001564
+Neurotransmitter	1	0.000521
+Pyrrolidone carboxylic acid	10	0.005214
+Synapse	1	0.000521
+Endoplasmic reticulum	3	0.001564
+Reference proteome	298	0.155370
+Disulfide bond	45	0.023462
+Antimicrobial	13	0.006778
+Spermatogenesis	3	0.001564
+Transit peptide	3	0.001564
+Transcription regulation	2	0.001043
+Osteogenesis	1	0.000521
+Fungicide	3	0.001564
+Secreted	39	0.020334
+mRNA processing	1	0.000521
+Hypogonadotropic hypogonadism	1	0.000521
+Heme	1	0.000521
+Cadmium	9	0.004692
+Postsynaptic cell membrane	1	0.000521
+Meiosis	1	0.000521
+Coiled coil	7	0.003650
+cGMP	2	0.001043
+Cleavage on pair of basic residues	13	0.006778
+Methylation	11	0.005735
+Blood group antigen	1	0.000521
+Hormone	7	0.003650
+Signal	61	0.031804
+Mitochondrion outer membrane	3	0.001564
+Ubl conjugation pathway	1	0.000521
+Iron	1	0.000521
+Protein transport	2	0.001043
+Ubl conjugation	10	0.005214
+Amyloidosis	1	0.000521
+Neuropeptide	5	0.002607
+Vision	3	0.001564
+Acute phase	2	0.001043
+Signal-anchor	2	0.001043
+Antibiotic	13	0.006778
+Cell membrane	7	0.003650
+Isopeptide bond	7	0.003650
+Chromosome	18	0.009385
+Cytoskeleton	1	0.000521
+Alternative initiation	1	0.000521
+GPI-anchor	3	0.001564
+GPI-anchor biosynthesis	1	0.000521

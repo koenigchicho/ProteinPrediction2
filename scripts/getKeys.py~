@@ -9,17 +9,16 @@ import getopt
 # To set
 homeDir = ""
 inFileName = ""
-
 try:
 	opts, args = getopt.getopt(sys.argv[1:],"hi:d:",["help=","ifile=","homeDirectory="])
 except getopt.GetoptError:
-	print "getKeys.py \n \
+	print "mapSnap2ToReference.py \n \
 			-i <input file - fasta header> \n \
 			-d <homeDirectory>"
 	sys.exit(2)
 for opt, arg in opts:
 	if opt in ("-h","--help"):
-		print "getKeys.py \n \
+		print "mapSnap2ToReference.py \n \
 			-i <input file - fasta header> \n \
 			-d <homeDirectory>"
 		sys.exit()

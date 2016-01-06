@@ -1,0 +1,300 @@
+>sp|Q08257|QOR_HUMAN Quinone oxidoreductase OS=Homo sapiens GN=CRYZ PE=1 SV=1
+>sp|P50336|PPOX_HUMAN Protoporphyrinogen oxidase OS=Homo sapiens GN=PPOX PE=1 SV=1
+>sp|Q4G176|ACSF3_HUMAN Acyl-CoA synthetase family member 3, mitochondrial OS=Homo sapiens GN=ACSF3 PE=1 SV=3
+>sp|Q5K4L6|S27A3_HUMAN Long-chain fatty acid transport protein 3 OS=Homo sapiens GN=SLC27A3 PE=2 SV=3
+>sp|Q7L211|ABHDD_HUMAN Alpha/beta hydrolase domain-containing protein 13 OS=Homo sapiens GN=ABHD13 PE=1 SV=1
+>sp|Q9H477|RBSK_HUMAN Ribokinase OS=Homo sapiens GN=RBKS PE=1 SV=1
+>sp|Q9Y2P5|S27A5_HUMAN Bile acyl-CoA synthetase OS=Homo sapiens GN=SLC27A5 PE=1 SV=1
+>sp|O14975|S27A2_HUMAN Very long-chain acyl-CoA synthetase OS=Homo sapiens GN=SLC27A2 PE=1 SV=2
+>sp|Q6P1M0|S27A4_HUMAN Long-chain fatty acid transport protein 4 OS=Homo sapiens GN=SLC27A4 PE=1 SV=1
+>sp|Q6PCB7|S27A1_HUMAN Long-chain fatty acid transport protein 1 OS=Homo sapiens GN=SLC27A1 PE=2 SV=1
+>sp|Q9NZL9|MAT2B_HUMAN Methionine adenosyltransferase 2 subunit beta OS=Homo sapiens GN=MAT2B PE=1 SV=1
+>sp|O95825|QORL1_HUMAN Quinone oxidoreductase-like protein 1 OS=Homo sapiens GN=CRYZL1 PE=1 SV=2
+>sp|P20132|SDHL_HUMAN L-serine dehydratase/L-threonine deaminase OS=Homo sapiens GN=SDS PE=1 SV=2
+>sp|Q53FA7|QORX_HUMAN Quinone oxidoreductase PIG3 OS=Homo sapiens GN=TP53I3 PE=1 SV=2
+>sp|Q6P461|ACSM6_HUMAN Acyl-coenzyme A synthetase ACSM6, mitochondrial OS=Homo sapiens GN=ACSM6 PE=2 SV=3
+>sp|Q9NQW7|XPP1_HUMAN Xaa-Pro aminopeptidase 1 OS=Homo sapiens GN=XPNPEP1 PE=1 SV=3
+>sp|Q9Y2P4|S27A6_HUMAN Long-chain fatty acid transport protein 6 OS=Homo sapiens GN=SLC27A6 PE=1 SV=1
+>sp|P53004|BIEA_HUMAN Biliverdin reductase A OS=Homo sapiens GN=BLVRA PE=1 SV=2
+>sp|Q14534|ERG1_HUMAN Squalene monooxygenase OS=Homo sapiens GN=SQLE PE=1 SV=3
+>sp|Q14894|CRYM_HUMAN Ketimine reductase mu-crystallin OS=Homo sapiens GN=CRYM PE=1 SV=1
+>sp|Q15274|NADC_HUMAN Nicotinate-nucleotide pyrophosphorylase [carboxylating] OS=Homo sapiens GN=QPRT PE=1 SV=3
+>sp|Q5EB52|MEST_HUMAN Mesoderm-specific transcript homolog protein OS=Homo sapiens GN=MEST PE=2 SV=2
+>sp|Q8IUS5|EPHX4_HUMAN Epoxide hydrolase 4 OS=Homo sapiens GN=EPHX4 PE=2 SV=2
+>sp|Q8N0Z8|PUSL1_HUMAN tRNA pseudouridine synthase-like 1 OS=Homo sapiens GN=PUSL1 PE=1 SV=1
+>sp|Q96GA7|SDSL_HUMAN Serine dehydratase-like OS=Homo sapiens GN=SDSL PE=1 SV=1
+>sp|Q96MS3|GL1D1_HUMAN Glycosyltransferase 1 domain-containing protein 1 OS=Homo sapiens GN=GLT1D1 PE=2 SV=2
+>sp|Q9Y5R4|HEMK1_HUMAN HemK methyltransferase family member 1 OS=Homo sapiens GN=HEMK1 PE=2 SV=1
+>sp|O60488|ACSL4_HUMAN Long-chain-fatty-acid--CoA ligase 4 OS=Homo sapiens GN=ACSL4 PE=1 SV=2
+>sp|P34949|MPI_HUMAN Mannose-6-phosphate isomerase OS=Homo sapiens GN=MPI PE=1 SV=2
+>sp|P51570|GALK1_HUMAN Galactokinase OS=Homo sapiens GN=GALK1 PE=1 SV=1
+>sp|Q08AH1|ACSM1_HUMAN Acyl-coenzyme A synthetase ACSM1, mitochondrial OS=Homo sapiens GN=ACSM1 PE=1 SV=1
+>sp|Q08AH3|ACS2A_HUMAN Acyl-coenzyme A synthetase ACSM2A, mitochondrial OS=Homo sapiens GN=ACSM2A PE=1 SV=2
+>sp|Q3LXA3|DHAK_HUMAN Bifunctional ATP-dependent dihydroxyacetone kinase/FAD-AMP lyase (cyclizing) OS=Homo sapiens GN=DAK PE=1 SV=2
+>sp|Q4J6C6|PPCEL_HUMAN Prolyl endopeptidase-like OS=Homo sapiens GN=PREPL PE=1 SV=1
+>sp|Q53FZ2|ACSM3_HUMAN Acyl-coenzyme A synthetase ACSM3, mitochondrial OS=Homo sapiens GN=ACSM3 PE=1 SV=2
+>sp|Q68CK6|ACS2B_HUMAN Acyl-coenzyme A synthetase ACSM2B, mitochondrial OS=Homo sapiens GN=ACSM2B PE=1 SV=2
+>sp|Q6UB28|MAP12_HUMAN Methionine aminopeptidase 1D, mitochondrial OS=Homo sapiens GN=METAP1D PE=1 SV=1
+>sp|Q8N4Q0|ZADH2_HUMAN Zinc-binding alcohol dehydrogenase domain-containing protein 2 OS=Homo sapiens GN=ZADH2 PE=1 SV=1
+>sp|Q8NDH3|PEPL1_HUMAN Probable aminopeptidase NPEPL1 OS=Homo sapiens GN=NPEPL1 PE=1 SV=3
+>sp|Q96DP5|FMT_HUMAN Methionyl-tRNA formyltransferase, mitochondrial OS=Homo sapiens GN=MTFMT PE=1 SV=2
+>sp|Q9H6B9|EPHX3_HUMAN Epoxide hydrolase 3 OS=Homo sapiens GN=EPHX3 PE=2 SV=1
+>sp|O43175|SERA_HUMAN D-3-phosphoglycerate dehydrogenase OS=Homo sapiens GN=PHGDH PE=1 SV=4
+>sp|O95573|ACSL3_HUMAN Long-chain-fatty-acid--CoA ligase 3 OS=Homo sapiens GN=ACSL3 PE=1 SV=3
+>sp|P08686|CP21A_HUMAN Steroid 21-hydroxylase OS=Homo sapiens GN=CYP21A2 PE=1 SV=1
+>sp|P0C7M7|ACSM4_HUMAN Acyl-coenzyme A synthetase ACSM4, mitochondrial OS=Homo sapiens GN=ACSM4 PE=2 SV=1
+>sp|P50053|KHK_HUMAN Ketohexokinase OS=Homo sapiens GN=KHK PE=1 SV=1
+>sp|Q4L235|ACSF4_HUMAN Acyl-CoA synthetase family member 4 OS=Homo sapiens GN=AASDH PE=1 SV=3
+>sp|Q5T440|CAF17_HUMAN Putative transferase CAF17, mitochondrial OS=Homo sapiens GN=IBA57 PE=1 SV=1
+>sp|Q86YJ6|THNS2_HUMAN Threonine synthase-like 2 OS=Homo sapiens GN=THNSL2 PE=2 SV=3
+>sp|Q8N5Z0|AADAT_HUMAN Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial OS=Homo sapiens GN=AADAT PE=1 SV=2
+>sp|Q8N8N7|PTGR2_HUMAN Prostaglandin reductase 2 OS=Homo sapiens GN=PTGR2 PE=1 SV=1
+>sp|Q8WWV3|RT4I1_HUMAN Reticulon-4-interacting protein 1, mitochondrial OS=Homo sapiens GN=RTN4IP1 PE=1 SV=2
+>sp|Q99536|VAT1_HUMAN Synaptic vesicle membrane protein VAT-1 homolog OS=Homo sapiens GN=VAT1 PE=1 SV=2
+>sp|Q9BV79|MECR_HUMAN Trans-2-enoyl-CoA reductase, mitochondrial OS=Homo sapiens GN=MECR PE=1 SV=2
+>sp|Q9HCJ6|VAT1L_HUMAN Synaptic vesicle membrane protein VAT-1 homolog-like OS=Homo sapiens GN=VAT1L PE=1 SV=2
+>sp|Q9NRG7|D39U1_HUMAN Epimerase family protein SDR39U1 OS=Homo sapiens GN=SDR39U1 PE=1 SV=2
+>sp|Q9NUZ1|ACOXL_HUMAN Acyl-coenzyme A oxidase-like protein OS=Homo sapiens GN=ACOXL PE=2 SV=3
+>sp|Q9UI17|M2GD_HUMAN Dimethylglycine dehydrogenase, mitochondrial OS=Homo sapiens GN=DMGDH PE=1 SV=2
+>sp|Q9UJ70|NAGK_HUMAN N-acetyl-D-glucosamine kinase OS=Homo sapiens GN=NAGK PE=1 SV=4
+>sp|Q9ULC5|ACSL5_HUMAN Long-chain-fatty-acid--CoA ligase 5 OS=Homo sapiens GN=ACSL5 PE=1 SV=1
+>sp|Q9Y2T3|GUAD_HUMAN Guanine deaminase OS=Homo sapiens GN=GDA PE=1 SV=1
+>sp|Q9Y2Z9|COQ6_HUMAN Ubiquinone biosynthesis monooxygenase COQ6 OS=Homo sapiens GN=COQ6 PE=1 SV=2
+>sp|O15067|PUR4_HUMAN Phosphoribosylformylglycinamidine synthase OS=Homo sapiens GN=PFAS PE=1 SV=4
+>sp|O75911|DHRS3_HUMAN Short-chain dehydrogenase/reductase 3 OS=Homo sapiens GN=DHRS3 PE=1 SV=2
+>sp|P37058|DHB3_HUMAN Testosterone 17-beta-dehydrogenase 3 OS=Homo sapiens GN=HSD17B3 PE=1 SV=2
+>sp|P37059|DHB2_HUMAN Estradiol 17-beta-dehydrogenase 2 OS=Homo sapiens GN=HSD17B2 PE=1 SV=1
+>sp|P55263|ADK_HUMAN Adenosine kinase OS=Homo sapiens GN=ADK PE=1 SV=2
+>sp|Q02338|BDH_HUMAN D-beta-hydroxybutyrate dehydrogenase, mitochondrial OS=Homo sapiens GN=BDH1 PE=1 SV=3
+>sp|Q03154|ACY1_HUMAN Aminoacylase-1 OS=Homo sapiens GN=ACY1 PE=1 SV=1
+>sp|Q08426|ECHP_HUMAN Peroxisomal bifunctional enzyme OS=Homo sapiens GN=EHHADH PE=1 SV=3
+>sp|Q14914|PTGR1_HUMAN Prostaglandin reductase 1 OS=Homo sapiens GN=PTGR1 PE=1 SV=2
+>sp|Q53H82|LACB2_HUMAN Beta-lactamase-like protein 2 OS=Homo sapiens GN=LACTB2 PE=1 SV=2
+>sp|Q5FVE4|ACBG2_HUMAN Long-chain-fatty-acid--CoA ligase ACSBG2 OS=Homo sapiens GN=ACSBG2 PE=1 SV=2
+>sp|Q5T160|SYRM_HUMAN Probable arginine--tRNA ligase, mitochondrial OS=Homo sapiens GN=RARS2 PE=1 SV=1
+>sp|Q6IPT4|NB5R5_HUMAN NADH-cytochrome b5 reductase-like OS=Homo sapiens GN=CYB5RL PE=1 SV=3
+>sp|Q6NUN0|ACSM5_HUMAN Acyl-coenzyme A synthetase ACSM5, mitochondrial OS=Homo sapiens GN=ACSM5 PE=1 SV=2
+>sp|Q6ZVK8|NUD18_HUMAN 8-oxo-dGDP phosphatase NUDT18 OS=Homo sapiens GN=NUDT18 PE=1 SV=3
+>sp|Q86V21|AACS_HUMAN Acetoacetyl-CoA synthetase OS=Homo sapiens GN=AACS PE=1 SV=1
+>sp|Q8IVS2|FABD_HUMAN Malonyl-CoA-acyl carrier protein transacylase, mitochondrial OS=Homo sapiens GN=MCAT PE=1 SV=2
+>sp|Q8IW45|NNRD_HUMAN ATP-dependent (S)-NAD(P)H-hydrate dehydratase OS=Homo sapiens GN=CARKD PE=1 SV=1
+>sp|Q8N5I4|DHRSX_HUMAN Dehydrogenase/reductase SDR family member on chromosome X OS=Homo sapiens GN=DHRSX PE=2 SV=2
+>sp|Q8NCN5|PDPR_HUMAN Pyruvate dehydrogenase phosphatase regulatory subunit, mitochondrial OS=Homo sapiens GN=PDPR PE=1 SV=2
+>sp|Q8NFV4|ABHDB_HUMAN Alpha/beta hydrolase domain-containing protein 11 OS=Homo sapiens GN=ABHD11 PE=2 SV=1
+>sp|Q96GJ1|TRM2_HUMAN tRNA (uracil(54)-C(5))-methyltransferase homolog OS=Homo sapiens GN=TRMT2B PE=2 SV=1
+>sp|Q9H2F3|3BHS7_HUMAN 3 beta-hydroxysteroid dehydrogenase type 7 OS=Homo sapiens GN=HSD3B7 PE=1 SV=2
+>sp|Q9H4A4|AMPB_HUMAN Aminopeptidase B OS=Homo sapiens GN=RNPEP PE=1 SV=2
+>sp|Q9H6R3|ACSS3_HUMAN Acyl-CoA synthetase short-chain family member 3, mitochondrial OS=Homo sapiens GN=ACSS3 PE=1 SV=1
+>sp|Q9NTJ4|MA2C1_HUMAN Alpha-mannosidase 2C1 OS=Homo sapiens GN=MAN2C1 PE=1 SV=1
+>sp|Q9P0Z9|SOX_HUMAN Peroxisomal sarcosine oxidase OS=Homo sapiens GN=PIPOX PE=1 SV=2
+>sp|Q9UL12|SARDH_HUMAN Sarcosine dehydrogenase, mitochondrial OS=Homo sapiens GN=SARDH PE=1 SV=1
+>sp|O60678|ANM3_HUMAN Protein arginine N-methyltransferase 3 OS=Homo sapiens GN=PRMT3 PE=1 SV=3
+>sp|O60906|NSMA_HUMAN Sphingomyelin phosphodiesterase 2 OS=Homo sapiens GN=SMPD2 PE=1 SV=2
+>sp|O75616|ERAL1_HUMAN GTPase Era, mitochondrial OS=Homo sapiens GN=ERAL1 PE=1 SV=2
+>sp|P08397|HEM3_HUMAN Porphobilinogen deaminase OS=Homo sapiens GN=HMBS PE=1 SV=2
+>sp|P22570|ADRO_HUMAN NADPH:adrenodoxin oxidoreductase, mitochondrial OS=Homo sapiens GN=FDXR PE=1 SV=3
+>sp|P48728|GCST_HUMAN Aminomethyltransferase, mitochondrial OS=Homo sapiens GN=AMT PE=1 SV=1
+>sp|P51648|AL3A2_HUMAN Fatty aldehyde dehydrogenase OS=Homo sapiens GN=ALDH3A2 PE=1 SV=1
+>sp|P80365|DHI2_HUMAN Corticosteroid 11-beta-dehydrogenase isozyme 2 OS=Homo sapiens GN=HSD11B2 PE=1 SV=2
+>sp|Q03426|KIME_HUMAN Mevalonate kinase OS=Homo sapiens GN=MVK PE=1 SV=1
+>sp|Q15067|ACOX1_HUMAN Peroxisomal acyl-coenzyme A oxidase 1 OS=Homo sapiens GN=ACOX1 PE=1 SV=3
+>sp|Q32P41|TRM5_HUMAN tRNA (guanine(37)-N1)-methyltransferase OS=Homo sapiens GN=TRMT5 PE=1 SV=2
+>sp|Q6ZT21|TMPPE_HUMAN Transmembrane protein with metallophosphoesterase domain OS=Homo sapiens GN=TMPPE PE=2 SV=2
+>sp|Q7Z5J1|DHI1L_HUMAN Hydroxysteroid 11-beta-dehydrogenase 1-like protein OS=Homo sapiens GN=HSD11B1L PE=2 SV=1
+>sp|Q86XE5|HOGA1_HUMAN 4-hydroxy-2-oxoglutarate aldolase, mitochondrial OS=Homo sapiens GN=HOGA1 PE=1 SV=1
+>sp|Q96EM0|T3HPD_HUMAN Trans-3-hydroxy-L-proline dehydratase OS=Homo sapiens GN=L3HYPDH PE=1 SV=2
+>sp|Q96GR2|ACBG1_HUMAN Long-chain-fatty-acid--CoA ligase ACSBG1 OS=Homo sapiens GN=ACSBG1 PE=1 SV=2
+>sp|Q96IR7|HPDL_HUMAN 4-hydroxyphenylpyruvate dioxygenase-like protein OS=Homo sapiens GN=HPDL PE=1 SV=1
+>sp|Q99424|ACOX2_HUMAN Peroxisomal acyl-coenzyme A oxidase 2 OS=Homo sapiens GN=ACOX2 PE=1 SV=1
+>sp|Q99611|SPS2_HUMAN Selenide, water dikinase 2 OS=Homo sapiens GN=SEPHS2 PE=1 SV=3
+>sp|Q9BRQ8|AIFM2_HUMAN Apoptosis-inducing factor 2 OS=Homo sapiens GN=AIFM2 PE=1 SV=1
+>sp|Q9BXD5|NPL_HUMAN N-acetylneuraminate lyase OS=Homo sapiens GN=NPL PE=2 SV=1
+>sp|Q9H4I8|SEHL2_HUMAN Serine hydrolase-like protein 2 OS=Homo sapiens GN=SERHL2 PE=2 SV=1
+>sp|Q9HA92|RSAD1_HUMAN Radical S-adenosyl methionine domain-containing protein 1, mitochondrial OS=Homo sapiens GN=RSAD1 PE=2 SV=2
+>sp|Q9NQH7|XPP3_HUMAN Probable Xaa-Pro aminopeptidase 3 OS=Homo sapiens GN=XPNPEP3 PE=1 SV=1
+>sp|Q9NQX3|GEPH_HUMAN Gephyrin OS=Homo sapiens GN=GPHN PE=1 SV=1
+>sp|Q9NXC2|GFOD1_HUMAN Glucose-fructose oxidoreductase domain-containing protein 1 OS=Homo sapiens GN=GFOD1 PE=1 SV=1
+>sp|Q9Y234|LIPT_HUMAN Lipoyltransferase 1, mitochondrial OS=Homo sapiens GN=LIPT1 PE=1 SV=1
+>sp|Q9Y303|NAGA_HUMAN Putative N-acetylglucosamine-6-phosphate deacetylase OS=Homo sapiens GN=AMDHD2 PE=1 SV=2
+>sp|Q9Y394|DHRS7_HUMAN Dehydrogenase/reductase SDR family member 7 OS=Homo sapiens GN=DHRS7 PE=1 SV=1
+>sp|A0PJE2|DHR12_HUMAN Dehydrogenase/reductase SDR family member 12 OS=Homo sapiens GN=DHRS12 PE=1 SV=2
+>sp|A6NKP2|D42E2_HUMAN Putative short-chain dehydrogenase/reductase family 42E member 2 OS=Homo sapiens GN=SDR42E2 PE=3 SV=3
+>sp|A6NNS2|DRS7C_HUMAN Dehydrogenase/reductase SDR family member 7C OS=Homo sapiens GN=DHRS7C PE=2 SV=3
+>tr|G3V3Y1|G3V3Y1_HUMAN Uncharacterized protein OS=Homo sapiens PE=4 SV=1
+>sp|O00442|RTCA_HUMAN RNA 3'-terminal phosphate cyclase OS=Homo sapiens GN=RTCA PE=1 SV=1
+>sp|O14977|AZIN1_HUMAN Antizyme inhibitor 1 OS=Homo sapiens GN=AZIN1 PE=1 SV=2
+>sp|P00390|GSHR_HUMAN Glutathione reductase, mitochondrial OS=Homo sapiens GN=GSR PE=1 SV=2
+>sp|P04844|RPN2_HUMAN Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 OS=Homo sapiens GN=RPN2 PE=1 SV=3
+>sp|P09960|LKHA4_HUMAN Leukotriene A-4 hydrolase OS=Homo sapiens GN=LTA4H PE=1 SV=2
+>sp|P28838|AMPL_HUMAN Cytosol aminopeptidase OS=Homo sapiens GN=LAP3 PE=1 SV=3
+>sp|P30038|AL4A1_HUMAN Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial OS=Homo sapiens GN=ALDH4A1 PE=1 SV=3
+>sp|P30838|AL3A1_HUMAN Aldehyde dehydrogenase, dimeric NADP-preferring OS=Homo sapiens GN=ALDH3A1 PE=1 SV=3
+>sp|P43353|AL3B1_HUMAN Aldehyde dehydrogenase family 3 member B1 OS=Homo sapiens GN=ALDH3B1 PE=1 SV=1
+>sp|P48637|GSHB_HUMAN Glutathione synthetase OS=Homo sapiens GN=GSS PE=1 SV=1
+>sp|P49748|ACADV_HUMAN Very long-chain specific acyl-CoA dehydrogenase, mitochondrial OS=Homo sapiens GN=ACADVL PE=1 SV=1
+>sp|Q06136|KDSR_HUMAN 3-ketodihydrosphingosine reductase OS=Homo sapiens GN=KDSR PE=1 SV=1
+>sp|Q16836|HCDH_HUMAN Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial OS=Homo sapiens GN=HADH PE=1 SV=3
+>sp|Q16851|UGPA_HUMAN UTP--glucose-1-phosphate uridylyltransferase OS=Homo sapiens GN=UGP2 PE=1 SV=5
+>sp|Q32NB8|PGPS1_HUMAN CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial OS=Homo sapiens GN=PGS1 PE=2 SV=1
+>sp|Q3B7J2|GFOD2_HUMAN Glucose-fructose oxidoreductase domain-containing protein 2 OS=Homo sapiens GN=GFOD2 PE=2 SV=1
+>sp|Q3MIT2|PUS10_HUMAN Putative tRNA pseudouridine synthase Pus10 OS=Homo sapiens GN=PUS10 PE=1 SV=1
+>sp|Q5JTZ9|SYAM_HUMAN Alanine--tRNA ligase, mitochondrial OS=Homo sapiens GN=AARS2 PE=1 SV=1
+>sp|Q63HM1|KFA_HUMAN Kynurenine formamidase OS=Homo sapiens GN=AFMID PE=2 SV=2
+>sp|Q6P2I3|FAH2B_HUMAN Fumarylacetoacetate hydrolase domain-containing protein 2B OS=Homo sapiens GN=FAHD2B PE=2 SV=1
+>sp|Q6UWU2|GLB1L_HUMAN Beta-galactosidase-1-like protein OS=Homo sapiens GN=GLB1L PE=2 SV=1
+>sp|Q6XQN6|PNCB_HUMAN Nicotinate phosphoribosyltransferase OS=Homo sapiens GN=NAPRT PE=1 SV=2
+>sp|Q7L592|NDUF7_HUMAN NADH dehydrogenase [ubiquinone] complex I, assembly factor 7 OS=Homo sapiens GN=NDUFAF7 PE=1 SV=1
+>sp|Q86TW2|ADCK1_HUMAN Uncharacterized aarF domain-containing protein kinase 1 OS=Homo sapiens GN=ADCK1 PE=2 SV=2
+>sp|Q8IVS8|GLCTK_HUMAN Glycerate kinase OS=Homo sapiens GN=GLYCTK PE=1 SV=1
+>sp|Q8IYS1|P20D2_HUMAN Peptidase M20 domain-containing protein 2 OS=Homo sapiens GN=PM20D2 PE=1 SV=2
+>sp|Q8IZ83|A16A1_HUMAN Aldehyde dehydrogenase family 16 member A1 OS=Homo sapiens GN=ALDH16A1 PE=1 SV=2
+>sp|Q8N465|D2HDH_HUMAN D-2-hydroxyglutarate dehydrogenase, mitochondrial OS=Homo sapiens GN=D2HGDH PE=1 SV=3
+>sp|Q8TB22|SPT20_HUMAN Spermatogenesis-associated protein 20 OS=Homo sapiens GN=SPATA20 PE=2 SV=3
+>sp|Q969S2|NEIL2_HUMAN Endonuclease 8-like 2 OS=Homo sapiens GN=NEIL2 PE=1 SV=3
+>sp|Q969Y2|GTPB3_HUMAN tRNA modification GTPase GTPBP3, mitochondrial OS=Homo sapiens GN=GTPBP3 PE=2 SV=2
+>sp|Q96CM8|ACSF2_HUMAN Acyl-CoA synthetase family member 2, mitochondrial OS=Homo sapiens GN=ACSF2 PE=1 SV=2
+>sp|Q96GK7|FAH2A_HUMAN Fumarylacetoacetate hydrolase domain-containing protein 2A OS=Homo sapiens GN=FAHD2A PE=1 SV=1
+>sp|Q9BTE6|AASD1_HUMAN Alanyl-tRNA editing protein Aarsd1 OS=Homo sapiens GN=AARSD1 PE=1 SV=2
+>sp|Q9H2A2|AL8A1_HUMAN Aldehyde dehydrogenase family 8 member A1 OS=Homo sapiens GN=ALDH8A1 PE=1 SV=1
+>sp|Q9H553|ALG2_HUMAN Alpha-1,3/1,6-mannosyltransferase ALG2 OS=Homo sapiens GN=ALG2 PE=1 SV=1
+>sp|Q9H649|NSUN3_HUMAN Putative methyltransferase NSUN3 OS=Homo sapiens GN=NSUN3 PE=2 SV=1
+>sp|Q9H993|CF211_HUMAN UPF0364 protein C6orf211 OS=Homo sapiens GN=C6orf211 PE=1 SV=1
+>sp|Q9NYR8|RDH8_HUMAN Retinol dehydrogenase 8 OS=Homo sapiens GN=RDH8 PE=1 SV=1
+>sp|Q9UKU0|ACSL6_HUMAN Long-chain-fatty-acid--CoA ligase 6 OS=Homo sapiens GN=ACSL6 PE=2 SV=4
+>sp|Q9ULI2|RIMKB_HUMAN Beta-citrylglutamate synthase B OS=Homo sapiens GN=RIMKLB PE=2 SV=2
+>sp|Q9UQ10|DHDH_HUMAN Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase OS=Homo sapiens GN=DHDH PE=1 SV=1
+>sp|A6ND91|ASPD_HUMAN Putative L-aspartate dehydrogenase OS=Homo sapiens GN=ASPDH PE=1 SV=2
+>tr|C9JMV9|C9JMV9_HUMAN Protein ABHD14A-ACY1 OS=Homo sapiens GN=ABHD14A-ACY1 PE=4 SV=1
+>sp|O00462|MANBA_HUMAN Beta-mannosidase OS=Homo sapiens GN=MANBA PE=1 SV=3
+>sp|O43895|XPP2_HUMAN Xaa-Pro aminopeptidase 2 OS=Homo sapiens GN=XPNPEP2 PE=1 SV=3
+>sp|O75343|GCYB2_HUMAN Guanylate cyclase soluble subunit beta-2 OS=Homo sapiens GN=GUCY1B2 PE=2 SV=2
+>sp|O75936|BODG_HUMAN Gamma-butyrobetaine dioxygenase OS=Homo sapiens GN=BBOX1 PE=1 SV=1
+>sp|O95336|6PGL_HUMAN 6-phosphogluconolactonase OS=Homo sapiens GN=PGLS PE=1 SV=2
+>sp|P10746|HEM4_HUMAN Uroporphyrinogen-III synthase OS=Homo sapiens GN=UROS PE=1 SV=1
+>sp|P11926|DCOR_HUMAN Ornithine decarboxylase OS=Homo sapiens GN=ODC1 PE=1 SV=2
+>sp|P14061|DHB1_HUMAN Estradiol 17-beta-dehydrogenase 1 OS=Homo sapiens GN=HSD17B1 PE=1 SV=3
+>sp|P20749|BCL3_HUMAN B-cell lymphoma 3 protein OS=Homo sapiens GN=BCL3 PE=1 SV=2
+>sp|P30039|PBLD_HUMAN Phenazine biosynthesis-like domain-containing protein OS=Homo sapiens GN=PBLD PE=1 SV=2
+>sp|P34913|HYES_HUMAN Bifunctional epoxide hydrolase 2 OS=Homo sapiens GN=EPHX2 PE=1 SV=2
+>sp|P36269|GGT5_HUMAN Gamma-glutamyltransferase 5 OS=Homo sapiens GN=GGT5 PE=1 SV=2
+>sp|P45381|ACY2_HUMAN Aspartoacylase OS=Homo sapiens GN=ASPA PE=1 SV=1
+>sp|P46597|ASMT_HUMAN Acetylserotonin O-methyltransferase OS=Homo sapiens GN=ASMT PE=1 SV=1
+>sp|P49189|AL9A1_HUMAN 4-trimethylaminobutyraldehyde dehydrogenase OS=Homo sapiens GN=ALDH9A1 PE=1 SV=3
+>sp|Q53GQ0|DHB12_HUMAN Very-long-chain 3-oxoacyl-CoA reductase OS=Homo sapiens GN=HSD17B12 PE=1 SV=2
+>sp|Q5JPH6|SYEM_HUMAN Probable glutamate--tRNA ligase, mitochondrial OS=Homo sapiens GN=EARS2 PE=1 SV=2
+>sp|Q6DHV7|ADAL_HUMAN Adenosine deaminase-like protein OS=Homo sapiens GN=ADAL PE=2 SV=2
+>sp|Q6IAN0|DRS7B_HUMAN Dehydrogenase/reductase SDR family member 7B OS=Homo sapiens GN=DHRS7B PE=1 SV=2
+>sp|Q6NVY1|HIBCH_HUMAN 3-hydroxyisobutyryl-CoA hydrolase, mitochondrial OS=Homo sapiens GN=HIBCH PE=1 SV=2
+>sp|Q6PII5|HAGHL_HUMAN Hydroxyacylglutathione hydrolase-like protein OS=Homo sapiens GN=HAGHL PE=2 SV=1
+>sp|Q7Z5P4|DHB13_HUMAN 17-beta-hydroxysteroid dehydrogenase 13 OS=Homo sapiens GN=HSD17B13 PE=1 SV=1
+>sp|Q8IV20|LACC1_HUMAN Laccase domain-containing protein 1 OS=Homo sapiens GN=LACC1 PE=1 SV=1
+>sp|Q8N0X4|CLYBL_HUMAN Citrate lyase subunit beta-like protein, mitochondrial OS=Homo sapiens GN=CLYBL PE=1 SV=2
+>sp|Q8N6R0|MET13_HUMAN Methyltransferase-like protein 13 OS=Homo sapiens GN=METTL13 PE=1 SV=1
+>sp|Q8NBQ5|DHB11_HUMAN Estradiol 17-beta-dehydrogenase 11 OS=Homo sapiens GN=HSD17B11 PE=1 SV=3
+>sp|Q8WUS8|D42E1_HUMAN Short-chain dehydrogenase/reductase family 42E member 1 OS=Homo sapiens GN=SDR42E1 PE=2 SV=2
+>sp|Q96A70|AZIN2_HUMAN Antizyme inhibitor 2 OS=Homo sapiens GN=AZIN2 PE=1 SV=1
+>sp|Q96HD9|ACY3_HUMAN N-acyl-aromatic-L-amino acid amidohydrolase (carboxylate-forming) OS=Homo sapiens GN=ACY3 PE=1 SV=1
+>sp|Q96KN2|CNDP1_HUMAN Beta-Ala-His dipeptidase OS=Homo sapiens GN=CNDP1 PE=1 SV=4
+>sp|Q96NN9|AIFM3_HUMAN Apoptosis-inducing factor 3 OS=Homo sapiens GN=AIFM3 PE=1 SV=1
+>sp|Q99685|MGLL_HUMAN Monoglyceride lipase OS=Homo sapiens GN=MGLL PE=1 SV=2
+>sp|Q9BPW9|DHRS9_HUMAN Dehydrogenase/reductase SDR family member 9 OS=Homo sapiens GN=DHRS9 PE=1 SV=1
+>sp|Q9BTV4|TMM43_HUMAN Transmembrane protein 43 OS=Homo sapiens GN=TMEM43 PE=1 SV=1
+>sp|Q9BV20|MTNA_HUMAN Methylthioribose-1-phosphate isomerase OS=Homo sapiens GN=MRI1 PE=1 SV=1
+>sp|Q9BY41|HDAC8_HUMAN Histone deacetylase 8 OS=Homo sapiens GN=HDAC8 PE=1 SV=2
+>sp|Q9H1A3|METL9_HUMAN Methyltransferase-like protein 9 OS=Homo sapiens GN=METTL9 PE=2 SV=1
+>sp|Q9H479|FN3K_HUMAN Fructosamine-3-kinase OS=Homo sapiens GN=FN3K PE=1 SV=1
+>sp|Q9H845|ACAD9_HUMAN Acyl-CoA dehydrogenase family member 9, mitochondrial OS=Homo sapiens GN=ACAD9 PE=1 SV=1
+>sp|Q9H9P8|L2HDH_HUMAN L-2-hydroxyglutarate dehydrogenase, mitochondrial OS=Homo sapiens GN=L2HGDH PE=1 SV=3
+>sp|Q9HDC9|APMAP_HUMAN Adipocyte plasma membrane-associated protein OS=Homo sapiens GN=APMAP PE=1 SV=2
+>sp|Q9NNW7|TRXR2_HUMAN Thioredoxin reductase 2, mitochondrial OS=Homo sapiens GN=TXNRD2 PE=1 SV=3
+>sp|Q9NTX5|ECHD1_HUMAN Ethylmalonyl-CoA decarboxylase OS=Homo sapiens GN=ECHDC1 PE=1 SV=2
+>sp|Q9NUJ1|ABHDA_HUMAN Mycophenolic acid acyl-glucuronide esterase, mitochondrial OS=Homo sapiens GN=ABHD10 PE=1 SV=1
+>sp|Q9NVH6|TMLH_HUMAN Trimethyllysine dioxygenase, mitochondrial OS=Homo sapiens GN=TMLHE PE=1 SV=1
+>sp|Q9UHB4|NDOR1_HUMAN NADPH-dependent diflavin oxidoreductase 1 OS=Homo sapiens GN=NDOR1 PE=1 SV=1
+>sp|Q9UHJ6|SHPK_HUMAN Sedoheptulokinase OS=Homo sapiens GN=SHPK PE=1 SV=3
+>sp|Q9UHQ9|NB5R1_HUMAN NADH-cytochrome b5 reductase 1 OS=Homo sapiens GN=CYB5R1 PE=1 SV=1
+>sp|Q9Y2S2|CRYL1_HUMAN Lambda-crystallin homolog OS=Homo sapiens GN=CRYL1 PE=1 SV=3
+>sp|Q9Y6N5|SQRD_HUMAN Sulfide:quinone oxidoreductase, mitochondrial OS=Homo sapiens GN=SQRDL PE=1 SV=1
+>sp|A6NDG6|PGP_HUMAN Phosphoglycolate phosphatase OS=Homo sapiens GN=PGP PE=1 SV=1
+>sp|A6NEC2|PSAL_HUMAN Puromycin-sensitive aminopeptidase-like protein OS=Homo sapiens GN=NPEPPSL1 PE=2 SV=3
+>tr|H3BNX3|H3BNX3_HUMAN Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=1
+>sp|O14678|ABCD4_HUMAN ATP-binding cassette sub-family D member 4 OS=Homo sapiens GN=ABCD4 PE=1 SV=1
+>sp|O14841|OPLA_HUMAN 5-oxoprolinase OS=Homo sapiens GN=OPLAH PE=1 SV=3
+>sp|O43824|GTPB6_HUMAN Putative GTP-binding protein 6 OS=Homo sapiens GN=GTPBP6 PE=2 SV=3
+>sp|O60928|KCJ13_HUMAN Inward rectifier potassium channel 13 OS=Homo sapiens GN=KCNJ13 PE=1 SV=1
+>sp|O75648|MTU1_HUMAN Mitochondrial tRNA-specific 2-thiouridylase 1 OS=Homo sapiens GN=TRMU PE=1 SV=2
+>sp|O95352|ATG7_HUMAN Ubiquitin-like modifier-activating enzyme ATG7 OS=Homo sapiens GN=ATG7 PE=1 SV=1
+>sp|O95479|G6PE_HUMAN GDH/6PGL endoplasmic bifunctional protein OS=Homo sapiens GN=H6PD PE=1 SV=2
+>sp|O95822|DCMC_HUMAN Malonyl-CoA decarboxylase, mitochondrial OS=Homo sapiens GN=MLYCD PE=1 SV=3
+>sp|O95831|AIFM1_HUMAN Apoptosis-inducing factor 1, mitochondrial OS=Homo sapiens GN=AIFM1 PE=1 SV=1
+>sp|P07099|HYEP_HUMAN Epoxide hydrolase 1 OS=Homo sapiens GN=EPHX1 PE=1 SV=1
+>sp|P11172|UMPS_HUMAN Uridine 5'-monophosphate synthase OS=Homo sapiens GN=UMPS PE=1 SV=1
+>sp|P16278|BGAL_HUMAN Beta-galactosidase OS=Homo sapiens GN=GLB1 PE=1 SV=2
+>sp|P17707|DCAM_HUMAN S-adenosylmethionine decarboxylase proenzyme OS=Homo sapiens GN=AMD1 PE=1 SV=2
+>sp|P22102|PUR2_HUMAN Trifunctional purine biosynthetic protein adenosine-3 OS=Homo sapiens GN=GART PE=1 SV=1
+>sp|P29966|MARCS_HUMAN Myristoylated alanine-rich C-kinase substrate OS=Homo sapiens GN=MARCKS PE=1 SV=4
+>sp|P33121|ACSL1_HUMAN Long-chain-fatty-acid--CoA ligase 1 OS=Homo sapiens GN=ACSL1 PE=1 SV=1
+>sp|P35270|SPRE_HUMAN Sepiapterin reductase OS=Homo sapiens GN=SPR PE=1 SV=1
+>sp|P43490|NAMPT_HUMAN Nicotinamide phosphoribosyltransferase OS=Homo sapiens GN=NAMPT PE=1 SV=1
+>sp|P43897|EFTS_HUMAN Elongation factor Ts, mitochondrial OS=Homo sapiens GN=TSFM PE=1 SV=2
+>sp|P51606|RENBP_HUMAN N-acylglucosamine 2-epimerase OS=Homo sapiens GN=RENBP PE=1 SV=2
+>sp|P53602|MVD1_HUMAN Diphosphomevalonate decarboxylase OS=Homo sapiens GN=MVD PE=1 SV=1
+>sp|P54687|BCAT1_HUMAN Branched-chain-amino-acid aminotransferase, cytosolic OS=Homo sapiens GN=BCAT1 PE=1 SV=3
+>sp|Q00796|DHSO_HUMAN Sorbitol dehydrogenase OS=Homo sapiens GN=SORD PE=1 SV=4
+>sp|Q05932|FOLC_HUMAN Folylpolyglutamate synthase, mitochondrial OS=Homo sapiens GN=FPGS PE=1 SV=3
+>sp|Q06203|PUR1_HUMAN Amidophosphoribosyltransferase OS=Homo sapiens GN=PPAT PE=1 SV=1
+>sp|Q07075|AMPE_HUMAN Glutamyl aminopeptidase OS=Homo sapiens GN=ENPEP PE=1 SV=3
+>sp|Q14397|GCKR_HUMAN Glucokinase regulatory protein OS=Homo sapiens GN=GCKR PE=1 SV=6
+>sp|Q16739|CEGT_HUMAN Ceramide glucosyltransferase OS=Homo sapiens GN=UGCG PE=1 SV=1
+>sp|Q16773|KAT1_HUMAN Kynurenine--oxoglutarate transaminase 1 OS=Homo sapiens GN=CCBL1 PE=1 SV=1
+>sp|Q2TAA5|ALG11_HUMAN GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase OS=Homo sapiens GN=ALG11 PE=1 SV=2
+>sp|Q3SXM5|HSDL1_HUMAN Inactive hydroxysteroid dehydrogenase-like protein 1 OS=Homo sapiens GN=HSDL1 PE=1 SV=3
+>sp|Q53H12|AGK_HUMAN Acylglycerol kinase, mitochondrial OS=Homo sapiens GN=AGK PE=1 SV=2
+>sp|Q5TEU4|NDUF5_HUMAN NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 5 OS=Homo sapiens GN=NDUFAF5 PE=1 SV=1
+>sp|Q67FW5|B3GNL_HUMAN UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase-like protein 1 OS=Homo sapiens GN=B3GNTL1 PE=2 SV=2
+>sp|Q6GTS8|P20D1_HUMAN Probable carboxypeptidase PM20D1 OS=Homo sapiens GN=PM20D1 PE=2 SV=3
+>sp|Q6PCE3|PGM2L_HUMAN Glucose 1,6-bisphosphate synthase OS=Homo sapiens GN=PGM2L1 PE=1 SV=3
+>sp|Q6ZV70|LANC3_HUMAN LanC-like protein 3 OS=Homo sapiens GN=LANCL3 PE=2 SV=2
+>sp|Q8IXN7|RIMKA_HUMAN N-acetylaspartylglutamate synthase A OS=Homo sapiens GN=RIMKLA PE=2 SV=2
+>sp|Q8IZ69|TRM2A_HUMAN tRNA (uracil-5-)-methyltransferase homolog A OS=Homo sapiens GN=TRMT2A PE=1 SV=2
+>sp|Q8IZV5|RDH10_HUMAN Retinol dehydrogenase 10 OS=Homo sapiens GN=RDH10 PE=1 SV=1
+>sp|Q8N3Y7|RDHE2_HUMAN Epidermal retinol dehydrogenase 2 OS=Homo sapiens GN=SDR16C5 PE=2 SV=2
+>sp|Q8NBP0|TTC13_HUMAN Tetratricopeptide repeat protein 13 OS=Homo sapiens GN=TTC13 PE=2 SV=3
+>sp|Q8NBX0|SCPDL_HUMAN Saccharopine dehydrogenase-like oxidoreductase OS=Homo sapiens GN=SCCPDH PE=1 SV=1
+>sp|Q8NEX9|DR9C7_HUMAN Short-chain dehydrogenase/reductase family 9C member 7 OS=Homo sapiens GN=SDR9C7 PE=1 SV=1
+>sp|Q92781|RDH1_HUMAN 11-cis retinol dehydrogenase OS=Homo sapiens GN=RDH5 PE=1 SV=1
+>sp|Q96G03|PGM2_HUMAN Phosphoglucomutase-2 OS=Homo sapiens GN=PGM2 PE=1 SV=4
+>sp|Q96LJ7|DHRS1_HUMAN Dehydrogenase/reductase SDR family member 1 OS=Homo sapiens GN=DHRS1 PE=1 SV=1
+>sp|Q96Q11|TRNT1_HUMAN CCA tRNA nucleotidyltransferase 1, mitochondrial OS=Homo sapiens GN=TRNT1 PE=1 SV=2
+>sp|Q96RQ3|MCCA_HUMAN Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial OS=Homo sapiens GN=MCCC1 PE=1 SV=3
+>sp|Q9BPX1|DHB14_HUMAN 17-beta-hydroxysteroid dehydrogenase 14 OS=Homo sapiens GN=HSD17B14 PE=1 SV=1
+>sp|Q9BRQ3|NUD22_HUMAN Nucleoside diphosphate-linked moiety X motif 22 OS=Homo sapiens GN=NUDT22 PE=2 SV=3
+>sp|Q9BY49|PECR_HUMAN Peroxisomal trans-2-enoyl-CoA reductase OS=Homo sapiens GN=PECR PE=1 SV=2
+>sp|Q9HAB8|PPCS_HUMAN Phosphopantothenate--cysteine ligase OS=Homo sapiens GN=PPCS PE=1 SV=2
+>sp|Q9HCQ5|GALT9_HUMAN Polypeptide N-acetylgalactosaminyltransferase 9 OS=Homo sapiens GN=GALNT9 PE=2 SV=3
+>sp|Q9NUB1|ACS2L_HUMAN Acetyl-coenzyme A synthetase 2-like, mitochondrial OS=Homo sapiens GN=ACSS1 PE=1 SV=2
+>sp|Q9NUI1|DECR2_HUMAN Peroxisomal 2,4-dienoyl-CoA reductase OS=Homo sapiens GN=DECR2 PE=1 SV=1
+>sp|Q9NUQ8|ABCF3_HUMAN ATP-binding cassette sub-family F member 3 OS=Homo sapiens GN=ABCF3 PE=1 SV=2
+>sp|Q9NWL6|ASND1_HUMAN Asparagine synthetase domain-containing protein 1 OS=Homo sapiens GN=ASNSD1 PE=2 SV=2
+>sp|Q9NZJ6|COQ3_HUMAN Hexaprenyldihydroxybenzoate methyltransferase, mitochondrial OS=Homo sapiens GN=COQ3 PE=1 SV=3
+>sp|Q9UG56|PISD_HUMAN Phosphatidylserine decarboxylase proenzyme OS=Homo sapiens GN=PISD PE=2 SV=4
+>sp|Q9UJ83|HACL1_HUMAN 2-hydroxyacyl-CoA lyase 1 OS=Homo sapiens GN=HACL1 PE=1 SV=2
+>sp|Q9ULA0|DNPEP_HUMAN Aspartyl aminopeptidase OS=Homo sapiens GN=DNPEP PE=1 SV=1
+>sp|Q9Y3I0|RTCB_HUMAN tRNA-splicing ligase RtcB homolog OS=Homo sapiens GN=RTCB PE=1 SV=1
+>sp|A2RU49|HYKK_HUMAN Hydroxylysine kinase OS=Homo sapiens GN=HYKK PE=1 SV=2
+>sp|A5YM72|CRNS1_HUMAN Carnosine synthase 1 OS=Homo sapiens GN=CARNS1 PE=1 SV=3
+>sp|A6NK06|IRG1_HUMAN Cis-aconitate decarboxylase OS=Homo sapiens GN=IRG1 PE=1 SV=1
+>sp|A8MY62|BLML_HUMAN Putative beta-lactamase-like 1 OS=Homo sapiens GN=LACTBL1 PE=2 SV=2
+>sp|O14756|H17B6_HUMAN 17-beta-hydroxysteroid dehydrogenase type 6 OS=Homo sapiens GN=HSD17B6 PE=1 SV=1
+>sp|O15229|KMO_HUMAN Kynurenine 3-monooxygenase OS=Homo sapiens GN=KMO PE=1 SV=2
+>sp|O15254|ACOX3_HUMAN Peroxisomal acyl-coenzyme A oxidase 3 OS=Homo sapiens GN=ACOX3 PE=1 SV=2
+>sp|O75191|XYLB_HUMAN Xylulose kinase OS=Homo sapiens GN=XYLB PE=1 SV=3
+>sp|O75452|RDH16_HUMAN Retinol dehydrogenase 16 OS=Homo sapiens GN=RDH16 PE=1 SV=2
+>sp|O95394|AGM1_HUMAN Phosphoacetylglucosamine mutase OS=Homo sapiens GN=PGM3 PE=1 SV=1
+>sp|O95671|ASML_HUMAN N-acetylserotonin O-methyltransferase-like protein OS=Homo sapiens GN=ASMTL PE=1 SV=3
+>sp|P04062|GLCM_HUMAN Glucosylceramidase OS=Homo sapiens GN=GBA PE=1 SV=3
+>sp|P08236|BGLR_HUMAN Beta-glucuronidase OS=Homo sapiens GN=GUSB PE=1 SV=2
+>sp|P08243|ASNS_HUMAN Asparagine synthetase [glutamine-hydrolyzing] OS=Homo sapiens GN=ASNS PE=1 SV=4
+>sp|P14060|3BHS1_HUMAN 3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 1 OS=Homo sapiens GN=HSD3B1 PE=1 SV=2
+>sp|P16930|FAAA_HUMAN Fumarylacetoacetase OS=Homo sapiens GN=FAH PE=1 SV=2
+>sp|P17735|ATTY_HUMAN Tyrosine aminotransferase OS=Homo sapiens GN=TAT PE=1 SV=1

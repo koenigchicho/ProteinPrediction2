@@ -1,0 +1,300 @@
+>sp|P82970|HMGN5_HUMAN High mobility group nucleosome-binding domain-containing protein 5 OS=Homo sapiens GN=HMGN5 PE=1 SV=1
+>sp|P35663|CYLC1_HUMAN Cylicin-1 OS=Homo sapiens GN=CYLC1 PE=2 SV=2
+>sp|Q07283|TRHY_HUMAN Trichohyalin OS=Homo sapiens GN=TCHH PE=1 SV=2
+>sp|Q9H321|VCX3B_HUMAN Variable charge X-linked protein 3B OS=Homo sapiens GN=VCX3B PE=2 SV=4
+>sp|A8MUU9|YV023_HUMAN Putative uncharacterized protein ENSP00000383309 OS=Homo sapiens PE=5 SV=3
+>sp|Q6ZRG5|YQ015_HUMAN Putative uncharacterized protein FLJ43944 OS=Homo sapiens PE=5 SV=1
+>sp|Q8N7Z2|GG6L1_HUMAN Golgin subfamily A member 6-like protein 1 OS=Homo sapiens GN=GOLGA6L1 PE=2 SV=2
+>sp|Q9H320|VCX1_HUMAN Variable charge X-linked protein 1 OS=Homo sapiens GN=VCX PE=2 SV=1
+>sp|A8MZA4|GG6L6_HUMAN Putative golgin subfamily A member 6-like protein 6 OS=Homo sapiens GN=GOLGA6L6 PE=5 SV=3
+>tr|H3BPF8|H3BPF8_HUMAN Protein GOLGA8S OS=Homo sapiens GN=GOLGA8S PE=4 SV=1
+>sp|A0MZ66|SHOT1_HUMAN Shootin-1 OS=Homo sapiens GN=KIAA1598 PE=1 SV=4
+>sp|A6NEF3|GG6L4_HUMAN Putative golgin subfamily A member 6-like protein 4 OS=Homo sapiens GN=GOLGA6L4 PE=5 SV=3
+>sp|B3KS81|SRRM5_HUMAN Serine/arginine repetitive matrix protein 5 OS=Homo sapiens GN=SRRM5 PE=1 SV=3
+>sp|D6RB28|GG6LR_HUMAN Putative golgin subfamily A member 6-like protein 18 OS=Homo sapiens GN=GOLGA6L18 PE=5 SV=1
+>tr|H3BQL2|H3BQL2_HUMAN Protein GOLGA8T OS=Homo sapiens GN=GOLGA8T PE=4 SV=1
+>sp|Q13316|DMP1_HUMAN Dentin matrix acidic phosphoprotein 1 OS=Homo sapiens GN=DMP1 PE=1 SV=2
+>sp|Q8N9W4|GG6L2_HUMAN Golgin subfamily A member 6-like protein 2 OS=Homo sapiens GN=GOLGA6L2 PE=2 SV=2
+>sp|Q9NWB6|ARGL1_HUMAN Arginine and glutamate-rich protein 1 OS=Homo sapiens GN=ARGLU1 PE=1 SV=1
+>sp|Q9NYA3|GOG6A_HUMAN Golgin subfamily A member 6A OS=Homo sapiens GN=GOLGA6A PE=2 SV=3
+>sp|A7MD48|SRRM4_HUMAN Serine/arginine repetitive matrix protein 4 OS=Homo sapiens GN=SRRM4 PE=1 SV=2
+>sp|P04280|PRP1_HUMAN Basic salivary proline-rich protein 1 OS=Homo sapiens GN=PRB1 PE=1 SV=2
+>sp|P0CG33|GOG6D_HUMAN Putative golgin subfamily A member 6D OS=Homo sapiens GN=GOLGA6D PE=5 SV=1
+>sp|Q04118|PRB3_HUMAN Basic salivary proline-rich protein 3 OS=Homo sapiens GN=PRB3 PE=1 SV=2
+>sp|Q9H6F5|CCD86_HUMAN Coiled-coil domain-containing protein 86 OS=Homo sapiens GN=CCDC86 PE=1 SV=1
+>sp|Q9NZW4|DSPP_HUMAN Dentin sialophosphoprotein OS=Homo sapiens GN=DSPP PE=1 SV=2
+>sp|A6NFL8|GG6LT_HUMAN Putative golgin subfamily A member 6-like protein 20 OS=Homo sapiens GN=GOLGA6L20 PE=5 SV=4
+>sp|A6NI86|GG6LA_HUMAN Putative golgin subfamily A member 6-like protein 10 OS=Homo sapiens GN=GOLGA6L10 PE=5 SV=3
+>sp|D6RF30|GOG8K_HUMAN Golgin subfamily A member 8K OS=Homo sapiens GN=GOLGA8K PE=3 SV=1
+>sp|P04279|SEMG1_HUMAN Semenogelin-1 OS=Homo sapiens GN=SEMG1 PE=1 SV=2
+>sp|P07476|INVO_HUMAN Involucrin OS=Homo sapiens GN=IVL PE=1 SV=2
+>sp|P17677|NEUM_HUMAN Neuromodulin OS=Homo sapiens GN=GAP43 PE=1 SV=1
+>sp|Q08AF8|GOG8F_HUMAN Putative golgin subfamily A member 8F/8G OS=Homo sapiens GN=GOLGA8F PE=5 SV=1
+>sp|Q5M9N0|CD158_HUMAN Coiled-coil domain-containing protein 158 OS=Homo sapiens GN=CCDC158 PE=1 SV=2
+>sp|Q6ZQX7|LIAT1_HUMAN Protein LIAT1 OS=Homo sapiens GN=LIAT1 PE=2 SV=2
+>sp|Q6ZU80|CE128_HUMAN Centrosomal protein of 128 kDa OS=Homo sapiens GN=CEP128 PE=1 SV=2
+>sp|Q6ZVF9|GRIN3_HUMAN G protein-regulated inducer of neurite outgrowth 3 OS=Homo sapiens GN=GPRIN3 PE=2 SV=2
+>sp|Q8IVM0|CCD50_HUMAN Coiled-coil domain-containing protein 50 OS=Homo sapiens GN=CCDC50 PE=1 SV=1
+>sp|Q8IZU1|FAM9A_HUMAN Protein FAM9A OS=Homo sapiens GN=FAM9A PE=1 SV=1
+>sp|Q8TBZ0|CC110_HUMAN Coiled-coil domain-containing protein 110 OS=Homo sapiens GN=CCDC110 PE=2 SV=1
+>sp|Q9H7N4|SFR19_HUMAN Splicing factor, arginine/serine-rich 19 OS=Homo sapiens GN=SCAF1 PE=1 SV=3
+>sp|Q9Y592|CEP83_HUMAN Centrosomal protein of 83 kDa OS=Homo sapiens GN=CEP83 PE=1 SV=2
+>sp|A6NC78|GOG8I_HUMAN Golgin subfamily A member 8I OS=Homo sapiens GN=GOLGA8I PE=3 SV=2
+>sp|A6NDK9|GOG6C_HUMAN Putative golgin subfamily A member 6C OS=Homo sapiens GN=GOLGA6C PE=5 SV=1
+>sp|A6NDN3|GOG6B_HUMAN Putative golgin subfamily A member 6B OS=Homo sapiens GN=GOLGA6B PE=5 SV=3
+>sp|A6NMD2|GOG8J_HUMAN Golgin subfamily A member 8J OS=Homo sapiens GN=GOLGA8J PE=3 SV=3
+>sp|A6NN73|GOG8C_HUMAN Golgin subfamily A member 8C OS=Homo sapiens GN=GOLGA8CP PE=3 SV=2
+>tr|H3BV12|H3BV12_HUMAN Protein GOLGA8Q OS=Homo sapiens GN=GOLGA8Q PE=4 SV=1
+>sp|I6L899|GOG8R_HUMAN Golgin subfamily A member 8R OS=Homo sapiens GN=GOLGA8R PE=3 SV=1
+>sp|O75330|HMMR_HUMAN Hyaluronan mediated motility receptor OS=Homo sapiens GN=HMMR PE=1 SV=2
+>sp|P20810|ICAL_HUMAN Calpastatin OS=Homo sapiens GN=CAST PE=1 SV=4
+>sp|Q05682|CALD1_HUMAN Caldesmon OS=Homo sapiens GN=CALD1 PE=1 SV=3
+>sp|Q16204|CCDC6_HUMAN Coiled-coil domain-containing protein 6 OS=Homo sapiens GN=CCDC6 PE=1 SV=2
+>sp|Q32MZ4|LRRF1_HUMAN Leucine-rich repeat flightless-interacting protein 1 OS=Homo sapiens GN=LRRFIP1 PE=1 SV=2
+>sp|Q4V328|GRAP1_HUMAN GRIP1-associated protein 1 OS=Homo sapiens GN=GRIPAP1 PE=1 SV=1
+>sp|Q5T9S5|CCD18_HUMAN Coiled-coil domain-containing protein 18 OS=Homo sapiens GN=CCDC18 PE=2 SV=1
+>sp|Q6ZMV7|LEKR1_HUMAN Leucine-, glutamate- and lysine-rich protein 1 OS=Homo sapiens GN=LEKR1 PE=2 SV=2
+>sp|Q7Z589|EMSY_HUMAN Protein EMSY OS=Homo sapiens GN=EMSY PE=1 SV=2
+>sp|Q8IWJ2|GCC2_HUMAN GRIP and coiled-coil domain-containing protein 2 OS=Homo sapiens GN=GCC2 PE=1 SV=4
+>sp|Q8NB25|F184A_HUMAN Protein FAM184A OS=Homo sapiens GN=FAM184A PE=2 SV=3
+>sp|Q9H1E3|NUCKS_HUMAN Nuclear ubiquitous casein and cyclin-dependent kinase substrate 1 OS=Homo sapiens GN=NUCKS1 PE=1 SV=1
+>sp|Q9NUQ3|TXLNG_HUMAN Gamma-taxilin OS=Homo sapiens GN=TXLNG PE=1 SV=2
+>sp|Q9Y608|LRRF2_HUMAN Leucine-rich repeat flightless-interacting protein 2 OS=Homo sapiens GN=LRRFIP2 PE=1 SV=1
+>sp|A6NDB9|PALM3_HUMAN Paralemmin-3 OS=Homo sapiens GN=PALM3 PE=1 SV=2
+>sp|A6NEY3|GG6L3_HUMAN Putative golgin subfamily A member 6-like protein 3 OS=Homo sapiens GN=GOLGA6L3 PE=5 SV=3
+>sp|A7E2F4|GOG8A_HUMAN Golgin subfamily A member 8A OS=Homo sapiens GN=GOLGA8A PE=2 SV=3
+>sp|A8MQT2|GOG8B_HUMAN Golgin subfamily A member 8B OS=Homo sapiens GN=GOLGA8B PE=2 SV=2
+>sp|D6REC4|CFA99_HUMAN Cilia- and flagella-associated protein 99 OS=Homo sapiens GN=CFAP99 PE=3 SV=1
+>sp|P09493|TPM1_HUMAN Tropomyosin alpha-1 chain OS=Homo sapiens GN=TPM1 PE=1 SV=2
+>sp|P12270|TPR_HUMAN Nucleoprotein TPR OS=Homo sapiens GN=TPR PE=1 SV=3
+>sp|P49006|MRP_HUMAN MARCKS-related protein OS=Homo sapiens GN=MARCKSL1 PE=1 SV=2
+>sp|Q08379|GOGA2_HUMAN Golgin subfamily A member 2 OS=Homo sapiens GN=GOLGA2 PE=1 SV=3
+>sp|Q0D2H9|GOG8D_HUMAN Putative golgin subfamily A member 8D OS=Homo sapiens GN=GOLGA8DP PE=5 SV=1
+>sp|Q5VU43|MYOME_HUMAN Myomegalin OS=Homo sapiens GN=PDE4DIP PE=1 SV=1
+>sp|Q7Z3E2|CC186_HUMAN Coiled-coil domain-containing protein 186 OS=Homo sapiens GN=CCDC186 PE=1 SV=2
+>sp|Q8IUD2|RB6I2_HUMAN ELKS/Rab6-interacting/CAST family member 1 OS=Homo sapiens GN=ERC1 PE=1 SV=1
+>sp|Q8IWC1|MA7D3_HUMAN MAP7 domain-containing protein 3 OS=Homo sapiens GN=MAP7D3 PE=1 SV=2
+>sp|Q96QH2|PRAM_HUMAN PML-RARA-regulated adapter molecule 1 OS=Homo sapiens GN=PRAM1 PE=1 SV=2
+>sp|Q9BXL5|HEMGN_HUMAN Hemogen OS=Homo sapiens GN=HEMGN PE=1 SV=1
+>sp|Q9NNX9|VCX3_HUMAN Variable charge X-linked protein 3 OS=Homo sapiens GN=VCX3A PE=2 SV=1
+>sp|Q9NQR7|CC177_HUMAN Coiled-coil domain-containing protein 177 OS=Homo sapiens GN=CCDC177 PE=2 SV=3
+>sp|Q9ULE4|F184B_HUMAN Protein FAM184B OS=Homo sapiens GN=FAM184B PE=2 SV=3
+>sp|B9ZVM9|TCP2L_HUMAN Putative t-complex protein 10A homolog 2 OS=Homo sapiens GN=TCP10L2 PE=5 SV=2
+>sp|H3BSY2|GOG8M_HUMAN Golgin subfamily A member 8M OS=Homo sapiens GN=GOLGA8M PE=3 SV=1
+>tr|K7EPK0|K7EPK0_HUMAN Uncharacterized protein (Fragment) OS=Homo sapiens PE=4 SV=1
+>sp|O15083|ERC2_HUMAN ERC protein 2 OS=Homo sapiens GN=ERC2 PE=1 SV=3
+>sp|P06753|TPM3_HUMAN Tropomyosin alpha-3 chain OS=Homo sapiens GN=TPM3 PE=1 SV=2
+>sp|P78364|PHC1_HUMAN Polyhomeotic-like protein 1 OS=Homo sapiens GN=PHC1 PE=1 SV=3
+>sp|Q08378|GOGA3_HUMAN Golgin subfamily A member 3 OS=Homo sapiens GN=GOLGA3 PE=1 SV=2
+>sp|Q15075|EEA1_HUMAN Early endosome antigen 1 OS=Homo sapiens GN=EEA1 PE=1 SV=2
+>sp|Q4G0X9|CCD40_HUMAN Coiled-coil domain-containing protein 40 OS=Homo sapiens GN=CCDC40 PE=2 SV=2
+>sp|Q5QJ38|TCHL1_HUMAN Trichohyalin-like protein 1 OS=Homo sapiens GN=TCHHL1 PE=2 SV=1
+>sp|Q5T749|KPRP_HUMAN Keratinocyte proline-rich protein OS=Homo sapiens GN=KPRP PE=1 SV=1
+>sp|Q5VVM6|CCD30_HUMAN Coiled-coil domain-containing protein 30 OS=Homo sapiens GN=CCDC30 PE=2 SV=1
+>sp|Q6JBY9|CPZIP_HUMAN CapZ-interacting protein OS=Homo sapiens GN=RCSD1 PE=1 SV=1
+>sp|Q6ZUT1|CK057_HUMAN Uncharacterized protein C11orf57 OS=Homo sapiens GN=C11orf57 PE=1 SV=2
+>sp|Q86TE4|LUZP2_HUMAN Leucine zipper protein 2 OS=Homo sapiens GN=LUZP2 PE=2 SV=2
+>sp|Q86VM9|ZCH18_HUMAN Zinc finger CCCH domain-containing protein 18 OS=Homo sapiens GN=ZC3H18 PE=1 SV=2
+>sp|Q8IVE0|CROL2_HUMAN Putative ciliary rootlet coiled-coil protein-like 2 protein OS=Homo sapiens GN=CROCCP3 PE=5 SV=1
+>sp|Q8IYE1|CCD13_HUMAN Coiled-coil domain-containing protein 13 OS=Homo sapiens GN=CCDC13 PE=1 SV=2
+>sp|Q8N3L3|TXLNB_HUMAN Beta-taxilin OS=Homo sapiens GN=TXLNB PE=1 SV=3
+>sp|Q8NCX0|CC150_HUMAN Coiled-coil domain-containing protein 150 OS=Homo sapiens GN=CCDC150 PE=2 SV=2
+>sp|Q8NF67|A2012_HUMAN Putative ankyrin repeat domain-containing protein 20A12 pseudogene OS=Homo sapiens GN=ANKRD20A12P PE=5 SV=3
+>sp|Q8WVC0|LEO1_HUMAN RNA polymerase-associated protein LEO1 OS=Homo sapiens GN=LEO1 PE=1 SV=1
+>sp|Q9BT92|TCHP_HUMAN Trichoplein keratin filament-binding protein OS=Homo sapiens GN=TCHP PE=1 SV=1
+>sp|Q9H2F9|CCD68_HUMAN Coiled-coil domain-containing protein 68 OS=Homo sapiens GN=CCDC68 PE=2 SV=1
+>sp|Q9H7C4|SYNCI_HUMAN Syncoilin OS=Homo sapiens GN=SYNC PE=1 SV=3
+>sp|Q9P127|LUZP4_HUMAN Leucine zipper protein 4 OS=Homo sapiens GN=LUZP4 PE=2 SV=1
+>sp|Q9UL16|CFA45_HUMAN Cilia- and flagella-associated protein 45 OS=Homo sapiens GN=CFAP45 PE=2 SV=2
+>sp|A6NCC3|GOG8O_HUMAN Golgin subfamily A member 8O OS=Homo sapiens GN=GOLGA8O PE=1 SV=3
+>sp|A6NEM1|GG6L9_HUMAN Golgin subfamily A member 6-like protein 9 OS=Homo sapiens GN=GOLGA6L9 PE=2 SV=3
+>sp|A6NI79|CCD69_HUMAN Coiled-coil domain-containing protein 69 OS=Homo sapiens GN=CCDC69 PE=1 SV=1
+>sp|A8MV72|YH009_HUMAN Putative UPF0607 protein ENSP00000382826 OS=Homo sapiens PE=5 SV=2
+>sp|H0YKK7|GG6LS_HUMAN Putative golgin subfamily A member 6-like protein 19 OS=Homo sapiens GN=GOLGA6L19 PE=5 SV=1
+>sp|O00461|GOLI4_HUMAN Golgi integral membrane protein 4 OS=Homo sapiens GN=GOLIM4 PE=1 SV=1
+>sp|O14513|NCKP5_HUMAN Nck-associated protein 5 OS=Homo sapiens GN=NCKAP5 PE=1 SV=2
+>sp|P07951|TPM2_HUMAN Tropomyosin beta chain OS=Homo sapiens GN=TPM2 PE=1 SV=1
+>sp|P0CJ92|GOG8H_HUMAN Golgin subfamily A member 8H OS=Homo sapiens GN=GOLGA8H PE=3 SV=1
+>sp|P23508|CRCM_HUMAN Colorectal mutant cancer protein OS=Homo sapiens GN=MCC PE=1 SV=2
+>sp|Q02383|SEMG2_HUMAN Semenogelin-2 OS=Homo sapiens GN=SEMG2 PE=1 SV=1
+>sp|Q02952|AKA12_HUMAN A-kinase anchor protein 12 OS=Homo sapiens GN=AKAP12 PE=1 SV=4
+>sp|Q12799|TCP10_HUMAN T-complex protein 10A homolog OS=Homo sapiens GN=TCP10 PE=2 SV=3
+>sp|Q15276|RABE1_HUMAN Rab GTPase-binding effector protein 1 OS=Homo sapiens GN=RABEP1 PE=1 SV=2
+>sp|Q3BBV2|NBPF8_HUMAN Putative neuroblastoma breakpoint family member 8 OS=Homo sapiens GN=NBPF8 PE=5 SV=1
+>sp|Q3MJ40|C144B_HUMAN Coiled-coil domain-containing protein 144B OS=Homo sapiens GN=CCDC144B PE=2 SV=1
+>sp|Q3V6T2|GRDN_HUMAN Girdin OS=Homo sapiens GN=CCDC88A PE=1 SV=2
+>sp|Q5T0Z8|CF132_HUMAN Uncharacterized protein C6orf132 OS=Homo sapiens GN=C6orf132 PE=1 SV=4
+>sp|Q5T7N2|LITD1_HUMAN LINE-1 type transposase domain-containing protein 1 OS=Homo sapiens GN=L1TD1 PE=1 SV=1
+>sp|Q5VZ66|JKIP3_HUMAN Janus kinase and microtubule-interacting protein 3 OS=Homo sapiens GN=JAKMIP3 PE=2 SV=2
+>sp|Q658T7|F90A2_HUMAN Putative protein FAM90A2P OS=Homo sapiens GN=FAM90A2P PE=5 SV=2
+>sp|Q66GS9|CP135_HUMAN Centrosomal protein of 135 kDa OS=Homo sapiens GN=CEP135 PE=1 SV=2
+>sp|Q7Z6B0|CCD91_HUMAN Coiled-coil domain-containing protein 91 OS=Homo sapiens GN=CCDC91 PE=1 SV=2
+>sp|Q8IYE0|CC146_HUMAN Coiled-coil domain-containing protein 146 OS=Homo sapiens GN=CCDC146 PE=2 SV=2
+>sp|Q8N6V9|TEX9_HUMAN Testis-expressed sequence 9 protein OS=Homo sapiens GN=TEX9 PE=2 SV=1
+>sp|Q8N9E0|F133A_HUMAN Protein FAM133A OS=Homo sapiens GN=FAM133A PE=2 SV=1
+>sp|Q8ND24|RN214_HUMAN RING finger protein 214 OS=Homo sapiens GN=RNF214 PE=1 SV=2
+>sp|Q8TBY8|PMFBP_HUMAN Polyamine-modulated factor 1-binding protein 1 OS=Homo sapiens GN=PMFBP1 PE=2 SV=1
+>sp|Q8TD31|CCHCR_HUMAN Coiled-coil alpha-helical rod protein 1 OS=Homo sapiens GN=CCHCR1 PE=2 SV=2
+>sp|Q96AA8|JKIP2_HUMAN Janus kinase and microtubule-interacting protein 2 OS=Homo sapiens GN=JAKMIP2 PE=2 SV=1
+>sp|Q96JN2|CC136_HUMAN Coiled-coil domain-containing protein 136 OS=Homo sapiens GN=CCDC136 PE=2 SV=3
+>sp|Q96KP6|TNIP3_HUMAN TNFAIP3-interacting protein 3 OS=Homo sapiens GN=TNIP3 PE=1 SV=2
+>sp|Q96NL6|SCLT1_HUMAN Sodium channel and clathrin linker 1 OS=Homo sapiens GN=SCLT1 PE=1 SV=2
+>sp|Q96QF7|ACRC_HUMAN Acidic repeat-containing protein OS=Homo sapiens GN=ACRC PE=2 SV=1
+>sp|Q9H5N1|RABE2_HUMAN Rab GTPase-binding effector protein 2 OS=Homo sapiens GN=RABEP2 PE=1 SV=2
+>sp|Q9HCH0|NCK5L_HUMAN Nck-associated protein 5-like OS=Homo sapiens GN=NCKAP5L PE=1 SV=2
+>sp|Q9P219|DAPLE_HUMAN Protein Daple OS=Homo sapiens GN=CCDC88C PE=1 SV=3
+>sp|Q9Y2W2|WBP11_HUMAN WW domain-binding protein 11 OS=Homo sapiens GN=WBP11 PE=1 SV=1
+>sp|A1A5D9|BICR2_HUMAN Bicaudal D-related protein 2 OS=Homo sapiens GN=CCDC64B PE=2 SV=2
+>sp|A4FU49|SH321_HUMAN SH3 domain-containing protein 21 OS=Homo sapiens GN=SH3D21 PE=2 SV=2
+>sp|A6NGH7|CC160_HUMAN Coiled-coil domain-containing protein 160 OS=Homo sapiens GN=CCDC160 PE=3 SV=3
+>sp|A6NNH2|F90AR_HUMAN Protein FAM90A27P OS=Homo sapiens GN=FAM90A27P PE=3 SV=2
+>sp|E7EW31|PROB1_HUMAN Proline-rich basic protein 1 OS=Homo sapiens GN=PROB1 PE=2 SV=2
+>tr|F8WAN1|F8WAN1_HUMAN Protein SPECC1L-ADORA2A OS=Homo sapiens GN=SPECC1L-ADORA2A PE=4 SV=2
+>sp|F8WBI6|GOG8N_HUMAN Golgin subfamily A member 8N OS=Homo sapiens GN=GOLGA8N PE=3 SV=1
+>sp|I3L273|GFY_HUMAN Golgi-associated olfactory signaling regulator OS=Homo sapiens GN=GFY PE=3 SV=1
+>sp|O15240|VGF_HUMAN Neurosecretory protein VGF OS=Homo sapiens GN=VGF PE=1 SV=2
+>sp|O60732|MAGC1_HUMAN Melanoma-associated antigen C1 OS=Homo sapiens GN=MAGEC1 PE=1 SV=3
+>sp|O95817|BAG3_HUMAN BAG family molecular chaperone regulator 3 OS=Homo sapiens GN=BAG3 PE=1 SV=3
+>sp|P0CAP1|MYZAP_HUMAN Myocardial zonula adherens protein OS=Homo sapiens GN=MYZAP PE=1 SV=1
+>sp|P20930|FILA_HUMAN Filaggrin OS=Homo sapiens GN=FLG PE=1 SV=3
+>sp|P40222|TXLNA_HUMAN Alpha-taxilin OS=Homo sapiens GN=TXLNA PE=1 SV=3
+>sp|P80723|BASP1_HUMAN Brain acid soluble protein 1 OS=Homo sapiens GN=BASP1 PE=1 SV=2
+>sp|Q14093|CYLC2_HUMAN Cylicin-2 OS=Homo sapiens GN=CYLC2 PE=2 SV=1
+>sp|Q14980|NUMA1_HUMAN Nuclear mitotic apparatus protein 1 OS=Homo sapiens GN=NUMA1 PE=1 SV=2
+>sp|Q15431|SYCP1_HUMAN Synaptonemal complex protein 1 OS=Homo sapiens GN=SYCP1 PE=1 SV=2
+>sp|Q3KQU3|MA7D1_HUMAN MAP7 domain-containing protein 1 OS=Homo sapiens GN=MAP7D1 PE=1 SV=1
+>sp|Q494V2|CCD37_HUMAN Coiled-coil domain-containing protein 37 OS=Homo sapiens GN=CCDC37 PE=2 SV=1
+>sp|Q5BJE1|CC178_HUMAN Coiled-coil domain-containing protein 178 OS=Homo sapiens GN=CCDC178 PE=2 SV=3
+>sp|Q5BJF6|ODFP2_HUMAN Outer dense fiber protein 2 OS=Homo sapiens GN=ODF2 PE=1 SV=1
+>sp|Q5T6C5|AT7L2_HUMAN Ataxin-7-like protein 2 OS=Homo sapiens GN=ATXN7L2 PE=2 SV=1
+>sp|Q6P6B1|ERIC5_HUMAN Glutamate-rich protein 5 OS=Homo sapiens GN=ERICH5 PE=2 SV=1
+>sp|Q6ZN01|MASTR_HUMAN MEF2-activating motif and SAP domain-containing transcriptional regulator OS=Homo sapiens GN=MAMSTR PE=2 SV=1
+>sp|Q7Z2K8|GRIN1_HUMAN G protein-regulated inducer of neurite outgrowth 1 OS=Homo sapiens GN=GPRIN1 PE=2 SV=2
+>sp|Q7Z7A1|CNTRL_HUMAN Centriolin OS=Homo sapiens GN=CNTRL PE=1 SV=2
+>sp|Q86SQ7|SDCG8_HUMAN Serologically defined colon cancer antigen 8 OS=Homo sapiens GN=SDCCAG8 PE=1 SV=1
+>sp|Q86VQ0|LCA5_HUMAN Lebercilin OS=Homo sapiens GN=LCA5 PE=1 SV=2
+>sp|Q8IYB3|SRRM1_HUMAN Serine/arginine repetitive matrix protein 1 OS=Homo sapiens GN=SRRM1 PE=1 SV=2
+>sp|Q8N8E3|CE112_HUMAN Centrosomal protein of 112 kDa OS=Homo sapiens GN=CEP112 PE=1 SV=2
+>sp|Q8NEF3|CC112_HUMAN Coiled-coil domain-containing protein 112 OS=Homo sapiens GN=CCDC112 PE=2 SV=2
+>sp|Q8NEH6|MNS1_HUMAN Meiosis-specific nuclear structural protein 1 OS=Homo sapiens GN=MNS1 PE=2 SV=2
+>sp|Q8NEP4|CQ047_HUMAN Uncharacterized protein C17orf47 OS=Homo sapiens GN=C17orf47 PE=2 SV=3
+>sp|Q92805|GOGA1_HUMAN Golgin subfamily A member 1 OS=Homo sapiens GN=GOLGA1 PE=1 SV=3
+>sp|Q96MG2|JSPR1_HUMAN Junctional sarcoplasmic reticulum protein 1 OS=Homo sapiens GN=JSRP1 PE=1 SV=1
+>sp|Q96N16|JKIP1_HUMAN Janus kinase and microtubule-interacting protein 1 OS=Homo sapiens GN=JAKMIP1 PE=1 SV=1
+>sp|Q96RK0|CIC_HUMAN Protein capicua homolog OS=Homo sapiens GN=CIC PE=1 SV=2
+>sp|Q9BW71|HIRP3_HUMAN HIRA-interacting protein 3 OS=Homo sapiens GN=HIRIP3 PE=1 SV=3
+>sp|Q9BXG8|SPZ1_HUMAN Spermatogenic leucine zipper protein 1 OS=Homo sapiens GN=SPZ1 PE=2 SV=2
+>sp|Q9P2M7|CING_HUMAN Cingulin OS=Homo sapiens GN=CGN PE=1 SV=2
+>sp|Q9UKV3|ACINU_HUMAN Apoptotic chromatin condensation inducer in the nucleus OS=Homo sapiens GN=ACIN1 PE=1 SV=2
+>sp|Q9ULL0|K1210_HUMAN Uncharacterized protein KIAA1210 OS=Homo sapiens GN=KIAA1210 PE=2 SV=3
+>sp|Q9UMS6|SYNP2_HUMAN Synaptopodin-2 OS=Homo sapiens GN=SYNPO2 PE=1 SV=2
+>sp|A6NE21|F90AI_HUMAN Putative protein FAM90A18P/FAM90A19P OS=Homo sapiens GN=FAM90A18P PE=5 SV=1
+>sp|A8MUA0|YB057_HUMAN Putative UPF0607 protein ENSP00000381514 OS=Homo sapiens PE=3 SV=1
+>sp|A8MWA6|F90AM_HUMAN Putative protein FAM90A22P OS=Homo sapiens GN=FAM90A22P PE=5 SV=1
+>sp|A8MZF0|PRR33_HUMAN Proline-rich protein 33 OS=Homo sapiens GN=PRR33 PE=4 SV=2
+>sp|B1AJZ9|FHAD1_HUMAN Forkhead-associated domain-containing protein 1 OS=Homo sapiens GN=FHAD1 PE=2 SV=2
+>sp|O00515|LAD1_HUMAN Ladinin-1 OS=Homo sapiens GN=LAD1 PE=1 SV=2
+>sp|O14598|VCY1_HUMAN Testis-specific basic protein Y 1 OS=Homo sapiens GN=VCY PE=2 SV=1
+>sp|O15069|NACAD_HUMAN NAC-alpha domain-containing protein 1 OS=Homo sapiens GN=NACAD PE=1 SV=3
+>sp|O15117|FYB_HUMAN FYN-binding protein OS=Homo sapiens GN=FYB PE=1 SV=2
+>sp|O75410|TACC1_HUMAN Transforming acidic coiled-coil-containing protein 1 OS=Homo sapiens GN=TACC1 PE=1 SV=2
+>sp|O75459|PAGE1_HUMAN P antigen family member 1 OS=Homo sapiens GN=PAGE1 PE=1 SV=2
+>sp|O75952|CABYR_HUMAN Calcium-binding tyrosine phosphorylation-regulated protein OS=Homo sapiens GN=CABYR PE=1 SV=2
+>sp|O95447|LCA5L_HUMAN Lebercilin-like protein OS=Homo sapiens GN=LCA5L PE=2 SV=1
+>sp|P27816|MAP4_HUMAN Microtubule-associated protein 4 OS=Homo sapiens GN=MAP4 PE=1 SV=3
+>sp|P82094|TMF1_HUMAN TATA element modulatory factor OS=Homo sapiens GN=TMF1 PE=1 SV=2
+>sp|Q05D60|DEUP1_HUMAN Deuterosome protein 1 OS=Homo sapiens GN=CCDC67 PE=2 SV=2
+>sp|Q14789|GOGB1_HUMAN Golgin subfamily B member 1 OS=Homo sapiens GN=GOLGB1 PE=1 SV=2
+>sp|Q2NL68|PRSR3_HUMAN Proline and serine-rich protein 3 OS=Homo sapiens GN=PROSER3 PE=2 SV=1
+>sp|Q2TAC2|CCD57_HUMAN Coiled-coil domain-containing protein 57 OS=Homo sapiens GN=CCDC57 PE=2 SV=2
+>sp|Q5BKY9|F133B_HUMAN Protein FAM133B OS=Homo sapiens GN=FAM133B PE=1 SV=1
+>sp|Q5HYW2|NHSL2_HUMAN NHS-like protein 2 OS=Homo sapiens GN=NHSL2 PE=1 SV=1
+>sp|Q5JU67|CI117_HUMAN Uncharacterized protein C9orf117 OS=Homo sapiens GN=C9orf117 PE=2 SV=1
+>sp|Q5MJ10|SPXN2_HUMAN Sperm protein associated with the nucleus on the X chromosome N2 OS=Homo sapiens GN=SPANXN2 PE=2 SV=1
+>sp|Q5TB80|CE162_HUMAN Centrosomal protein of 162 kDa OS=Homo sapiens GN=CEP162 PE=1 SV=2
+>sp|Q5VTR2|BRE1A_HUMAN E3 ubiquitin-protein ligase BRE1A OS=Homo sapiens GN=RNF20 PE=1 SV=2
+>sp|Q6ZP65|BICR1_HUMAN Bicaudal D-related protein 1 OS=Homo sapiens GN=CCDC64 PE=2 SV=2
+>sp|Q6ZW33|MICLK_HUMAN MICAL C-terminal-like protein OS=Homo sapiens GN=MICALCL PE=2 SV=3
+>sp|Q7L4I2|RSRC2_HUMAN Arginine/serine-rich coiled-coil protein 2 OS=Homo sapiens GN=RSRC2 PE=1 SV=1
+>sp|Q7Z7B0|FLIP1_HUMAN Filamin-A-interacting protein 1 OS=Homo sapiens GN=FILIP1 PE=1 SV=1
+>sp|Q8N5Q1|F71E2_HUMAN Protein FAM71E2 OS=Homo sapiens GN=FAM71E2 PE=2 SV=3
+>sp|Q8N715|CC185_HUMAN Coiled-coil domain-containing protein 185 OS=Homo sapiens GN=CCDC185 PE=2 SV=2
+>sp|Q8NA70|FA47B_HUMAN Protein FAM47B OS=Homo sapiens GN=FAM47B PE=2 SV=2
+>sp|Q8NCU4|K1407_HUMAN Coiled-coil domain-containing protein KIAA1407 OS=Homo sapiens GN=KIAA1407 PE=2 SV=1
+>sp|Q8TF01|PNISR_HUMAN Arginine/serine-rich protein PNISR OS=Homo sapiens GN=PNISR PE=1 SV=2
+>sp|Q8WXA9|SREK1_HUMAN Splicing regulatory glutamine/lysine-rich protein 1 OS=Homo sapiens GN=SREK1 PE=1 SV=1
+>sp|Q96A19|C102A_HUMAN Coiled-coil domain-containing protein 102A OS=Homo sapiens GN=CCDC102A PE=1 SV=2
+>sp|Q96EA4|SPDLY_HUMAN Protein Spindly OS=Homo sapiens GN=SPDL1 PE=1 SV=2
+>sp|Q96EV2|RBM33_HUMAN RNA-binding protein 33 OS=Homo sapiens GN=RBM33 PE=1 SV=3
+>sp|Q96IZ7|RSRC1_HUMAN Serine/Arginine-related protein 53 OS=Homo sapiens GN=RSRC1 PE=1 SV=1
+>sp|Q96MT8|CEP63_HUMAN Centrosomal protein of 63 kDa OS=Homo sapiens GN=CEP63 PE=1 SV=1
+>sp|Q96Q35|AL2SB_HUMAN Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 12 protein OS=Homo sapiens GN=ALS2CR12 PE=1 SV=2
+>sp|Q9BZW7|TSG10_HUMAN Testis-specific gene 10 protein OS=Homo sapiens GN=TSGA10 PE=1 SV=1
+>sp|Q9NNX1|TUFT1_HUMAN Tuftelin OS=Homo sapiens GN=TUFT1 PE=2 SV=1
+>sp|Q9P206|K1522_HUMAN Uncharacterized protein KIAA1522 OS=Homo sapiens GN=KIAA1522 PE=1 SV=2
+>sp|Q9UFE4|CCD39_HUMAN Coiled-coil domain-containing protein 39 OS=Homo sapiens GN=CCDC39 PE=2 SV=3
+>sp|Q9Y6A5|TACC3_HUMAN Transforming acidic coiled-coil-containing protein 3 OS=Homo sapiens GN=TACC3 PE=1 SV=1
+>sp|A5YM69|ARG35_HUMAN Rho guanine nucleotide exchange factor 35 OS=Homo sapiens GN=ARHGEF35 PE=1 SV=1
+>sp|A6NHQ4|CQ096_HUMAN Uncharacterized protein C17orf96 OS=Homo sapiens GN=C17orf96 PE=1 SV=1
+>sp|A6NNJ1|F90A9_HUMAN Putative protein FAM90A9P OS=Homo sapiens GN=FAM90A9P PE=5 SV=1
+>sp|E2RYF6|MUC22_HUMAN Mucin-22 OS=Homo sapiens GN=MUC22 PE=1 SV=2
+>sp|O43516|WIPF1_HUMAN WAS/WASL-interacting protein family member 1 OS=Homo sapiens GN=WIPF1 PE=1 SV=3
+>sp|O94986|CE152_HUMAN Centrosomal protein of 152 kDa OS=Homo sapiens GN=CEP152 PE=1 SV=4
+>sp|P13805|TNNT1_HUMAN Troponin T, slow skeletal muscle OS=Homo sapiens GN=TNNT1 PE=1 SV=4
+>sp|P54259|ATN1_HUMAN Atrophin-1 OS=Homo sapiens GN=ATN1 PE=1 SV=3
+>sp|Q07065|CKAP4_HUMAN Cytoskeleton-associated protein 4 OS=Homo sapiens GN=CKAP4 PE=1 SV=2
+>sp|Q0VF96|CGNL1_HUMAN Cingulin-like protein 1 OS=Homo sapiens GN=CGNL1 PE=1 SV=2
+>sp|Q13428|TCOF_HUMAN Treacle protein OS=Homo sapiens GN=TCOF1 PE=1 SV=3
+>sp|Q14781|CBX2_HUMAN Chromobox protein homolog 2 OS=Homo sapiens GN=CBX2 PE=1 SV=2
+>sp|Q16630|CPSF6_HUMAN Cleavage and polyadenylation specificity factor subunit 6 OS=Homo sapiens GN=CPSF6 PE=1 SV=2
+>sp|Q1ED39|KNOP1_HUMAN Lysine-rich nucleolar protein 1 OS=Homo sapiens GN=KNOP1 PE=1 SV=1
+>sp|Q53EZ4|CEP55_HUMAN Centrosomal protein of 55 kDa OS=Homo sapiens GN=CEP55 PE=1 SV=3
+>sp|Q5H9L2|TCAL5_HUMAN Transcription elongation factor A protein-like 5 OS=Homo sapiens GN=TCEAL5 PE=1 SV=1
+>sp|Q5TF21|SOGA3_HUMAN Protein SOGA3 OS=Homo sapiens GN=SOGA3 PE=2 SV=1
+>sp|Q5TZA2|CROCC_HUMAN Rootletin OS=Homo sapiens GN=CROCC PE=1 SV=1
+>sp|Q69YQ0|CYTSA_HUMAN Cytospin-A OS=Homo sapiens GN=SPECC1L PE=1 SV=2
+>sp|Q6IPM2|IQCE_HUMAN IQ domain-containing protein E OS=Homo sapiens GN=IQCE PE=1 SV=2
+>sp|Q6ZRK6|CCD73_HUMAN Coiled-coil domain-containing protein 73 OS=Homo sapiens GN=CCDC73 PE=2 SV=2
+>sp|Q6ZUS6|CC149_HUMAN Coiled-coil domain-containing protein 149 OS=Homo sapiens GN=CCDC149 PE=2 SV=2
+>sp|Q86YD7|F90A1_HUMAN Protein FAM90A1 OS=Homo sapiens GN=FAM90A1 PE=2 SV=3
+>sp|Q86YF9|DZIP1_HUMAN Zinc finger protein DZIP1 OS=Homo sapiens GN=DZIP1 PE=1 SV=1
+>sp|Q8N0S2|SYCE1_HUMAN Synaptonemal complex central element protein 1 OS=Homo sapiens GN=SYCE1 PE=2 SV=2
+>sp|Q8N998|CCD89_HUMAN Coiled-coil domain-containing protein 89 OS=Homo sapiens GN=CCDC89 PE=2 SV=1
+>sp|Q8TC20|CAGE1_HUMAN Cancer-associated gene 1 protein OS=Homo sapiens GN=CAGE1 PE=1 SV=2
+>sp|Q8TD10|MIPO1_HUMAN Mirror-image polydactyly gene 1 protein OS=Homo sapiens GN=MIPOL1 PE=2 SV=1
+>sp|Q8TF74|WIPF2_HUMAN WAS/WASL-interacting protein family member 2 OS=Homo sapiens GN=WIPF2 PE=1 SV=1
+>sp|Q8WXW3|PIBF1_HUMAN Progesterone-induced-blocking factor 1 OS=Homo sapiens GN=PIBF1 PE=1 SV=2
+>sp|Q96CN9|GCC1_HUMAN GRIP and coiled-coil domain-containing protein 1 OS=Homo sapiens GN=GCC1 PE=1 SV=1
+>sp|Q96IZ0|PAWR_HUMAN PRKC apoptosis WT1 regulator protein OS=Homo sapiens GN=PAWR PE=1 SV=1
+>sp|Q96M34|CC030_HUMAN Uncharacterized protein C3orf30 OS=Homo sapiens GN=C3orf30 PE=2 SV=2
+>sp|Q96ST8|CEP89_HUMAN Centrosomal protein of 89 kDa OS=Homo sapiens GN=CEP89 PE=1 SV=3
+>sp|Q9HCM1|K1551_HUMAN Uncharacterized protein KIAA1551 OS=Homo sapiens GN=KIAA1551 PE=1 SV=3
+>sp|Q9NUD7|CT096_HUMAN Uncharacterized protein C20orf96 OS=Homo sapiens GN=C20orf96 PE=2 SV=2
+>sp|Q9ULD2|MTUS1_HUMAN Microtubule-associated tumor suppressor 1 OS=Homo sapiens GN=MTUS1 PE=1 SV=2
+>sp|Q9ULJ1|ODF2L_HUMAN Outer dense fiber protein 2-like OS=Homo sapiens GN=ODF2L PE=2 SV=2
+>sp|Q9Y228|T3JAM_HUMAN TRAF3-interacting JNK-activating modulator OS=Homo sapiens GN=TRAF3IP3 PE=1 SV=2
+>sp|Q9Y6D9|MD1L1_HUMAN Mitotic spindle assembly checkpoint protein MAD1 OS=Homo sapiens GN=MAD1L1 PE=1 SV=2
+>sp|A2RUR9|C144A_HUMAN Coiled-coil domain-containing protein 144A OS=Homo sapiens GN=CCDC144A PE=1 SV=1
+>sp|A6NKC0|F90A7_HUMAN Putative protein FAM90A7P OS=Homo sapiens GN=FAM90A7P PE=5 SV=1
+>sp|A6NL46|YF016_HUMAN Putative UPF0607 protein ENSP00000332738 OS=Homo sapiens PE=3 SV=3
+>sp|A8MXJ8|F90A5_HUMAN Putative protein FAM90A5P OS=Homo sapiens GN=FAM90A5P PE=5 SV=1
+>sp|A8MXZ1|F90AN_HUMAN Putative protein FAM90A23P OS=Homo sapiens GN=FAM90A23P PE=5 SV=1
+>sp|O15234|CASC3_HUMAN Protein CASC3 OS=Homo sapiens GN=CASC3 PE=1 SV=2
+>sp|O95218|ZRAB2_HUMAN Zinc finger Ran-binding domain-containing protein 2 OS=Homo sapiens GN=ZRANB2 PE=1 SV=2
+>sp|O95613|PCNT_HUMAN Pericentrin OS=Homo sapiens GN=PCNT PE=1 SV=4
+>sp|P0C7W6|CC172_HUMAN Coiled-coil domain-containing protein 172 OS=Homo sapiens GN=CCDC172 PE=2 SV=1
+>sp|P10636|TAU_HUMAN Microtubule-associated protein tau OS=Homo sapiens GN=MAPT PE=1 SV=5
+>sp|P23327|SRCH_HUMAN Sarcoplasmic reticulum histidine-rich calcium-binding protein OS=Homo sapiens GN=HRC PE=1 SV=1
+>sp|P45379|TNNT2_HUMAN Troponin T, cardiac muscle OS=Homo sapiens GN=TNNT2 PE=1 SV=3
+>sp|P49756|RBM25_HUMAN RNA-binding protein 25 OS=Homo sapiens GN=RBM25 PE=1 SV=3
+>sp|Q0VD83|APOBR_HUMAN Apolipoprotein B receptor OS=Homo sapiens GN=APOBR PE=1 SV=2
+>sp|Q0VFZ6|CC173_HUMAN Coiled-coil domain-containing protein 173 OS=Homo sapiens GN=CCDC173 PE=2 SV=2
+>sp|Q13061|TRDN_HUMAN Triadin OS=Homo sapiens GN=TRDN PE=1 SV=4
+>sp|Q3BBV1|NBPFK_HUMAN Neuroblastoma breakpoint family member 20 OS=Homo sapiens GN=NBPF20 PE=2 SV=1
+>sp|Q3BBW0|NBPF9_HUMAN Neuroblastoma breakpoint family member 9 OS=Homo sapiens GN=NBPF9 PE=2 SV=1
+>sp|Q3SY00|T10IP_HUMAN Testis-specific protein 10-interacting protein OS=Homo sapiens GN=TSGA10IP PE=2 SV=2
+>sp|Q49MG5|MAP9_HUMAN Microtubule-associated protein 9 OS=Homo sapiens GN=MAP9 PE=1 SV=3
+>sp|Q4L180|FIL1L_HUMAN Filamin A-interacting protein 1-like OS=Homo sapiens GN=FILIP1L PE=1 SV=2
+>sp|Q5HY64|FA47C_HUMAN Putative protein FAM47C OS=Homo sapiens GN=FAM47C PE=2 SV=1
+>sp|Q5QJE6|TDIF2_HUMAN Deoxynucleotidyltransferase terminal-interacting protein 2 OS=Homo sapiens GN=DNTTIP2 PE=1 SV=2
+>sp|Q5VSY0|GKAP1_HUMAN G kinase-anchoring protein 1 OS=Homo sapiens GN=GKAP1 PE=1 SV=2
