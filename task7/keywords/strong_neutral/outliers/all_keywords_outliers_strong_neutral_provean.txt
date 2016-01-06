@@ -1,0 +1,233 @@
+Nuclease	4	0.001223
+Golgi apparatus	4	0.001223
+Extracellular matrix	1	0.000306
+Cell division	3	0.000917
+Protease inhibitor	1	0.000306
+Meckel syndrome	1	0.000306
+Steroid metabolism	1	0.000306
+Nonsense-mediated mRNA decay	1	0.000306
+Tumor suppressor	2	0.000612
+RNA-mediated gene silencing	1	0.000306
+Autism spectrum disorder	2	0.000612
+Direct protein sequencing	24	0.007339
+Hydrolase	13	0.003976
+Citrullination	3	0.000917
+Cytokine	4	0.001223
+DNA repair	4	0.001223
+Protein phosphatase	1	0.000306
+Apoptosis	8	0.002446
+Retinitis pigmentosa	2	0.000612
+Phosphoprotein	134	0.040979
+Microtubule	1	0.000306
+mRNA capping	1	0.000306
+mRNA transport	3	0.000917
+Transcription regulation	84	0.025688
+DNA-binding	82	0.025076
+Biomineralization	1	0.000306
+Tumor antigen	4	0.001223
+Cholesterol metabolism	1	0.000306
+Polymorphism	195	0.059633
+Calmodulin-binding	2	0.000612
+GTPase activation	1	0.000306
+Transit peptide	2	0.000612
+Inflammatory response	2	0.000612
+Nephronophthisis	2	0.000612
+Chaperone	1	0.000306
+Sialic acid	1	0.000306
+Chemotaxis	1	0.000306
+Ectodermal dysplasia	1	0.000306
+Magnesium	9	0.002752
+Mental retardation	8	0.002446
+Dystonia	1	0.000306
+Obesity	1	0.000306
+Sterol metabolism	1	0.000306
+Complete proteome	342	0.104587
+Wnt signaling pathway	3	0.000917
+Myristate	4	0.001223
+Lysosome	1	0.000306
+Heparin-binding	1	0.000306
+Collagen	2	0.000612
+Chloride channel	1	0.000306
+Zinc-finger	79	0.024159
+Glycation	1	0.000306
+Multifunctional enzyme	1	0.000306
+Cytoplasm	61	0.018654
+Mitochondrion	3	0.000917
+Repeat	111	0.033945
+Ribonucleoprotein	1	0.000306
+Cell junction	8	0.002446
+Transport	9	0.002752
+Kinetochore	1	0.000306
+Pharmaceutical	1	0.000306
+Biological rhythms	2	0.000612
+Proteoglycan	1	0.000306
+Neurogenesis	7	0.002141
+Growth factor	3	0.000917
+Transcription	85	0.025994
+Peroxisome	1	0.000306
+Transmembrane	47	0.014373
+Kinase	4	0.001223
+Stress response	2	0.000612
+Cytoplasmic vesicle	1	0.000306
+Virion	2	0.000612
+Spliceosome	1	0.000306
+Cell adhesion	4	0.001223
+Guanine-nucleotide releasing factor	2	0.000612
+Centromere	2	0.000612
+Serine/threonine-protein kinase	3	0.000917
+rRNA processing	1	0.000306
+GPI-anchor	2	0.000612
+Lipid biosynthesis	1	0.000306
+Hereditary spastic paraplegia	1	0.000306
+Leucine-rich repeat	7	0.002141
+Viral envelope protein	2	0.000612
+Nucleus	147	0.044954
+Kelch repeat	1	0.000306
+Metal-binding	94	0.028746
+Keratin	2	0.000612
+Developmental protein	27	0.008257
+Serine protease	1	0.000306
+Homeobox	11	0.003364
+Chromatin regulator	9	0.002752
+Amyloid	1	0.000306
+Manganese	1	0.000306
+Hormone	2	0.000612
+Lectin	1	0.000306
+Oxidoreductase	3	0.000917
+Nucleotide-binding	7	0.002141
+Keratinization	1	0.000306
+Repressor	30	0.009174
+Proto-oncogene	4	0.001223
+Glycoprotein	37	0.011315
+Alternative promoter usage	1	0.000306
+Gap junction	1	0.000306
+GPI-anchor biosynthesis	1	0.000306
+Chromosomal rearrangement	2	0.000612
+Triplet repeat expansion	1	0.000306
+EGF-like domain	6	0.001835
+Hearing	1	0.000306
+Ubl conjugation pathway	22	0.006728
+TPR repeat	2	0.000612
+Differentiation	20	0.006116
+Diabetes mellitus	1	0.000306
+DNA integration	1	0.000306
+WD repeat	2	0.000612
+Cell projection	5	0.001529
+Primary microcephaly	1	0.000306
+Transducer	2	0.000612
+Voltage-gated channel	1	0.000306
+Neurodegeneration	2	0.000612
+mRNA splicing	3	0.000917
+Defensin	2	0.000612
+Deafness	2	0.000612
+Transferase	13	0.003976
+Lipid degradation	1	0.000306
+Membrane	64	0.019572
+GTP-binding	1	0.000306
+Amidation	2	0.000612
+Immunity	3	0.000917
+Autocatalytic cleavage	1	0.000306
+ER-Golgi transport	1	0.000306
+Disease mutation	33	0.010092
+Ichthyosis	1	0.000306
+Alternative splicing	183	0.055963
+Atherosclerosis	1	0.000306
+Myogenesis	1	0.000306
+Transmembrane helix	47	0.014373
+Sarcoplasmic reticulum	2	0.000612
+Lipoprotein	6	0.001835
+Cell cycle	12	0.003670
+Exonuclease	3	0.000917
+LIM domain	1	0.000306
+Synapse	6	0.001835
+Flagellum	1	0.000306
+Holoprosencephaly	1	0.000306
+Acetylation	34	0.010398
+Mitogen	1	0.000306
+Calcium	5	0.001529
+Growth regulation	2	0.000612
+Immunoglobulin domain	6	0.001835
+Cardiomyopathy	1	0.000306
+Lipid transport	2	0.000612
+Angiogenesis	1	0.000306
+Cilium	3	0.000917
+RNA-binding	20	0.006116
+Cataract	1	0.000306
+DNA damage	7	0.002141
+Ion transport	2	0.000612
+Flavoprotein	1	0.000306
+Protease	6	0.001835
+Lipid metabolism	2	0.000612
+S-adenosyl-L-methionine	3	0.000917
+Translation regulation	2	0.000612
+Serine protease inhibitor	1	0.000306
+Epilepsy	2	0.000612
+MHC I	1	0.000306
+Transposable element	2	0.000612
+3D-structure	63	0.019266
+Kringle	1	0.000306
+Receptor	6	0.001835
+Zinc	86	0.026300
+DNA recombination	2	0.000612
+Endonuclease	1	0.000306
+Aicardi-Goutieres syndrome	1	0.000306
+Systemic lupus erythematosus	1	0.000306
+ERV	2	0.000612
+Pyrrolidone carboxylic acid	1	0.000306
+Ciliopathy	4	0.001223
+Endoplasmic reticulum	4	0.001223
+Reference proteome	342	0.104587
+Disulfide bond	24	0.007339
+Hypotrichosis	1	0.000306
+Activator	22	0.006728
+Antimicrobial	2	0.000612
+Spermatogenesis	7	0.002141
+Ion channel	2	0.000612
+Dwarfism	3	0.000917
+Translocation	1	0.000306
+Primary ciliary dyskinesia	1	0.000306
+Osteogenesis	1	0.000306
+Lipid-binding	1	0.000306
+Nucleotidyltransferase	1	0.000306
+Secreted	24	0.007339
+Acyltransferase	1	0.000306
+Chloride	1	0.000306
+mRNA processing	6	0.001835
+Heme	1	0.000306
+Rhizomelic chondrodysplasia punctata	1	0.000306
+Postsynaptic cell membrane	3	0.000917
+Meiosis	3	0.000917
+SH2 domain	2	0.000612
+FAD	1	0.000306
+Cilium biogenesis/degradation	1	0.000306
+Coiled coil	45	0.013761
+ANK repeat	7	0.002141
+Cleavage on pair of basic residues	6	0.001835
+Methylation	4	0.001223
+Ribosomal protein	1	0.000306
+Signal	34	0.010398
+Innate immunity	1	0.000306
+Glycosyltransferase	1	0.000306
+Methyltransferase	3	0.000917
+ATP-binding	6	0.001835
+Ligase	11	0.003364
+SH3 domain	2	0.000612
+Iron	3	0.000917
+Protein transport	2	0.000612
+Ubl conjugation	37	0.011315
+Amyloidosis	1	0.000306
+Dioxygenase	2	0.000612
+Endosome	2	0.000612
+Antibiotic	2	0.000612
+Congenital hypothyroidism	1	0.000306
+Cell membrane	29	0.008869
+Thiol protease	5	0.001529
+ADP-ribosylation	2	0.000612
+Isopeptide bond	28	0.008563
+SCID	1	0.000306
+Antiviral defense	2	0.000612
+G-protein coupled receptor	2	0.000612
+Cytoskeleton	7	0.002141
+Signal-anchor	4	0.001223
+Chromosome	15	0.004587
+Alternative initiation	3	0.000917

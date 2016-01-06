@@ -1,0 +1,163 @@
+Golgi apparatus	9	0.006052
+Extracellular matrix	2	0.001345
+Microtubule	6	0.004035
+Tumor suppressor	1	0.000672
+Spinocerebellar ataxia	1	0.000672
+SCID	1	0.000672
+Direct protein sequencing	17	0.011432
+Hydrolase	2	0.001345
+Citrullination	1	0.000672
+Cytokine	1	0.000672
+DNA repair	5	0.003362
+Apoptosis	4	0.002690
+Nucleosome core	1	0.000672
+Cell division	10	0.006725
+ADP-ribosylation	1	0.000672
+Transcription regulation	15	0.010087
+DNA-binding	8	0.005380
+Polymorphism	117	0.078682
+Calmodulin-binding	5	0.003362
+ANK repeat	2	0.001345
+Wnt signaling pathway	1	0.000672
+Chemotaxis	1	0.000672
+Magnesium	2	0.001345
+Mental retardation	2	0.001345
+Dystonia	1	0.000672
+Obesity	1	0.000672
+Complete proteome	164	0.110289
+Chromosome partition	2	0.001345
+Myristate	3	0.002017
+Cytoplasm	41	0.027572
+Amyotrophic lateral sclerosis	1	0.000672
+Palmitate	3	0.002017
+Zinc-finger	11	0.007397
+Deafness	1	0.000672
+Mitochondrion	1	0.000672
+Ribonucleoprotein	1	0.000672
+Cell junction	6	0.004035
+Transport	3	0.002017
+Kinetochore	6	0.004035
+Calcium transport	1	0.000672
+Neurogenesis	3	0.002017
+Growth factor	1	0.000672
+Transcription	15	0.010087
+Transmembrane	21	0.014122
+Kinase	2	0.001345
+Cytoplasmic vesicle	3	0.002017
+Spliceosome	1	0.000672
+Cell adhesion	5	0.003362
+Centromere	7	0.004707
+Chromatin regulator	1	0.000672
+Serine/threonine-protein kinase	1	0.000672
+Nuclear pore complex	1	0.000672
+Lipid droplet	1	0.000672
+Ligase	1	0.000672
+Ligand-gated ion channel	1	0.000672
+Leucine-rich repeat	1	0.000672
+Nucleus	39	0.026227
+Metal-binding	17	0.011432
+Cone-rod dystrophy	1	0.000672
+Keratin	7	0.004707
+Developmental protein	9	0.006052
+Signal	19	0.012777
+Homeobox	1	0.000672
+Autoimmune encephalomyelitis	1	0.000672
+Manganese	1	0.000672
+Repeat	48	0.032280
+Limb-girdle muscular dystrophy	1	0.000672
+Nucleotide-binding	3	0.002017
+Repressor	6	0.004035
+Proto-oncogene	3	0.002017
+Glycoprotein	21	0.014122
+Calcium channel	1	0.000672
+Chromosomal rearrangement	8	0.005380
+EGF-like domain	2	0.001345
+Mitosis	9	0.006052
+Differentiation	6	0.004035
+Diabetes mellitus	1	0.000672
+Cell projection	6	0.004035
+Primary microcephaly	2	0.001345
+Neurodegeneration	2	0.001345
+mRNA splicing	2	0.001345
+Transferase	2	0.001345
+Membrane	36	0.024210
+GTP-binding	2	0.001345
+Amidation	1	0.000672
+Phosphoprotein	72	0.048420
+Disease mutation	11	0.007397
+Carbohydrate metabolism	1	0.000672
+Alternative splicing	95	0.063887
+Myogenesis	1	0.000672
+Transmembrane helix	21	0.014122
+Sarcoplasmic reticulum	1	0.000672
+Lipoprotein	7	0.004707
+Cell cycle	13	0.008742
+Glycogen metabolism	1	0.000672
+LIM domain	1	0.000672
+Synapse	4	0.002690
+Flagellum	1	0.000672
+Acetylation	27	0.018157
+Protein phosphatase inhibitor	1	0.000672
+Epidermolysis bullosa	2	0.001345
+SH3 domain	2	0.001345
+Calcium	6	0.004035
+Growth regulation	1	0.000672
+Endoplasmic reticulum	3	0.002017
+Prenylation	1	0.000672
+Cilium	2	0.001345
+RNA-binding	2	0.001345
+DNA damage	6	0.004035
+Ion transport	1	0.000672
+Protease	1	0.000672
+Translation regulation	1	0.000672
+Epilepsy	2	0.001345
+Autophagy	1	0.000672
+3D-structure	27	0.018157
+Schizophrenia	1	0.000672
+Receptor	3	0.002017
+Zinc	13	0.008742
+Intermediate filament	2	0.001345
+mRNA transport	1	0.000672
+Pyrrolidone carboxylic acid	3	0.002017
+Ciliopathy	3	0.002017
+DNA condensation	1	0.000672
+Immunoglobulin domain	4	0.002690
+Reference proteome	164	0.110289
+Disulfide bond	9	0.006052
+Activator	7	0.004707
+Antimicrobial	1	0.000672
+Spermatogenesis	4	0.002690
+Ion channel	1	0.000672
+Dwarfism	1	0.000672
+Translocation	1	0.000672
+Nucleotide metabolism	1	0.000672
+Primary ciliary dyskinesia	1	0.000672
+DNA synthesis	1	0.000672
+Secreted	11	0.007397
+Acyltransferase	1	0.000672
+mRNA processing	2	0.001345
+Transit peptide	1	0.000672
+Postsynaptic cell membrane	2	0.001345
+Meiosis	1	0.000672
+Cilium biogenesis/degradation	2	0.001345
+Coiled coil	45	0.030262
+Nephronophthisis	1	0.000672
+Cleavage on pair of basic residues	2	0.001345
+Methylation	4	0.002690
+Blood group antigen	1	0.000672
+Ribosomal protein	1	0.000672
+Serine protease	1	0.000672
+Nemaline myopathy	1	0.000672
+ATP-binding	3	0.002017
+Ubl conjugation pathway	2	0.001345
+Protein transport	1	0.000672
+Ubl conjugation	13	0.008742
+Actin-binding	3	0.002017
+Endosome	2	0.001345
+Antibiotic	1	0.000672
+Cell membrane	17	0.011432
+Isopeptide bond	11	0.007397
+Lissencephaly	1	0.000672
+Muscle protein	2	0.001345
+Cytoskeleton	23	0.015467
+Chromosome	12	0.008070

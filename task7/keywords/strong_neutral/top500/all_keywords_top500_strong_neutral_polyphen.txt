@@ -1,0 +1,252 @@
+Nuclease	4	0.000947
+Golgi apparatus	3	0.000710
+Extracellular matrix	1	0.000237
+Microtubule	6	0.001420
+Protease inhibitor	6	0.001420
+Tumor suppressor	5	0.001184
+Neurodegeneration	1	0.000237
+Peroxisome biogenesis disorder	1	0.000237
+Fatty acid metabolism	1	0.000237
+Direct protein sequencing	43	0.010180
+Hydrolase	20	0.004735
+Cyclin	1	0.000237
+Citrullination	2	0.000473
+Hypotrichosis	1	0.000237
+Leukodystrophy	1	0.000237
+Apoptosis	13	0.003078
+Retinitis pigmentosa	3	0.000710
+Hereditary nonpolyposis colorectal cancer	1	0.000237
+Telomere	1	0.000237
+Phosphoprotein	91	0.021544
+Cell division	4	0.000947
+mRNA transport	2	0.000473
+Transcription regulation	102	0.024148
+Phospholipid metabolism	1	0.000237
+DNA repair	9	0.002131
+Biomineralization	2	0.000473
+Tumor antigen	1	0.000237
+tRNA processing	1	0.000237
+Polymorphism	336	0.079545
+Protein kinase inhibitor	1	0.000237
+Calmodulin-binding	2	0.000473
+GTPase activation	1	0.000237
+Transcription termination	1	0.000237
+Inflammatory response	4	0.000947
+ANK repeat	8	0.001894
+Chaperone	2	0.000473
+Congenital dyserythropoietic anemia	1	0.000237
+Endocytosis	1	0.000237
+Sialic acid	1	0.000237
+Host cell receptor for virus entry	1	0.000237
+Chemotaxis	2	0.000473
+Magnesium	8	0.001894
+Mental retardation	2	0.000473
+Obesity	1	0.000237
+Gastrulation	1	0.000237
+Complete proteome	499	0.118134
+Chromosome partition	2	0.000473
+Cilium biogenesis/degradation	1	0.000237
+Lysosome	1	0.000237
+Cytoplasm	62	0.014678
+Lipid metabolism	3	0.000710
+Palmitate	5	0.001184
+Olfaction	1	0.000237
+Serine protease	2	0.000473
+Zinc-finger	95	0.022491
+Glycation	1	0.000237
+Multifunctional enzyme	2	0.000473
+Deafness	1	0.000237
+Mitochondrion	11	0.002604
+Ribonucleoprotein	7	0.001657
+Cell junction	5	0.001184
+Transport	16	0.003788
+Cytokine	4	0.000947
+Coiled coil	40	0.009470
+Biological rhythms	1	0.000237
+Neurogenesis	1	0.000237
+Sodium	2	0.000473
+Transcription	102	0.024148
+Peroxisome	3	0.000710
+Transmembrane	62	0.014678
+Kinase	5	0.001184
+Lipid biosynthesis	1	0.000237
+Ion transport	7	0.001657
+Potassium transport	2	0.000473
+DNA-directed DNA polymerase	1	0.000237
+Cell adhesion	6	0.001420
+Centromere	4	0.000947
+Heparin-binding	1	0.000237
+Serine/threonine-protein kinase	3	0.000710
+Hemostasis	3	0.000710
+Serine esterase	2	0.000473
+DNA replication inhibitor	1	0.000237
+rRNA processing	1	0.000237
+Ligase	8	0.001894
+Non-syndromic deafness	1	0.000237
+Leucine-rich repeat	13	0.003078
+Nucleus	154	0.036458
+DNA recombination	2	0.000473
+Metal-binding	110	0.026042
+Adaptive immunity	4	0.000947
+Keratin	10	0.002367
+Developmental protein	13	0.003078
+Chloride channel	1	0.000237
+Myristate	2	0.000473
+Guanine-nucleotide releasing factor	1	0.000237
+Homeobox	14	0.003314
+Chromatin regulator	3	0.000710
+Fatty acid biosynthesis	1	0.000237
+Sodium/potassium transport	1	0.000237
+Repeat	168	0.039773
+Mitochondrion inner membrane	2	0.000473
+Manganese	1	0.000237
+Lectin	2	0.000473
+Pharmaceutical	2	0.000473
+Oxidoreductase	3	0.000710
+Nucleotide-binding	18	0.004261
+Premature ovarian failure	2	0.000473
+Repressor	11	0.002604
+Proto-oncogene	2	0.000473
+Glycoprotein	67	0.015862
+Alternative promoter usage	1	0.000237
+Heterotaxy	1	0.000237
+Bait region	1	0.000237
+Endonuclease	2	0.000473
+EGF-like domain	5	0.001184
+Hereditary hemolytic anemia	2	0.000473
+Mitosis	4	0.000947
+Sensory transduction	3	0.000710
+TPR repeat	3	0.000710
+Differentiation	9	0.002131
+Sodium channel	1	0.000237
+Thioester bond	2	0.000473
+WD repeat	7	0.001657
+Cell projection	8	0.001894
+Potassium	2	0.000473
+Zymogen	2	0.000473
+Voltage-gated channel	1	0.000237
+RNA-mediated gene silencing	2	0.000473
+Diamond-Blackfan anemia	1	0.000237
+Potassium channel	1	0.000237
+Protein transport	7	0.001657
+Defensin	12	0.002841
+Age-related macular degeneration	1	0.000237
+Transferase	15	0.003551
+Metalloprotease	1	0.000237
+Membrane	83	0.019650
+NADP	1	0.000237
+GTP-binding	2	0.000473
+Amidation	2	0.000473
+Immunity	9	0.002131
+Protein biosynthesis	3	0.000710
+Disease mutation	32	0.007576
+Isomerase	1	0.000237
+Carbohydrate metabolism	1	0.000237
+Alternative splicing	183	0.043324
+Growth factor	2	0.000473
+Transmembrane helix	62	0.014678
+Lipoprotein	10	0.002367
+Fibrinolysis	2	0.000473
+Sphingolipid metabolism	1	0.000237
+Cell cycle	11	0.002604
+Blood coagulation	3	0.000710
+Exonuclease	2	0.000473
+Glycogen metabolism	1	0.000237
+Milk protein	1	0.000237
+Synapse	2	0.000473
+Plasminogen activation	1	0.000237
+Aminopeptidase	1	0.000237
+Acetylation	34	0.008049
+SH3 domain	2	0.000473
+Chloride	1	0.000237
+Sulfation	1	0.000237
+Calcium	8	0.001894
+Parkinsonism	1	0.000237
+Immunoglobulin domain	8	0.001894
+Parkinson disease	1	0.000237
+Sodium transport	2	0.000473
+Cilium	5	0.001184
+RNA-binding	8	0.001894
+Cataract	1	0.000237
+DNA damage	9	0.002131
+Cytoplasmic vesicle	4	0.000947
+Initiation factor	2	0.000473
+Flavoprotein	1	0.000237
+Protease	5	0.001184
+Topoisomerase	1	0.000237
+S-adenosyl-L-methionine	3	0.000710
+Translation regulation	4	0.000947
+Serine protease inhibitor	5	0.001184
+Autophagy	1	0.000237
+3D-structure	69	0.016335
+Kringle	1	0.000237
+Receptor	15	0.003551
+Vasoactive	1	0.000237
+Zinc	99	0.023438
+Keratinization	2	0.000473
+Zellweger syndrome	1	0.000237
+LIM domain	1	0.000237
+Laminin EGF-like domain	2	0.000473
+Asthma	1	0.000237
+Oogenesis	3	0.000710
+DNA replication	2	0.000473
+Pyrrolidone carboxylic acid	4	0.000947
+Ciliopathy	1	0.000237
+Endoplasmic reticulum	3	0.000710
+Reference proteome	499	0.118134
+Disulfide bond	58	0.013731
+DNA-binding	110	0.026042
+Activator	10	0.002367
+Antimicrobial	16	0.003788
+Spermatogenesis	4	0.000947
+Ion channel	6	0.001420
+Dwarfism	3	0.000710
+Translocation	1	0.000237
+Lipid-binding	1	0.000237
+Nucleotidyltransferase	1	0.000237
+Secreted	71	0.016809
+Acyltransferase	5	0.001184
+GPI-anchor	5	0.001184
+Transit peptide	5	0.001184
+Rhizomelic chondrodysplasia punctata	1	0.000237
+Postsynaptic cell membrane	1	0.000237
+Ribosome biogenesis	3	0.000710
+Meiosis	4	0.000947
+Dynein	2	0.000473
+SH2 domain	1	0.000237
+FAD	1	0.000237
+Host-virus interaction	4	0.000947
+Cleavage on pair of basic residues	10	0.002367
+Methylation	2	0.000473
+Hormone	5	0.001184
+Signal	93	0.022017
+Innate immunity	4	0.000947
+Autocatalytic cleavage	1	0.000237
+Methyltransferase	3	0.000710
+ATP-binding	16	0.003788
+Ubl conjugation pathway	9	0.002131
+Transducer	2	0.000473
+Fungicide	3	0.000710
+Ubl conjugation	30	0.007102
+Neuropeptide	1	0.000237
+Vision	2	0.000473
+Fanconi anemia	1	0.000237
+Actin-binding	1	0.000237
+Endosome	1	0.000237
+Antibiotic	16	0.003788
+Motor protein	3	0.000710
+Complement pathway	1	0.000237
+Fertilization	1	0.000237
+Cell membrane	37	0.008759
+Thiol protease	1	0.000237
+Isopeptide bond	19	0.004498
+Basement membrane	1	0.000237
+Helicase	3	0.000710
+Chromosome	7	0.001657
+Antiviral defense	3	0.000710
+G-protein coupled receptor	2	0.000473
+Cytoskeleton	12	0.002841
+Signal-anchor	9	0.002131
+Nuclear pore complex	1	0.000237
+Ribosomal protein	7	0.001657
+Alternative initiation	1	0.000237

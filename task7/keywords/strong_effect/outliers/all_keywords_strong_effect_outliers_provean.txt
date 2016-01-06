@@ -1,0 +1,79 @@
+Aminoacyl-tRNA synthetase	1	0.002203
+Diamond-Blackfan anemia	1	0.002203
+Golgi apparatus	1	0.002203
+Rotamase	1	0.002203
+Microtubule	1	0.002203
+Transcription	2	0.004405
+Transmembrane	5	0.011013
+Kinase	1	0.002203
+Stress response	1	0.002203
+Age-related macular degeneration	1	0.002203
+Cytoplasmic vesicle	1	0.002203
+Transferase	1	0.002203
+Reference proteome	83	0.182819
+Lyase	1	0.002203
+Disulfide bond	1	0.002203
+Membrane	6	0.013216
+Spermatogenesis	1	0.002203
+Direct protein sequencing	11	0.024229
+Protein biosynthesis	2	0.004405
+Nucleosome core	2	0.004405
+Repeat	11	0.024229
+Lipid-binding	1	0.002203
+Secreted	9	0.019824
+Apoptosis	1	0.002203
+Alternative splicing	8	0.017621
+Neuropathy	1	0.002203
+ER-Golgi transport	1	0.002203
+Ligase	1	0.002203
+Phosphoprotein	12	0.026432
+RNA editing	1	0.002203
+Nucleus	9	0.019824
+Serine/threonine-protein kinase	1	0.002203
+Dynein	1	0.002203
+DNA-binding	4	0.008811
+Transcription regulation	2	0.004405
+Keratin	8	0.017621
+Developmental protein	1	0.002203
+Host-virus interaction	1	0.002203
+Polymorphism	39	0.085903
+DNA condensation	1	0.002203
+Cyclosporin	1	0.002203
+Methylation	2	0.004405
+Acetylation	11	0.024229
+Hormone	1	0.002203
+Signal	6	0.013216
+Metal-binding	5	0.011013
+ATP-binding	2	0.004405
+Ubl conjugation pathway	3	0.006608
+Deafness	1	0.002203
+Cytoskeleton	1	0.002203
+Protein transport	1	0.002203
+Ubl conjugation	7	0.015419
+Mitochondrion	1	0.002203
+Nucleotide-binding	2	0.004405
+Transport	3	0.006608
+RNA-binding	1	0.002203
+Complete proteome	83	0.182819
+Disease mutation	3	0.006608
+Citrullination	1	0.002203
+Initiation factor	1	0.002203
+Motor protein	1	0.002203
+Chromosomal rearrangement	1	0.002203
+Cytoplasm	14	0.030837
+Isomerase	1	0.002203
+Transmembrane helix	5	0.011013
+Glycoprotein	3	0.006608
+3D-structure	18	0.039648
+Isopeptide bond	5	0.011013
+Zinc-finger	3	0.006608
+Usher syndrome	1	0.002203
+Ribosomal protein	8	0.017621
+Zinc	5	0.011013
+Translation regulation	1	0.002203
+Differentiation	1	0.002203
+Keratinization	2	0.004405
+WD repeat	1	0.002203
+Ribonucleoprotein	8	0.017621
+Retinitis pigmentosa	1	0.002203
+Chromosome	2	0.004405

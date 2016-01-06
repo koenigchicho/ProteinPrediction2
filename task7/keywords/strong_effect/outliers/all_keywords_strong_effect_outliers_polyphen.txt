@@ -1,0 +1,204 @@
+Sterol biosynthesis	1	0.000687
+Mental retardation	1	0.000687
+Golgi apparatus	4	0.002747
+Extracellular matrix	6	0.004121
+Microtubule	3	0.002060
+Charcot-Marie-Tooth disease	1	0.000687
+Tumor suppressor	4	0.002747
+Neurodegeneration	1	0.000687
+Mitogen	1	0.000687
+Signal transduction inhibitor	1	0.000687
+Autism spectrum disorder	2	0.001374
+Direct protein sequencing	15	0.010302
+Hydrolase	7	0.004808
+Host-virus interaction	3	0.002060
+Myofibrillar myopathy	1	0.000687
+Apoptosis	3	0.002060
+Retinitis pigmentosa	1	0.000687
+Bromodomain	1	0.000687
+Myosin	2	0.001374
+Phosphoprotein	60	0.041209
+Cell division	5	0.003434
+mRNA transport	1	0.000687
+Transcription regulation	22	0.015110
+DNA repair	1	0.000687
+Biomineralization	1	0.000687
+Tumor antigen	1	0.000687
+Cholesterol metabolism	1	0.000687
+Polymorphism	61	0.041896
+Calmodulin-binding	4	0.002747
+GTPase activation	2	0.001374
+Dynein	1	0.000687
+ANK repeat	2	0.001374
+Chaperone	1	0.000687
+Endocytosis	2	0.001374
+Ectodermal dysplasia	1	0.000687
+Magnesium	1	0.000687
+TPQ	1	0.000687
+Hydrogen ion transport	1	0.000687
+Stickler syndrome	1	0.000687
+Calcium	11	0.007555
+Complete proteome	108	0.074176
+Copper	1	0.000687
+Wnt signaling pathway	6	0.004121
+Cilium biogenesis/degradation	1	0.000687
+Steroid metabolism	1	0.000687
+Developmental protein	10	0.006868
+Collagen	3	0.002060
+Palmitate	3	0.002060
+Unfolded protein response	2	0.001374
+Zinc-finger	16	0.010989
+Usher syndrome	1	0.000687
+Cytoplasm	34	0.023352
+Mitochondrion	3	0.002060
+Lysosome	2	0.001374
+Ribonucleoprotein	1	0.000687
+Cell junction	9	0.006181
+Transport	13	0.008929
+Kinetochore	1	0.000687
+Calcium transport	4	0.002747
+Biological rhythms	2	0.001374
+Proteoglycan	1	0.000687
+Neurogenesis	3	0.002060
+Sodium	1	0.000687
+Transcription	22	0.015110
+Transmembrane	26	0.017857
+Kinase	5	0.003434
+Lipid biosynthesis	1	0.000687
+Ion transport	7	0.004808
+Cell adhesion	8	0.005495
+Guanine-nucleotide releasing factor	2	0.001374
+Serine/threonine-protein kinase	4	0.002747
+Nuclear pore complex	1	0.000687
+Blood group antigen	1	0.000687
+Leucine-rich repeat	2	0.001374
+Nucleus	42	0.028846
+Immunity	1	0.000687
+Metal-binding	29	0.019918
+Heparin-binding	2	0.001374
+Serine protease	2	0.001374
+Chromatin regulator	8	0.005495
+MHC II	1	0.000687
+Disease mutation	19	0.013049
+Mitochondrion inner membrane	1	0.000687
+Oxidoreductase	3	0.002060
+Nucleotide-binding	14	0.009615
+Repressor	10	0.006868
+Proto-oncogene	2	0.001374
+Glycoprotein	22	0.015110
+Alternative promoter usage	2	0.001374
+Calcium channel	1	0.000687
+Chromosomal rearrangement	3	0.002060
+EGF-like domain	3	0.002060
+Hearing	3	0.002060
+Ubl conjugation pathway	8	0.005495
+Sensory transduction	1	0.000687
+TPR repeat	1	0.000687
+Differentiation	3	0.002060
+WD repeat	3	0.002060
+Cell projection	9	0.006181
+Autism	2	0.001374
+Zymogen	1	0.000687
+Voltage-gated channel	1	0.000687
+RNA-mediated gene silencing	1	0.000687
+SH3-binding	1	0.000687
+Deafness	6	0.004121
+S-nitrosylation	1	0.000687
+Transferase	6	0.004121
+Metalloprotease	1	0.000687
+Membrane	43	0.029533
+Tight junction	1	0.000687
+NADP	2	0.001374
+GTP-binding	1	0.000687
+Non-syndromic deafness	4	0.002747
+Kelch repeat	1	0.000687
+Autocatalytic cleavage	3	0.002060
+ER-Golgi transport	1	0.000687
+Repeat	42	0.028846
+Alternative splicing	87	0.059753
+Atherosclerosis	1	0.000687
+Transmembrane helix	26	0.017857
+Sarcoplasmic reticulum	1	0.000687
+Lipoprotein	4	0.002747
+Hydroxylation	2	0.001374
+Sterol metabolism	1	0.000687
+Steroid biosynthesis	1	0.000687
+Cell cycle	8	0.005495
+LIM domain	2	0.001374
+LTQ	1	0.000687
+Lacrimo-auriculo-dento-digital syndrome	1	0.000687
+Neuropathy	1	0.000687
+Acetylation	30	0.020604
+SH3 domain	3	0.002060
+Brugada syndrome	1	0.000687
+DNA-binding	14	0.009615
+Stress response	1	0.000687
+Cardiomyopathy	2	0.001374
+Lipid transport	1	0.000687
+Angiogenesis	2	0.001374
+Cilium	1	0.000687
+RNA-binding	1	0.000687
+DNA damage	2	0.001374
+Cytoplasmic vesicle	3	0.002060
+Protease	3	0.002060
+Lipid metabolism	1	0.000687
+Translation regulation	1	0.000687
+3D-structure	44	0.030220
+Kringle	1	0.000687
+Receptor	4	0.002747
+Zinc	19	0.013049
+DNA recombination	1	0.000687
+Asthma	1	0.000687
+Immunoglobulin domain	1	0.000687
+Sodium transport	1	0.000687
+DNA replication	1	0.000687
+Protein phosphatase inhibitor	1	0.000687
+Synapse	3	0.002060
+Endoplasmic reticulum	8	0.005495
+Cholesterol biosynthesis	1	0.000687
+Reference proteome	108	0.074176
+Coated pit	1	0.000687
+Disulfide bond	17	0.011676
+Activator	4	0.002747
+Ion channel	3	0.002060
+Dwarfism	2	0.001374
+Translocation	1	0.000687
+Osteogenesis	1	0.000687
+Secreted	8	0.005495
+Acyltransferase	1	0.000687
+Centromere	1	0.000687
+Tyrosine-protein kinase	1	0.000687
+mRNA processing	1	0.000687
+Transit peptide	1	0.000687
+Mitosis	3	0.002060
+Postsynaptic cell membrane	2	0.001374
+Coiled coil	21	0.014423
+Collagen degradation	1	0.000687
+Cleavage on pair of basic residues	1	0.000687
+Ligand-gated ion channel	2	0.001374
+Ribosomal protein	1	0.000687
+Signal	19	0.013049
+Antiport	1	0.000687
+Mitochondrion outer membrane	1	0.000687
+ATP-binding	13	0.008929
+Ligase	3	0.002060
+Transducer	2	0.001374
+Protein transport	2	0.001374
+Ubl conjugation	14	0.009615
+Notch signaling pathway	2	0.001374
+Vision	1	0.000687
+Actin-binding	7	0.004808
+Endosome	5	0.003434
+Ehlers-Danlos syndrome	1	0.000687
+Craniosynostosis	1	0.000687
+Motor protein	4	0.002747
+Cell membrane	21	0.014423
+Isopeptide bond	8	0.005495
+Basement membrane	2	0.001374
+Helicase	2	0.001374
+Muscle protein	1	0.000687
+G-protein coupled receptor	1	0.000687
+Cytoskeleton	15	0.010302
+Signal-anchor	2	0.001374
+Chromosome	3	0.002060
+Alternative initiation	1	0.000687
