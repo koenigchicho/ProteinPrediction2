@@ -1,0 +1,194 @@
+Actin-binding	1	0.000277
+Activator	1	0.000277
+Alport syndrome	1	0.000277
+Alternative initiation	1	0.000277
+Amyloidosis	1	0.000277
+Antiviral defense	1	0.000277
+Blood group antigen	1	0.000277
+Brugada syndrome	1	0.000277
+CF(0)	1	0.000277
+Calcium	1	0.000277
+Calcium transport	1	0.000277
+Cardiomyopathy	1	0.000277
+Cell adhesion	1	0.000277
+Cell shape	1	0.000277
+Centromere	1	0.000277
+Chemotaxis	1	0.000277
+Chondrogenesis	1	0.000277
+DNA damage	1	0.000277
+DNA repair	1	0.000277
+DNA-directed RNA polymerase	1	0.000277
+Diabetes mellitus	1	0.000277
+Elliptocytosis	1	0.000277
+Endonuclease	1	0.000277
+Endosome	1	0.000277
+Epilepsy	1	0.000277
+Exocytosis	1	0.000277
+GPI-anchor biosynthesis	1	0.000277
+Gamma-carboxyglutamic acid	1	0.000277
+Gastrulation	1	0.000277
+Growth factor	1	0.000277
+Heme	1	0.000277
+Heparin-binding	1	0.000277
+Hereditary hemolytic anemia	1	0.000277
+Host-virus interaction	1	0.000277
+Hydrogen ion transport	1	0.000277
+Hypogonadotropic hypogonadism	1	0.000277
+Inflammatory response	1	0.000277
+Innate immunity	1	0.000277
+Ion channel	1	0.000277
+Iron	1	0.000277
+Isomerase	1	0.000277
+Kinetochore	1	0.000277
+Lipid droplet	1	0.000277
+Lipid transport	1	0.000277
+Manganese	1	0.000277
+Meiosis	1	0.000277
+Monoclonal antibody	1	0.000277
+Neurodegeneration	1	0.000277
+Neurogenesis	1	0.000277
+Non-syndromic deafness	1	0.000277
+Nuclease	1	0.000277
+Obesity	1	0.000277
+Osteogenesis	1	0.000277
+Palmitate	1	0.000277
+Peroxisome	1	0.000277
+Pharmaceutical	1	0.000277
+Postsynaptic cell membrane	1	0.000277
+Potassium	1	0.000277
+Potassium channel	1	0.000277
+Potassium transport	1	0.000277
+Prion	1	0.000277
+Protease	1	0.000277
+Protease inhibitor	1	0.000277
+Proto-oncogene	1	0.000277
+RNA editing	1	0.000277
+Rotamase	1	0.000277
+Sarcoplasmic reticulum	1	0.000277
+Selenocysteine	1	0.000277
+Serine protease inhibitor	1	0.000277
+Spinocerebellar ataxia	1	0.000277
+Stress response	1	0.000277
+Synaptosome	1	0.000277
+Tissue remodeling	1	0.000277
+Translation regulation	1	0.000277
+Vasoactive	1	0.000277
+Voltage-gated channel	1	0.000277
+Wnt signaling pathway	1	0.000277
+mRNA capping	1	0.000277
+rRNA-binding	1	0.000277
+tRNA-binding	1	0.000277
+ATP synthesis	2	0.000555
+Acute phase	2	0.000555
+Angiogenesis	2	0.000555
+Biomineralization	2	0.000555
+Cell junction	2	0.000555
+Cell projection	2	0.000555
+Chaperone	2	0.000555
+Chromosomal rearrangement	2	0.000555
+Cytokine	2	0.000555
+Cytoskeleton	2	0.000555
+DNA condensation	2	0.000555
+Extracellular matrix	2	0.000555
+HDL	2	0.000555
+Immunity	2	0.000555
+LIM domain	2	0.000555
+Mental retardation	2	0.000555
+Neurotransmitter	2	0.000555
+Protein kinase inhibitor	2	0.000555
+Protein transport	2	0.000555
+Repressor	2	0.000555
+Retinitis pigmentosa	2	0.000555
+Spliceosome	2	0.000555
+Synapse	2	0.000555
+Ubl conjugation pathway	2	0.000555
+cGMP	2	0.000555
+mRNA splicing	2	0.000555
+Deafness	3	0.000832
+Diamond-Blackfan anemia	3	0.000832
+ERV	3	0.000832
+Fungicide	3	0.000832
+Ion transport	3	0.000832
+Mitosis	3	0.000832
+Receptor	3	0.000832
+Sensory transduction	3	0.000832
+Sulfation	3	0.000832
+Transposable element	3	0.000832
+Tumor suppressor	3	0.000832
+Vision	3	0.000832
+mRNA processing	3	0.000832
+mRNA transport	3	0.000832
+Amyloid	4	0.001109
+Cell division	4	0.001109
+Hydrolase	4	0.001109
+Mitochondrion outer membrane	4	0.001109
+Signal-anchor	4	0.001109
+Transcription regulation	4	0.001109
+Cytoplasmic vesicle	5	0.001387
+GPI-anchor	5	0.001387
+Golgi apparatus	5	0.001387
+Spermatogenesis	5	0.001387
+Transcription	5	0.001387
+Zinc-finger	5	0.001387
+Apoptosis	6	0.001664
+Cell cycle	6	0.001664
+Lipoprotein	6	0.001664
+Neuropeptide	7	0.001941
+RNA-binding	7	0.001941
+Amidation	8	0.002219
+Endoplasmic reticulum	8	0.002219
+Cadmium	9	0.002496
+Copper	9	0.002496
+Transit peptide	9	0.002496
+Differentiation	10	0.002773
+Ribosomal protein	10	0.002773
+Hormone	11	0.003050
+Ribonucleoprotein	11	0.003050
+Developmental protein	12	0.003328
+Electron transport	12	0.003328
+Metal-thiolate cluster	12	0.003328
+Respiratory chain	12	0.003328
+Cell membrane	14	0.003882
+Coiled coil	14	0.003882
+Defensin	15	0.004160
+Disease mutation	15	0.004160
+Citrullination	17	0.004714
+Mitochondrion inner membrane	19	0.005269
+Cleavage on pair of basic residues	20	0.005546
+Keratinization	20	0.005546
+Zinc	20	0.005546
+Transport	21	0.005824
+Bence-Jones protein	22	0.006101
+Antibiotic	23	0.006378
+Antimicrobial	23	0.006378
+Metal-binding	24	0.006656
+Proteomics identification	24	0.006656
+Pyrrolidone carboxylic acid	25	0.006933
+Cytoplasm	27	0.007488
+Isopeptide bond	31	0.008597
+Methylation	33	0.009151
+Mitochondrion	35	0.009706
+Ubl conjugation	35	0.009706
+Keratin	39	0.010815
+Nucleosome core	39	0.010815
+Chromosome	42	0.011647
+DNA-binding	43	0.011925
+Glycoprotein	43	0.011925
+Repeat	44	0.012202
+Nucleus	65	0.018026
+Immunoglobulin V region	66	0.018303
+Immunoglobulin domain	68	0.018857
+3D-structure	70	0.019412
+Acetylation	73	0.020244
+Secreted	74	0.020521
+Disulfide bond	80	0.022185
+Phosphoprotein	80	0.022185
+Alternative splicing	82	0.022740
+Transmembrane	94	0.026068
+Transmembrane helix	94	0.026068
+Membrane	105	0.029118
+Direct protein sequencing	121	0.033555
+Signal	125	0.034664
+Polymorphism	147	0.040765
+Complete proteome	571	0.158347
+Reference proteome	571	0.158347
