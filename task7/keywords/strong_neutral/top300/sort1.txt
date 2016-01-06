@@ -1,0 +1,161 @@
+ATP-binding	1	0.000429
+Alzheimer disease	1	0.000429
+Amidation	1	0.000429
+Antibiotic	1	0.000429
+Antimicrobial	1	0.000429
+Atherosclerosis	1	0.000429
+Bardet-Biedl syndrome	1	0.000429
+Basement membrane	1	0.000429
+Chaperone	1	0.000429
+Cholesterol metabolism	1	0.000429
+Chylomicron	1	0.000429
+Cleavage on pair of basic residues	1	0.000429
+DNA repair	1	0.000429
+DNA replication	1	0.000429
+Epilepsy	1	0.000429
+Exocytosis	1	0.000429
+Flagellum	1	0.000429
+Gap junction	1	0.000429
+Glycation	1	0.000429
+Growth factor	1	0.000429
+Growth regulation	1	0.000429
+Host-virus interaction	1	0.000429
+Hyaluronic acid	1	0.000429
+Ichthyosis	1	0.000429
+Immunity	1	0.000429
+Inflammatory response	1	0.000429
+Intermediate filament	1	0.000429
+LDL	1	0.000429
+Leucine-rich repeat	1	0.000429
+Ligase	1	0.000429
+Lipid metabolism	1	0.000429
+Lipid transport	1	0.000429
+Lipid-binding	1	0.000429
+Myofibrillar myopathy	1	0.000429
+Non-syndromic deafness	1	0.000429
+Nonsense-mediated mRNA decay	1	0.000429
+Nuclear pore complex	1	0.000429
+Nucleotide-binding	1	0.000429
+Obesity	1	0.000429
+Olfaction	1	0.000429
+Palmoplantar keratoderma	1	0.000429
+Parkinsonism	1	0.000429
+Prenylation	1	0.000429
+Protease inhibitor	1	0.000429
+Receptor	1	0.000429
+SH3-binding	1	0.000429
+Senior-Loken syndrome	1	0.000429
+Sensory transduction	1	0.000429
+Sexual differentiation	1	0.000429
+Sialic acid	1	0.000429
+Spinocerebellar ataxia	1	0.000429
+Steroid metabolism	1	0.000429
+Sterol metabolism	1	0.000429
+Stress response	1	0.000429
+Synaptosome	1	0.000429
+Thiol protease inhibitor	1	0.000429
+Translation regulation	1	0.000429
+Translocation	1	0.000429
+Triplet repeat expansion	1	0.000429
+Tumor antigen	1	0.000429
+Ubl conjugation pathway	1	0.000429
+VLDL	1	0.000429
+rRNA processing	1	0.000429
+ADP-ribosylation	2	0.000859
+Activator	2	0.000859
+DNA damage	2	0.000859
+Deafness	2	0.000859
+Endocytosis	2	0.000859
+Endoplasmic reticulum	2	0.000859
+Keratinization	2	0.000859
+Leber congenital amaurosis	2	0.000859
+Nephronophthisis	2	0.000859
+Primary ciliary dyskinesia	2	0.000859
+Signal-anchor	2	0.000859
+Spliceosome	2	0.000859
+Synapse	2	0.000859
+Tight junction	2	0.000859
+Biomineralization	3	0.001288
+Cardiomyopathy	3	0.001288
+Centromere	3	0.001288
+Dwarfism	3	0.001288
+Extracellular matrix	3	0.001288
+Kinetochore	3	0.001288
+Meiosis	3	0.001288
+Mental retardation	3	0.001288
+Methylation	3	0.001288
+Mitochondrion	3	0.001288
+Nemaline myopathy	3	0.001288
+Neurodegeneration	3	0.001288
+Neurogenesis	3	0.001288
+Primary microcephaly	3	0.001288
+Proto-oncogene	3	0.001288
+SH3 domain	3	0.001288
+Sarcoplasmic reticulum	3	0.001288
+Tumor suppressor	3	0.001288
+mRNA transport	3	0.001288
+Calmodulin-binding	4	0.001717
+Chromatin regulator	4	0.001717
+Ciliopathy	4	0.001717
+Citrullination	4	0.001717
+Cytoplasmic vesicle	4	0.001717
+Palmitate	4	0.001717
+Pyrrolidone carboxylic acid	4	0.001717
+Wnt signaling pathway	4	0.001717
+Apoptosis	5	0.002147
+Calcium	5	0.002147
+Disulfide bond	5	0.002147
+Endosome	5	0.002147
+Repressor	5	0.002147
+Spermatogenesis	5	0.002147
+Chromosome	6	0.002576
+Muscle protein	6	0.002576
+Cilium	7	0.003006
+Myristate	7	0.003006
+Zinc	7	0.003006
+Zinc-finger	7	0.003006
+Actin-binding	8	0.003435
+Cell junction	8	0.003435
+Chromosomal rearrangement	8	0.003435
+Cilium biogenesis/degradation	8	0.003435
+Mitosis	8	0.003435
+DNA-binding	9	0.003864
+Protein transport	9	0.003864
+Transmembrane	9	0.003864
+Transmembrane helix	9	0.003864
+Differentiation	10	0.004294
+Metal-binding	10	0.004294
+Microtubule	10	0.004294
+RNA-binding	10	0.004294
+mRNA splicing	10	0.004294
+Developmental protein	11	0.004723
+Secreted	11	0.004723
+mRNA processing	11	0.004723
+Lipoprotein	12	0.005152
+Cell division	13	0.005582
+Glycoprotein	13	0.005582
+Signal	13	0.005582
+Cell membrane	14	0.006011
+Cell cycle	15	0.006441
+Transcription	15	0.006441
+Transcription regulation	15	0.006441
+Transport	15	0.006441
+Cell projection	17	0.007299
+Disease mutation	17	0.007299
+Golgi apparatus	19	0.008158
+Isopeptide bond	22	0.009446
+Ubl conjugation	22	0.009446
+3D-structure	29	0.012452
+Direct protein sequencing	33	0.014169
+Repeat	36	0.015457
+Membrane	41	0.017604
+Acetylation	49	0.021039
+Cytoskeleton	54	0.023186
+Nucleus	63	0.027050
+Cytoplasm	97	0.041649
+Phosphoprotein	158	0.067840
+Alternative splicing	165	0.070846
+Coiled coil	185	0.079433
+Polymorphism	192	0.082439
+Complete proteome	298	0.127952
+Reference proteome	298	0.127952

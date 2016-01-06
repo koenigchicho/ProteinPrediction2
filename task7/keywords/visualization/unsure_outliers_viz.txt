@@ -1,0 +1,64 @@
+Aminopeptidase:1:8E987C
+Blood group antigen:1:8E987C
+Carbohydrate metabolism:1:8E987C
+EGF-like domain:1:8E987C
+FAD:1:8E987C
+Flavoprotein:1:8E987C
+G-protein coupled receptor:1:8E987C
+GTP-binding:1:8E987C
+Heme biosynthesis:1:8E987C
+Ichthyosis:1:8E987C
+Ion transport:1:8E987C
+Kinase:1:8E987C
+Lectin:1:8E987C
+Magnesium:1:8E987C
+Manganese:1:8E987C
+Microsome:1:8E987C
+Mitochondrion inner membrane:1:8E987C
+Mitochondrion outer membrane:1:8E987C
+Peroxisome:1:8E987C
+Porin:1:8E987C
+Porphyrin biosynthesis:1:8E987C
+Protein transport:1:8E987C
+Pyrrolidone carboxylic acid:1:8E987C
+Receptor:1:8E987C
+Repeat:1:8E987C
+Secreted:1:8E987C
+Sensory transduction:1:8E987C
+Taste:1:8E987C
+Transducer:1:8E987C
+Transferase:1:8E987C
+Transit peptide:1:8E987C
+Transmembrane beta strand:1:8E987C
+Zinc:1:8E987C
+Zymogen:1:8E987C
+Cell membrane:2:8E987C
+Cytoplasm:2:8E987C
+Disease mutation:2:8E987C
+Disulfide bond:2:8E987C
+Lipid transport:2:8E987C
+Metalloprotease:2:8E987C
+NADP:2:8E987C
+Phosphoprotein:2:8E987C
+Signal:2:8E987C
+Hydrolase:3:8E987C
+Metal-binding:3:8E987C
+Oxidoreductase:3:8E987C
+Protease:3:8E987C
+ATP-binding:4:8E987C
+Acetylation:4:8E987C
+Endoplasmic reticulum:4:8E987C
+Glycoprotein:4:8E987C
+Mitochondrion:4:8E987C
+Transport:4:8E987C
+3D-structure:5:8E987C
+Direct protein sequencing:5:000000
+Fatty acid metabolism:6:161413
+Ligase:6:2C2B22
+Lipid metabolism:6:3B422C
+Nucleotide-binding:7:3A5831
+Transmembrane helix:9:316E3D
+Polymorphism:10:2C8464
+Transmembrane:10:22919A
+Membrane:11:135FB0
+Alternative splicing:12:0009C7

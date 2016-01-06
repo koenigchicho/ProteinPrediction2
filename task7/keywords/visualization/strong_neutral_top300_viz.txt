@@ -1,0 +1,159 @@
+ATP-binding:1:8E987C
+Alzheimer disease:1:8E987C
+Amidation:1:8E987C
+Antibiotic:1:8E987C
+Antimicrobial:1:8E987C
+Atherosclerosis:1:8E987C
+Bardet-Biedl syndrome:1:8E987C
+Basement membrane:1:8E987C
+Chaperone:1:8E987C
+Cholesterol metabolism:1:8E987C
+Chylomicron:1:8E987C
+Cleavage on pair of basic residues:1:8E987C
+DNA repair:1:8E987C
+DNA replication:1:8E987C
+Epilepsy:1:8E987C
+Exocytosis:1:8E987C
+Flagellum:1:8E987C
+Gap junction:1:8E987C
+Glycation:1:8E987C
+Growth factor:1:8E987C
+Growth regulation:1:8E987C
+Host-virus interaction:1:8E987C
+Hyaluronic acid:1:8E987C
+Ichthyosis:1:8E987C
+Immunity:1:8E987C
+Inflammatory response:1:8E987C
+Intermediate filament:1:8E987C
+LDL:1:8E987C
+Leucine-rich repeat:1:8E987C
+Ligase:1:8E987C
+Lipid metabolism:1:8E987C
+Lipid transport:1:8E987C
+Lipid-binding:1:8E987C
+Myofibrillar myopathy:1:8E987C
+Non-syndromic deafness:1:8E987C
+Nonsense-mediated mRNA decay:1:8E987C
+Nuclear pore complex:1:8E987C
+Nucleotide-binding:1:8E987C
+Obesity:1:8E987C
+Olfaction:1:8E987C
+Palmoplantar keratoderma:1:8E987C
+Parkinsonism:1:8E987C
+Prenylation:1:8E987C
+Protease inhibitor:1:8E987C
+Receptor:1:8E987C
+SH3-binding:1:8E987C
+Senior-Loken syndrome:1:8E987C
+Sensory transduction:1:8E987C
+Sexual differentiation:1:8E987C
+Sialic acid:1:8E987C
+Spinocerebellar ataxia:1:8E987C
+Steroid metabolism:1:8E987C
+Sterol metabolism:1:8E987C
+Stress response:1:8E987C
+Synaptosome:1:8E987C
+Thiol protease inhibitor:1:8E987C
+Translation regulation:1:8E987C
+Translocation:1:8E987C
+Triplet repeat expansion:1:8E987C
+Tumor antigen:1:8E987C
+Ubl conjugation pathway:1:8E987C
+VLDL:1:8E987C
+rRNA processing:1:8E987C
+ADP-ribosylation:2:8E987C
+Activator:2:8E987C
+DNA damage:2:8E987C
+Deafness:2:8E987C
+Endocytosis:2:8E987C
+Endoplasmic reticulum:2:8E987C
+Keratinization:2:8E987C
+Leber congenital amaurosis:2:8E987C
+Nephronophthisis:2:8E987C
+Primary ciliary dyskinesia:2:8E987C
+Signal-anchor:2:8E987C
+Spliceosome:2:8E987C
+Synapse:2:8E987C
+Tight junction:2:8E987C
+Biomineralization:3:8E987C
+Cardiomyopathy:3:8E987C
+Centromere:3:8E987C
+Dwarfism:3:8E987C
+Extracellular matrix:3:8E987C
+Kinetochore:3:8E987C
+Meiosis:3:8E987C
+Mental retardation:3:8E987C
+Methylation:3:8E987C
+Mitochondrion:3:8E987C
+Nemaline myopathy:3:8E987C
+Neurodegeneration:3:8E987C
+Neurogenesis:3:8E987C
+Primary microcephaly:3:8E987C
+Proto-oncogene:3:8E987C
+SH3 domain:3:8E987C
+Sarcoplasmic reticulum:3:8E987C
+Tumor suppressor:3:8E987C
+mRNA transport:3:8E987C
+Calmodulin-binding:4:8E987C
+Chromatin regulator:4:8E987C
+Ciliopathy:4:8E987C
+Citrullination:4:8E987C
+Cytoplasmic vesicle:4:8E987C
+Palmitate:4:8E987C
+Pyrrolidone carboxylic acid:4:8E987C
+Wnt signaling pathway:4:8E987C
+Apoptosis:5:8E987C
+Calcium:5:8E987C
+Disulfide bond:5:8E987C
+Endosome:5:8E987C
+Repressor:5:8E987C
+Spermatogenesis:5:8E987C
+Chromosome:6:8E987C
+Muscle protein:6:8E987C
+Cilium:7:8E987C
+Myristate:7:8E987C
+Zinc:7:8E987C
+Zinc-finger:7:8E987C
+Actin-binding:8:8E987C
+Cell junction:8:8E987C
+Chromosomal rearrangement:8:8E987C
+Cilium biogenesis/degradation:8:8E987C
+Mitosis:8:8E987C
+DNA-binding:9:8E987C
+Protein transport:9:8E987C
+Transmembrane:9:8E987C
+Transmembrane helix:9:8E987C
+Differentiation:10:8E987C
+Metal-binding:10:8E987C
+Microtubule:10:8E987C
+RNA-binding:10:8E987C
+mRNA splicing:10:8E987C
+Developmental protein:11:8E987C
+Secreted:11:8E987C
+mRNA processing:11:8E987C
+Lipoprotein:12:8E987C
+Cell division:13:8E987C
+Glycoprotein:13:8E987C
+Signal:13:8E987C
+Cell membrane:14:8E987C
+Cell cycle:15:8E987C
+Transcription:15:8E987C
+Transcription regulation:15:8E987C
+Transport:15:8E987C
+Cell projection:17:8E987C
+Disease mutation:17:8E987C
+Golgi apparatus:19:8E987C
+Isopeptide bond:22:8E987C
+Ubl conjugation:22:8E987C
+3D-structure:29:8E987C
+Direct protein sequencing:33:8E987C
+Repeat:36:000000
+Membrane:41:161413
+Acetylation:49:2C2622
+Cytoskeleton:54:42392C
+Nucleus:63:585131
+Cytoplasm:97:6D6E31
+Phosphoprotein:158:71842C
+Alternative splicing:165:689A22
+Coiled coil:185:4FB013
+Polymorphism:192:22C700

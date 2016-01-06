@@ -1,0 +1,321 @@
+ADP-ribosylation:1:8E987C
+Actin-binding:1:8E987C
+Activator:1:8E987C
+Alport syndrome:1:8E987C
+Alzheimer disease:1:8E987C
+Amyloidosis:1:8E987C
+Amyotrophic lateral sclerosis:1:8E987C
+Antimicrobial:1:8E987C
+Autism:1:8E987C
+Autism spectrum disorder:1:8E987C
+Bartter syndrome:1:8E987C
+Branched-chain amino acid catabolism:1:8E987C
+Calmodulin-binding:1:8E987C
+Carboxypeptidase:1:8E987C
+Cell adhesion:1:8E987C
+Cell junction:1:8E987C
+Chemotaxis:1:8E987C
+Chromosome:1:8E987C
+Ciliopathy:1:8E987C
+Cilium:1:8E987C
+Cilium biogenesis/degradation:1:8E987C
+Cobalt:1:8E987C
+Coenzyme A biosynthesis:1:8E987C
+Collagen degradation:1:8E987C
+DNA replication:1:8E987C
+Diabetes mellitus:1:8E987C
+Dystonia:1:8E987C
+EGF-like domain:1:8E987C
+Elliptocytosis:1:8E987C
+Elongation factor:1:8E987C
+Emery-Dreifuss muscular dystrophy:1:8E987C
+Endosome:1:8E987C
+Extracellular matrix:1:8E987C
+Flagellum:1:8E987C
+Folate-binding:1:8E987C
+GMP biosynthesis:1:8E987C
+Galactose metabolism:1:8E987C
+Gangliosidosis:1:8E987C
+Gaucher disease:1:8E987C
+Gluconeogenesis:1:8E987C
+Glycogen biosynthesis:1:8E987C
+Growth factor:1:8E987C
+Guanine-nucleotide releasing factor:1:8E987C
+Helicase:1:8E987C
+Hemolytic uremic syndrome:1:8E987C
+Heparin-binding:1:8E987C
+Hereditary spastic paraplegia:1:8E987C
+Hydroxylation:1:8E987C
+Inflammatory response:1:8E987C
+Intrahepatic cholestasis:1:8E987C
+Isoprene biosynthesis:1:8E987C
+Leber congenital amaurosis:1:8E987C
+Lipid-binding:1:8E987C
+Maple syrup urine disease:1:8E987C
+Meiosis:1:8E987C
+Melatonin biosynthesis:1:8E987C
+Methionine biosynthesis:1:8E987C
+Nephronophthisis:1:8E987C
+Neurogenesis:1:8E987C
+Non-syndromic deafness:1:8E987C
+Obesity:1:8E987C
+Palmitate:1:8E987C
+Palmoplantar keratoderma:1:8E987C
+Parkinson disease:1:8E987C
+Parkinsonism:1:8E987C
+Peptide transport:1:8E987C
+Peroxisome biogenesis:1:8E987C
+Peroxisome biogenesis disorder:1:8E987C
+Pharmaceutical:1:8E987C
+Phosphopantetheine:1:8E987C
+Pontocerebellar hypoplasia:1:8E987C
+Postsynaptic cell membrane:1:8E987C
+Premature ovarian failure:1:8E987C
+Prenylation:1:8E987C
+Proline metabolism:1:8E987C
+Prostaglandin metabolism:1:8E987C
+Protease inhibitor:1:8E987C
+Protein phosphatase:1:8E987C
+Pseudohermaphroditism:1:8E987C
+Purine salvage:1:8E987C
+Pyrrolidone carboxylic acid:1:8E987C
+Quinone:1:8E987C
+Receptor:1:8E987C
+Respiratory chain:1:8E987C
+Retinitis pigmentosa:1:8E987C
+Ribosomal protein:1:8E987C
+SH3 domain:1:8E987C
+Serine biosynthesis:1:8E987C
+Serine protease inhibitor:1:8E987C
+Sialic acid:1:8E987C
+Steroid-binding:1:8E987C
+Synapse:1:8E987C
+Tryptophan catabolism:1:8E987C
+Xylose metabolism:1:8E987C
+ANK repeat:2:8E987C
+Adaptive immunity:2:8E987C
+Angiogenesis:2:8E987C
+Antiviral defense:2:8E987C
+Arginine metabolism:2:8E987C
+Aromatic hydrocarbons catabolism:2:8E987C
+Asparagine biosynthesis:2:8E987C
+Autophagy:2:8E987C
+Biological rhythms:2:8E987C
+Biotin:2:8E987C
+Branched-chain amino acid biosynthesis:2:8E987C
+Calcium transport:2:8E987C
+Carnitine biosynthesis:2:8E987C
+Cell division:2:8E987C
+Congenital adrenal hyperplasia:2:8E987C
+Congenital muscular dystrophy:2:8E987C
+Congenital myasthenic syndrome:2:8E987C
+Cytokine:2:8E987C
+Cytoplasmic vesicle:2:8E987C
+Detoxification:2:8E987C
+Dystroglycanopathy:2:8E987C
+Exosome:2:8E987C
+Glutaricaciduria:2:8E987C
+Glycogen storage disease:2:8E987C
+Initiation factor:2:8E987C
+Innate immunity:2:8E987C
+Lectin:2:8E987C
+Leigh syndrome:2:8E987C
+Leukotriene biosynthesis:2:8E987C
+Limb-girdle muscular dystrophy:2:8E987C
+Lissencephaly:2:8E987C
+Lithium:2:8E987C
+Mitosis:2:8E987C
+Nucleotide metabolism:2:8E987C
+One-carbon metabolism:2:8E987C
+Phenylalanine catabolism:2:8E987C
+Progressive external ophthalmoplegia:2:8E987C
+Pyrimidine biosynthesis:2:8E987C
+Rhizomelic chondrodysplasia punctata:2:8E987C
+Ribonucleoprotein:2:8E987C
+S-nitrosylation:2:8E987C
+Selenium:2:8E987C
+Sensory transduction:2:8E987C
+Serine esterase:2:8E987C
+Serine protease:2:8E987C
+Serine/threonine-protein kinase:2:8E987C
+Spermidine biosynthesis:2:8E987C
+Thiamine pyrophosphate:2:8E987C
+Tricarboxylic acid cycle:2:8E987C
+Tumor suppressor:2:8E987C
+Tyrosine catabolism:2:8E987C
+Ubiquinone biosynthesis:2:8E987C
+Ubl conjugation pathway:2:8E987C
+Urea cycle:2:8E987C
+Vision:2:8E987C
+Williams-Beuren syndrome:2:8E987C
+cGMP biosynthesis:2:8E987C
+rRNA-binding:2:8E987C
+2Fe-2S:3:8E987C
+4Fe-4S:3:8E987C
+Alternative promoter usage:3:8E987C
+Autocatalytic cleavage:3:8E987C
+Cell cycle:3:8E987C
+DNA repair:3:8E987C
+Dwarfism:3:8E987C
+Endonuclease:3:8E987C
+Epilepsy:3:8E987C
+Exonuclease:3:8E987C
+FMN:3:8E987C
+Glucose metabolism:3:8E987C
+Glutathione biosynthesis:3:8E987C
+Hereditary hemolytic anemia:3:8E987C
+Histidine metabolism:3:8E987C
+Ion channel:3:8E987C
+Isopeptide bond:3:8E987C
+Lipid degradation:3:8E987C
+Lipid transport:3:8E987C
+Molybdenum:3:8E987C
+Molybdenum cofactor biosynthesis:3:8E987C
+Myristate:3:8E987C
+Phospholipid biosynthesis:3:8E987C
+Phospholipid metabolism:3:8E987C
+Potassium transport:3:8E987C
+Schiff base:3:8E987C
+Spermatogenesis:3:8E987C
+Voltage-gated channel:3:8E987C
+Zinc-finger:3:8E987C
+Charcot-Marie-Tooth disease:4:8E987C
+Chromosomal rearrangement:4:8E987C
+Congenital disorder of glycosylation:4:8E987C
+DNA damage:4:8E987C
+DNA-binding:4:8E987C
+Dipeptidase:4:8E987C
+Heme biosynthesis:4:8E987C
+Host-virus interaction:4:8E987C
+Ichthyosis:4:8E987C
+Immunity:4:8E987C
+Leukodystrophy:4:8E987C
+Methylation:4:8E987C
+Mucopolysaccharidosis:4:8E987C
+Nitration:4:8E987C
+Porphyrin biosynthesis:4:8E987C
+Protein transport:4:8E987C
+Proto-oncogene:4:8E987C
+Pyruvate:4:8E987C
+Repressor:4:8E987C
+Ribosome biogenesis:4:8E987C
+Selenocysteine:4:8E987C
+Steroidogenesis:4:8E987C
+WD repeat:4:8E987C
+rRNA processing:4:8E987C
+tRNA-binding:4:8E987C
+Allosteric enzyme:5:8E987C
+Apoptosis:5:8E987C
+Chromatin regulator:5:8E987C
+Cytoskeleton:5:8E987C
+Dioxygenase:5:8E987C
+Glycolysis:5:8E987C
+Ion transport:5:8E987C
+Neuropathy:5:8E987C
+Polyamine biosynthesis:5:8E987C
+Potassium:5:8E987C
+Sphingolipid metabolism:5:8E987C
+TPR repeat:5:8E987C
+Alternative initiation:6:8E987C
+Amino-acid biosynthesis:6:8E987C
+Cell projection:6:8E987C
+Cholesterol biosynthesis:6:8E987C
+Coiled coil:6:8E987C
+Decarboxylase:6:8E987C
+Electron transport:6:8E987C
+Fatty acid biosynthesis:6:8E987C
+GPI-anchor:6:8E987C
+Heme:6:8E987C
+Iron-sulfur:6:8E987C
+Monooxygenase:6:8E987C
+Nuclease:6:8E987C
+Purine biosynthesis:6:8E987C
+Pyridine nucleotide biosynthesis:6:8E987C
+Redox-active center:6:8E987C
+Calcium:7:8E987C
+Cardiomyopathy:7:8E987C
+Developmental protein:7:8E987C
+Differentiation:7:8E987C
+Glutamine amidotransferase:7:8E987C
+Nucleotidyltransferase:7:8E987C
+Sterol biosynthesis:7:8E987C
+Zymogen:7:8E987C
+Acyltransferase:8:8E987C
+Cataract:8:8E987C
+Cholesterol metabolism:8:8E987C
+Transcription:8:8E987C
+Transcription regulation:8:8E987C
+Deafness:9:8E987C
+Lysosome:9:8E987C
+Mental retardation:9:8E987C
+Mitochondrion outer membrane:9:8E987C
+Sterol metabolism:9:8E987C
+Aminoacyl-tRNA synthetase:11:8E987C
+Aminotransferase:11:8E987C
+Lipoprotein:11:8E987C
+Neurodegeneration:11:8E987C
+Ubl conjugation:11:8E987C
+GTP-binding:12:8E987C
+Golgi apparatus:12:8E987C
+Mitochondrion inner membrane:12:8E987C
+Steroid biosynthesis:12:8E987C
+Steroid metabolism:12:8E987C
+Aminopeptidase:13:8E987C
+Carbohydrate metabolism:13:8E987C
+tRNA processing:14:8E987C
+Cell membrane:15:8E987C
+Glycosidase:15:8E987C
+Isomerase:16:8E987C
+Microsome:16:8E987C
+RNA-binding:16:8E987C
+Glycosyltransferase:17:8E987C
+Iron:17:8E987C
+Metalloprotease:17:8E987C
+Protein biosynthesis:17:8E987C
+Pyridoxal phosphate:18:8E987C
+Manganese:19:8E987C
+Multifunctional enzyme:19:8E987C
+Methyltransferase:20:8E987C
+S-adenosyl-L-methionine:21:8E987C
+Secreted:22:8E987C
+Transport:23:8E987C
+Lipid biosynthesis:24:8E987C
+Kinase:26:8E987C
+Peroxisome:26:8E987C
+Protease:26:8E987C
+Signal-anchor:26:8E987C
+Repeat:27:8E987C
+Disulfide bond:29:8E987C
+Lyase:32:8E987C
+Nucleus:36:8E987C
+FAD:41:8E987C
+Flavoprotein:42:8E987C
+Zinc:43:8E987C
+Fatty acid metabolism:44:8E987C
+NAD:52:8E987C
+Signal:53:8E987C
+Magnesium:54:8E987C
+Endoplasmic reticulum:55:8E987C
+Glycoprotein:55:8E987C
+Ligase:55:8E987C
+NADP:55:8E987C
+Lipid metabolism:74:8E987C
+Transmembrane:83:8E987C
+Transmembrane helix:83:8E987C
+Transit peptide:90:8E987C
+ATP-binding:94:8E987C
+Direct protein sequencing:102:8E987C
+Hydrolase:106:8E987C
+Nucleotide-binding:108:8E987C
+Transferase:111:8E987C
+Mitochondrion:117:8E987C
+Metal-binding:120:000000
+Membrane:122:161413
+Cytoplasm:124:2C2B22
+Disease mutation:126:3B422C
+Oxidoreductase:131:3A5831
+Phosphoprotein:157:316E3D
+Acetylation:160:2C8464
+3D-structure:180:22919A
+Alternative splicing:318:135FB0
+Polymorphism:332:0009C7
