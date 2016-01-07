@@ -1,0 +1,77 @@
+Age-related macular degeneration:1:8E987C
+Aminoacyl-tRNA synthetase:1:8E987C
+Apoptosis:1:8E987C
+Chromosomal rearrangement:1:8E987C
+Citrullination:1:8E987C
+Cyclosporin:1:8E987C
+Cytoplasmic vesicle:1:8E987C
+Cytoskeleton:1:8E987C
+DNA condensation:1:8E987C
+Deafness:1:8E987C
+Developmental protein:1:8E987C
+Diamond-Blackfan anemia:1:8E987C
+Differentiation:1:8E987C
+Disulfide bond:1:8E987C
+Dynein:1:8E987C
+ER-Golgi transport:1:8E987C
+Golgi apparatus:1:8E987C
+Hormone:1:8E987C
+Host-virus interaction:1:8E987C
+Initiation factor:1:8E987C
+Isomerase:1:8E987C
+Kinase:1:8E987C
+Ligase:1:8E987C
+Lipid-binding:1:8E987C
+Lyase:1:8E987C
+Microtubule:1:8E987C
+Mitochondrion:1:8E987C
+Motor protein:1:8E987C
+Neuropathy:1:8E987C
+Protein transport:1:8E987C
+RNA editing:1:8E987C
+RNA-binding:1:8E987C
+Retinitis pigmentosa:1:8E987C
+Rotamase:1:8E987C
+Serine/threonine-protein kinase:1:8E987C
+Spermatogenesis:1:8E987C
+Stress response:1:8E987C
+Transferase:1:8E987C
+Translation regulation:1:8E987C
+Usher syndrome:1:8E987C
+WD repeat:1:8E987C
+ATP-binding:2:8E987C
+Chromosome:2:8E987C
+Keratinization:2:8E987C
+Methylation:2:8E987C
+Nucleosome core:2:8E987C
+Nucleotide-binding:2:8E987C
+Protein biosynthesis:2:8E987C
+Transcription:2:8E987C
+Transcription regulation:2:8E987C
+Disease mutation:3:8E987C
+Glycoprotein:3:8E987C
+Transport:3:8E987C
+Ubl conjugation pathway:3:8E987C
+Zinc-finger:3:8E987C
+DNA-binding:4:8E987C
+Isopeptide bond:5:8E987C
+Metal-binding:5:8E987C
+Transmembrane:5:8E987C
+Transmembrane helix:5:8E987C
+Zinc:5:8E987C
+Membrane:6:8E987C
+Signal:6:8E987C
+Ubl conjugation:7:8E987C
+Alternative splicing:8:8E987C
+Keratin:8:8E987C
+Ribonucleoprotein:8:8E987C
+Ribosomal protein:8:000000
+Nucleus:9:1B1A18
+Secreted:9:33372C
+Acetylation:11:3A523A
+Direct protein sequencing:11:426E5E
+Repeat:11:457689
+Phosphoprotein:12:4348A5
+Cytoplasm:14:8B3BC0
+3D-structure:18:DC2DAE
+Polymorphism:39:F81B2D
