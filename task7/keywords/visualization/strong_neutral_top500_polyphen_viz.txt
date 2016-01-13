@@ -1,0 +1,250 @@
+Actin-binding:1:8E987C
+Age-related macular degeneration:1:8E987C
+Alternative initiation:1:8E987C
+Alternative promoter usage:1:8E987C
+Aminopeptidase:1:8E987C
+Asthma:1:8E987C
+Autocatalytic cleavage:1:8E987C
+Autophagy:1:8E987C
+Bait region:1:8E987C
+Basement membrane:1:8E987C
+Biological rhythms:1:8E987C
+Carbohydrate metabolism:1:8E987C
+Cataract:1:8E987C
+Chloride:1:8E987C
+Chloride channel:1:8E987C
+Ciliopathy:1:8E987C
+Cilium biogenesis/degradation:1:8E987C
+Complement pathway:1:8E987C
+Congenital dyserythropoietic anemia:1:8E987C
+Cyclin:1:8E987C
+DNA replication inhibitor:1:8E987C
+DNA-directed DNA polymerase:1:8E987C
+Deafness:1:8E987C
+Diamond-Blackfan anemia:1:8E987C
+Endocytosis:1:8E987C
+Endosome:1:8E987C
+Extracellular matrix:1:8E987C
+FAD:1:8E987C
+Fanconi anemia:1:8E987C
+Fatty acid biosynthesis:1:8E987C
+Fatty acid metabolism:1:8E987C
+Fertilization:1:8E987C
+Flavoprotein:1:8E987C
+GTPase activation:1:8E987C
+Gastrulation:1:8E987C
+Glycation:1:8E987C
+Glycogen metabolism:1:8E987C
+Guanine-nucleotide releasing factor:1:8E987C
+Heparin-binding:1:8E987C
+Hereditary nonpolyposis colorectal cancer:1:8E987C
+Heterotaxy:1:8E987C
+Host cell receptor for virus entry:1:8E987C
+Hypotrichosis:1:8E987C
+Isomerase:1:8E987C
+Kringle:1:8E987C
+LIM domain:1:8E987C
+Leukodystrophy:1:8E987C
+Lipid biosynthesis:1:8E987C
+Lipid-binding:1:8E987C
+Lysosome:1:8E987C
+Manganese:1:8E987C
+Metalloprotease:1:8E987C
+Milk protein:1:8E987C
+NADP:1:8E987C
+Neurodegeneration:1:8E987C
+Neurogenesis:1:8E987C
+Neuropeptide:1:8E987C
+Non-syndromic deafness:1:8E987C
+Nuclear pore complex:1:8E987C
+Nucleotidyltransferase:1:8E987C
+Obesity:1:8E987C
+Olfaction:1:8E987C
+Parkinson disease:1:8E987C
+Parkinsonism:1:8E987C
+Peroxisome biogenesis disorder:1:8E987C
+Phospholipid metabolism:1:8E987C
+Plasminogen activation:1:8E987C
+Postsynaptic cell membrane:1:8E987C
+Potassium channel:1:8E987C
+Protein kinase inhibitor:1:8E987C
+Rhizomelic chondrodysplasia punctata:1:8E987C
+SH2 domain:1:8E987C
+Sialic acid:1:8E987C
+Sodium channel:1:8E987C
+Sodium/potassium transport:1:8E987C
+Sphingolipid metabolism:1:8E987C
+Sulfation:1:8E987C
+Telomere:1:8E987C
+Thiol protease:1:8E987C
+Topoisomerase:1:8E987C
+Transcription termination:1:8E987C
+Translocation:1:8E987C
+Tumor antigen:1:8E987C
+Vasoactive:1:8E987C
+Voltage-gated channel:1:8E987C
+Zellweger syndrome:1:8E987C
+rRNA processing:1:8E987C
+tRNA processing:1:8E987C
+Amidation:2:8E987C
+Biomineralization:2:8E987C
+Calmodulin-binding:2:8E987C
+Chaperone:2:8E987C
+Chemotaxis:2:8E987C
+Chromosome partition:2:8E987C
+Citrullination:2:8E987C
+DNA recombination:2:8E987C
+DNA replication:2:8E987C
+Dynein:2:8E987C
+Endonuclease:2:8E987C
+Exonuclease:2:8E987C
+Fibrinolysis:2:8E987C
+G-protein coupled receptor:2:8E987C
+GTP-binding:2:8E987C
+Growth factor:2:8E987C
+Hereditary hemolytic anemia:2:8E987C
+Initiation factor:2:8E987C
+Keratinization:2:8E987C
+Laminin EGF-like domain:2:8E987C
+Lectin:2:8E987C
+Mental retardation:2:8E987C
+Methylation:2:8E987C
+Mitochondrion inner membrane:2:8E987C
+Multifunctional enzyme:2:8E987C
+Myristate:2:8E987C
+Pharmaceutical:2:8E987C
+Potassium:2:8E987C
+Potassium transport:2:8E987C
+Premature ovarian failure:2:8E987C
+Proto-oncogene:2:8E987C
+RNA-mediated gene silencing:2:8E987C
+SH3 domain:2:8E987C
+Serine esterase:2:8E987C
+Serine protease:2:8E987C
+Sodium:2:8E987C
+Sodium transport:2:8E987C
+Synapse:2:8E987C
+Thioester bond:2:8E987C
+Transducer:2:8E987C
+Vision:2:8E987C
+Zymogen:2:8E987C
+mRNA transport:2:8E987C
+Antiviral defense:3:8E987C
+Blood coagulation:3:8E987C
+Chromatin regulator:3:8E987C
+Dwarfism:3:8E987C
+Endoplasmic reticulum:3:8E987C
+Fungicide:3:8E987C
+Golgi apparatus:3:8E987C
+Helicase:3:8E987C
+Hemostasis:3:8E987C
+Lipid metabolism:3:8E987C
+Methyltransferase:3:8E987C
+Motor protein:3:8E987C
+Oogenesis:3:8E987C
+Oxidoreductase:3:8E987C
+Peroxisome:3:8E987C
+Protein biosynthesis:3:8E987C
+Retinitis pigmentosa:3:8E987C
+Ribosome biogenesis:3:8E987C
+S-adenosyl-L-methionine:3:8E987C
+Sensory transduction:3:8E987C
+Serine/threonine-protein kinase:3:8E987C
+TPR repeat:3:8E987C
+Adaptive immunity:4:8E987C
+Cell division:4:8E987C
+Centromere:4:8E987C
+Cytokine:4:8E987C
+Cytoplasmic vesicle:4:8E987C
+Host-virus interaction:4:8E987C
+Inflammatory response:4:8E987C
+Innate immunity:4:8E987C
+Meiosis:4:8E987C
+Mitosis:4:8E987C
+Nuclease:4:8E987C
+Pyrrolidone carboxylic acid:4:8E987C
+Spermatogenesis:4:8E987C
+Translation regulation:4:8E987C
+Acyltransferase:5:8E987C
+Cell junction:5:8E987C
+Cilium:5:8E987C
+EGF-like domain:5:8E987C
+GPI-anchor:5:8E987C
+Hormone:5:8E987C
+Kinase:5:8E987C
+Palmitate:5:8E987C
+Protease:5:8E987C
+Serine protease inhibitor:5:8E987C
+Transit peptide:5:8E987C
+Tumor suppressor:5:8E987C
+Cell adhesion:6:8E987C
+Ion channel:6:8E987C
+Microtubule:6:8E987C
+Protease inhibitor:6:8E987C
+Chromosome:7:8E987C
+Ion transport:7:8E987C
+Protein transport:7:8E987C
+Ribonucleoprotein:7:8E987C
+Ribosomal protein:7:8E987C
+WD repeat:7:8E987C
+ANK repeat:8:8E987C
+Calcium:8:8E987C
+Cell projection:8:8E987C
+Immunoglobulin domain:8:8E987C
+Ligase:8:8E987C
+Magnesium:8:8E987C
+RNA-binding:8:8E987C
+DNA damage:9:8E987C
+DNA repair:9:8E987C
+Differentiation:9:8E987C
+Immunity:9:8E987C
+Signal-anchor:9:8E987C
+Ubl conjugation pathway:9:8E987C
+Activator:10:8E987C
+Cleavage on pair of basic residues:10:8E987C
+Keratin:10:8E987C
+Lipoprotein:10:8E987C
+Cell cycle:11:8E987C
+Mitochondrion:11:8E987C
+Repressor:11:8E987C
+Cytoskeleton:12:8E987C
+Defensin:12:8E987C
+Apoptosis:13:8E987C
+Developmental protein:13:8E987C
+Leucine-rich repeat:13:8E987C
+Homeobox:14:8E987C
+Receptor:15:8E987C
+Transferase:15:8E987C
+ATP-binding:16:8E987C
+Antibiotic:16:8E987C
+Antimicrobial:16:8E987C
+Transport:16:8E987C
+Nucleotide-binding:18:8E987C
+Isopeptide bond:19:8E987C
+Hydrolase:20:8E987C
+Ubl conjugation:30:8E987C
+Disease mutation:32:8E987C
+Acetylation:34:8E987C
+Cell membrane:37:8E987C
+Coiled coil:40:8E987C
+Direct protein sequencing:43:8E987C
+Disulfide bond:58:8E987C
+Cytoplasm:62:8E987C
+Transmembrane:62:8E987C
+Transmembrane helix:62:8E987C
+Glycoprotein:67:8E987C
+3D-structure:69:8E987C
+Secreted:71:8E987C
+Membrane:83:8E987C
+Phosphoprotein:91:8E987C
+Signal:93:8E987C
+Zinc-finger:95:000000
+Zinc:99:161413
+Transcription:102:2C2622
+Transcription regulation:102:42392C
+DNA-binding:110:585131
+Metal-binding:110:6D6E31
+Nucleus:154:71842C
+Repeat:168:689A22
+Alternative splicing:183:4FB013
+Polymorphism:336:22C700

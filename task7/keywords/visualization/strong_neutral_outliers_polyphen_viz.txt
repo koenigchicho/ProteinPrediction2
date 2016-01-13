@@ -1,0 +1,120 @@
+Activator:1:8E987C
+Alternative promoter usage:1:8E987C
+Cell adhesion:1:8E987C
+Cell division:1:8E987C
+Cell junction:1:8E987C
+Cell projection:1:8E987C
+Centromere:1:8E987C
+Chaperone:1:8E987C
+Chemotaxis:1:8E987C
+Chromosome:1:8E987C
+Chromosome partition:1:8E987C
+Cilium:1:8E987C
+Cilium biogenesis/degradation:1:8E987C
+Developmental protein:1:8E987C
+Diamond-Blackfan anemia:1:8E987C
+EGF-like domain:1:8E987C
+Endoplasmic reticulum:1:8E987C
+Endosome:1:8E987C
+FAD:1:8E987C
+Flavoprotein:1:8E987C
+G-protein coupled receptor:1:8E987C
+Hereditary nonpolyposis colorectal cancer:1:8E987C
+Hormone:1:8E987C
+Host cell receptor for virus entry:1:8E987C
+Inflammatory response:1:8E987C
+Initiation factor:1:8E987C
+Ion transport:1:8E987C
+Isomerase:1:8E987C
+Keratin:1:8E987C
+Keratinization:1:8E987C
+Kinase:1:8E987C
+Leukodystrophy:1:8E987C
+Lipid-binding:1:8E987C
+Mental retardation:1:8E987C
+Microtubule:1:8E987C
+Mitochondrion:1:8E987C
+Mitosis:1:8E987C
+Motor protein:1:8E987C
+Multifunctional enzyme:1:8E987C
+Potassium:1:8E987C
+Potassium transport:1:8E987C
+Protease:1:8E987C
+Protease inhibitor:1:8E987C
+Protein biosynthesis:1:8E987C
+Protein transport:1:8E987C
+Proto-oncogene:1:8E987C
+Repressor:1:8E987C
+Retinitis pigmentosa:1:8E987C
+Ribosome biogenesis:1:8E987C
+SH2 domain:1:8E987C
+Sensory transduction:1:8E987C
+Serine protease inhibitor:1:8E987C
+Serine/threonine-protein kinase:1:8E987C
+Sialic acid:1:8E987C
+Sodium:1:8E987C
+Sodium transport:1:8E987C
+Sodium/potassium transport:1:8E987C
+Sulfation:1:8E987C
+Synapse:1:8E987C
+Thiol protease:1:8E987C
+Topoisomerase:1:8E987C
+Transducer:1:8E987C
+Transferase:1:8E987C
+Vision:1:8E987C
+WD repeat:1:8E987C
+Biomineralization:2:8E987C
+Calcium:2:8E987C
+Cell cycle:2:8E987C
+Cytoskeleton:2:8E987C
+DNA damage:2:8E987C
+DNA repair:2:8E987C
+Host-virus interaction:2:8E987C
+Leucine-rich repeat:2:8E987C
+Oxidoreductase:2:8E987C
+Pyrrolidone carboxylic acid:2:8E987C
+Tumor suppressor:2:8E987C
+Ubl conjugation pathway:2:8E987C
+Apoptosis:3:8E987C
+Fungicide:3:8E987C
+Hydrolase:3:8E987C
+Magnesium:3:8E987C
+Ribonucleoprotein:3:8E987C
+Ribosomal protein:3:8E987C
+Transport:3:8E987C
+ANK repeat:4:8E987C
+ATP-binding:4:8E987C
+Cleavage on pair of basic residues:4:8E987C
+Nucleotide-binding:4:8E987C
+Receptor:4:8E987C
+Cell membrane:5:8E987C
+Disease mutation:5:8E987C
+Coiled coil:6:8E987C
+Homeobox:6:8E987C
+Isopeptide bond:7:8E987C
+Ubl conjugation:7:8E987C
+Defensin:8:8E987C
+Acetylation:9:8E987C
+Cytoplasm:9:8E987C
+Glycoprotein:9:8E987C
+3D-structure:10:8E987C
+Transmembrane:10:8E987C
+Transmembrane helix:10:8E987C
+Antibiotic:11:8E987C
+Antimicrobial:11:8E987C
+Direct protein sequencing:11:8E987C
+Disulfide bond:14:8E987C
+Membrane:14:8E987C
+Zinc:16:8E987C
+Zinc-finger:16:8E987C
+Phosphoprotein:18:8E987C
+Secreted:19:000000
+Transcription:21:161413
+Transcription regulation:21:2C2622
+DNA-binding:22:42392C
+Metal-binding:22:585131
+Signal:23:6D6E31
+Alternative splicing:25:71842C
+Nucleus:30:689A22
+Repeat:34:4FB013
+Polymorphism:72:22C700

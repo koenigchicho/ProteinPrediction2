@@ -1,0 +1,161 @@
+ADP-ribosylation:1:8E987C
+Acyltransferase:1:8E987C
+Amidation:1:8E987C
+Amyotrophic lateral sclerosis:1:8E987C
+Antibiotic:1:8E987C
+Antimicrobial:1:8E987C
+Autoimmune encephalomyelitis:1:8E987C
+Autophagy:1:8E987C
+Blood group antigen:1:8E987C
+Calcium channel:1:8E987C
+Calcium transport:1:8E987C
+Carbohydrate metabolism:1:8E987C
+Chemotaxis:1:8E987C
+Chromatin regulator:1:8E987C
+Citrullination:1:8E987C
+Cone-rod dystrophy:1:8E987C
+Cytokine:1:8E987C
+DNA condensation:1:8E987C
+DNA synthesis:1:8E987C
+Deafness:1:8E987C
+Diabetes mellitus:1:8E987C
+Dwarfism:1:8E987C
+Dystonia:1:8E987C
+Flagellum:1:8E987C
+Glycogen metabolism:1:8E987C
+Growth factor:1:8E987C
+Growth regulation:1:8E987C
+Homeobox:1:8E987C
+Ion channel:1:8E987C
+Ion transport:1:8E987C
+LIM domain:1:8E987C
+Leucine-rich repeat:1:8E987C
+Ligand-gated ion channel:1:8E987C
+Ligase:1:8E987C
+Limb-girdle muscular dystrophy:1:8E987C
+Lipid droplet:1:8E987C
+Lissencephaly:1:8E987C
+Manganese:1:8E987C
+Meiosis:1:8E987C
+Mitochondrion:1:8E987C
+Myogenesis:1:8E987C
+Nemaline myopathy:1:8E987C
+Nephronophthisis:1:8E987C
+Nuclear pore complex:1:8E987C
+Nucleosome core:1:8E987C
+Nucleotide metabolism:1:8E987C
+Obesity:1:8E987C
+Prenylation:1:8E987C
+Primary ciliary dyskinesia:1:8E987C
+Protease:1:8E987C
+Protein phosphatase inhibitor:1:8E987C
+Protein transport:1:8E987C
+Ribonucleoprotein:1:8E987C
+Ribosomal protein:1:8E987C
+SCID:1:8E987C
+Sarcoplasmic reticulum:1:8E987C
+Schizophrenia:1:8E987C
+Serine protease:1:8E987C
+Serine/threonine-protein kinase:1:8E987C
+Spinocerebellar ataxia:1:8E987C
+Spliceosome:1:8E987C
+Transit peptide:1:8E987C
+Translation regulation:1:8E987C
+Translocation:1:8E987C
+Tumor suppressor:1:8E987C
+Wnt signaling pathway:1:8E987C
+mRNA transport:1:8E987C
+ANK repeat:2:8E987C
+Chromosome partition:2:8E987C
+Cilium:2:8E987C
+Cilium biogenesis/degradation:2:8E987C
+Cleavage on pair of basic residues:2:8E987C
+EGF-like domain:2:8E987C
+Endosome:2:8E987C
+Epidermolysis bullosa:2:8E987C
+Epilepsy:2:8E987C
+Extracellular matrix:2:8E987C
+GTP-binding:2:8E987C
+Hydrolase:2:8E987C
+Intermediate filament:2:8E987C
+Kinase:2:8E987C
+Magnesium:2:8E987C
+Mental retardation:2:8E987C
+Muscle protein:2:8E987C
+Neurodegeneration:2:8E987C
+Postsynaptic cell membrane:2:8E987C
+Primary microcephaly:2:8E987C
+RNA-binding:2:8E987C
+SH3 domain:2:8E987C
+Transferase:2:8E987C
+Ubl conjugation pathway:2:8E987C
+mRNA processing:2:8E987C
+mRNA splicing:2:8E987C
+ATP-binding:3:8E987C
+Actin-binding:3:8E987C
+Ciliopathy:3:8E987C
+Cytoplasmic vesicle:3:8E987C
+Endoplasmic reticulum:3:8E987C
+Myristate:3:8E987C
+Neurogenesis:3:8E987C
+Nucleotide-binding:3:8E987C
+Palmitate:3:8E987C
+Proto-oncogene:3:8E987C
+Pyrrolidone carboxylic acid:3:8E987C
+Receptor:3:8E987C
+Transport:3:8E987C
+Apoptosis:4:8E987C
+Immunoglobulin domain:4:8E987C
+Methylation:4:8E987C
+Spermatogenesis:4:8E987C
+Synapse:4:8E987C
+Calmodulin-binding:5:8E987C
+Cell adhesion:5:8E987C
+DNA repair:5:8E987C
+Calcium:6:8E987C
+Cell junction:6:8E987C
+Cell projection:6:8E987C
+DNA damage:6:8E987C
+Differentiation:6:8E987C
+Kinetochore:6:8E987C
+Microtubule:6:8E987C
+Repressor:6:8E987C
+Activator:7:8E987C
+Centromere:7:8E987C
+Keratin:7:8E987C
+Lipoprotein:7:8E987C
+Chromosomal rearrangement:8:8E987C
+DNA-binding:8:8E987C
+Developmental protein:9:8E987C
+Disulfide bond:9:8E987C
+Golgi apparatus:9:8E987C
+Mitosis:9:8E987C
+Cell division:10:8E987C
+Disease mutation:11:8E987C
+Isopeptide bond:11:8E987C
+Secreted:11:8E987C
+Zinc-finger:11:8E987C
+Chromosome:12:8E987C
+Cell cycle:13:8E987C
+Ubl conjugation:13:8E987C
+Zinc:13:8E987C
+Transcription:15:8E987C
+Transcription regulation:15:8E987C
+Cell membrane:17:8E987C
+Direct protein sequencing:17:8E987C
+Metal-binding:17:8E987C
+Signal:19:8E987C
+Glycoprotein:21:8E987C
+Transmembrane:21:8E987C
+Transmembrane helix:21:8E987C
+Cytoskeleton:23:8E987C
+3D-structure:27:000000
+Acetylation:27:161413
+Membrane:36:2C2B22
+Nucleus:39:3B422C
+Cytoplasm:41:3A5831
+Coiled coil:45:316E3D
+Repeat:48:2C8464
+Phosphoprotein:72:22919A
+Alternative splicing:95:135FB0
+Polymorphism:117:0009C7
